@@ -1,6 +1,652 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 05 11:33:44 +0000 2017",
+		"id": 927136846844518400,
+		"id_str": "927136846844518401",
+		"text": "RT @shadylady222: Help me Twitter...you’re my only hope (Star Wars reference tbere) @Team_English1 https://t.co/9ELTB52CAM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shadylady222",
+					"name": "Becky Wood",
+					"id": 20941506,
+					"id_str": "20941506",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "Team_English1",
+					"name": "Team English",
+					"id": 747843127474544600,
+					"id_str": "747843127474544640",
+					"indices": [
+						84,
+						98
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 927130288131592200,
+					"id_str": "927130288131592192",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DN3UFbyW0AAcbw_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DN3UFbyW0AAcbw_.jpg",
+					"url": "https://t.co/9ELTB52CAM",
+					"display_url": "pic.twitter.com/9ELTB52CAM",
+					"expanded_url": "https://twitter.com/shadylady222/status/927130293781319680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 744,
+							"h": 520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 744,
+							"h": 520,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 927130293781319700,
+					"source_status_id_str": "927130293781319680",
+					"source_user_id": 20941506,
+					"source_user_id_str": "20941506"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927130288131592200,
+					"id_str": "927130288131592192",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DN3UFbyW0AAcbw_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DN3UFbyW0AAcbw_.jpg",
+					"url": "https://t.co/9ELTB52CAM",
+					"display_url": "pic.twitter.com/9ELTB52CAM",
+					"expanded_url": "https://twitter.com/shadylady222/status/927130293781319680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 744,
+							"h": 520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 744,
+							"h": 520,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 927130293781319700,
+					"source_status_id_str": "927130293781319680",
+					"source_user_id": 20941506,
+					"source_user_id_str": "20941506"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3170,
+			"friends_count": 3664,
+			"listed_count": 213,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 358,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 05 11:07:41 +0000 2017",
+			"id": 927130293781319700,
+			"id_str": "927130293781319680",
+			"text": "Help me Twitter...you’re my only hope (Star Wars reference tbere) @Team_English1 https://t.co/9ELTB52CAM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Team_English1",
+						"name": "Team English",
+						"id": 747843127474544600,
+						"id_str": "747843127474544640",
+						"indices": [
+							66,
+							80
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 927130288131592200,
+						"id_str": "927130288131592192",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DN3UFbyW0AAcbw_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DN3UFbyW0AAcbw_.jpg",
+						"url": "https://t.co/9ELTB52CAM",
+						"display_url": "pic.twitter.com/9ELTB52CAM",
+						"expanded_url": "https://twitter.com/shadylady222/status/927130293781319680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 744,
+								"h": 520,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 744,
+								"h": 520,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 475,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 927130288131592200,
+						"id_str": "927130288131592192",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DN3UFbyW0AAcbw_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DN3UFbyW0AAcbw_.jpg",
+						"url": "https://t.co/9ELTB52CAM",
+						"display_url": "pic.twitter.com/9ELTB52CAM",
+						"expanded_url": "https://twitter.com/shadylady222/status/927130293781319680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 744,
+								"h": 520,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 744,
+								"h": 520,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 475,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20941506,
+				"id_str": "20941506",
+				"name": "Becky Wood",
+				"screen_name": "shadylady222",
+				"location": "In hiding. ",
+				"description": "English Teacher of the 'yoof' of today innit, or in other words, preparing my minions for world domination. Mentor to trainees. KS3 coordinator @Team_English1",
+				"url": "https://t.co/IkJCEDleyx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IkJCEDleyx",
+								"expanded_url": "https://justateacherstandinginfrontofaclass.wordpress.com/",
+								"display_url": "…standinginfrontofaclass.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6634,
+				"friends_count": 4012,
+				"listed_count": 82,
+				"created_at": "Sun Feb 15 22:03:50 +0000 2009",
+				"favourites_count": 36650,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33017,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870350161607872512/iw62Pg9e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870350161607872512/iw62Pg9e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20941506/1477132802",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "20a8ff1b92480026",
+				"url": "https://api.twitter.com/1.1/geo/id/20a8ff1b92480026.json",
+				"place_type": "city",
+				"name": "Peterborough",
+				"full_name": "Peterborough, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.3289135,
+								52.5354717
+							],
+							[
+								-0.202402,
+								52.5354717
+							],
+							[
+								-0.202402,
+								52.631065
+							],
+							[
+								-0.3289135,
+								52.631065
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 05 07:01:07 +0000 2017",
+		"id": 927068242639761400,
+		"id_str": "927068242639761409",
+		"text": "RT @Raphaelite_Girl: Isn’t this charming?!\n\nArtist, Christoph Niemann sketches a racing cyclist on his cab window.\n\nWatch him zoom through…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Raphaelite_Girl",
+					"name": "helen ayres",
+					"id": 14069721,
+					"id_str": "14069721",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3170,
+			"friends_count": 3664,
+			"listed_count": 213,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 358,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 04 10:13:36 +0000 2017",
+			"id": 926754294325489700,
+			"id_str": "926754294325489664",
+			"text": "Isn’t this charming?!\n\nArtist, Christoph Niemann sketches a racing cyclist on his cab window.\n\nWatch him zoom throu… https://t.co/wZc2WBRcwF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wZc2WBRcwF",
+						"expanded_url": "https://twitter.com/i/web/status/926754294325489664",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14069721,
+				"id_str": "14069721",
+				"name": "helen ayres",
+				"screen_name": "Raphaelite_Girl",
+				"location": "Tenterden, England",
+				"description": "Actress, Voiceover: BBC, ITV, Ch4, West End • Jewellery designer-maker @taffeta_punk • Stationery, Synth, Book, Cheese, & Gin Fetishist • Partial to witty smut",
+				"url": "https://t.co/GAV4Eunpag",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GAV4Eunpag",
+								"expanded_url": "http://www.helenayres.com",
+								"display_url": "helenayres.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4995,
+				"friends_count": 500,
+				"listed_count": 207,
+				"created_at": "Sun Mar 02 20:20:09 +0000 2008",
+				"favourites_count": 189568,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 181500,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0EF5DA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/668172718794260480/k0fZTQY1.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/668172718794260480/k0fZTQY1.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839527380884545536/KLguVlXS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839527380884545536/KLguVlXS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14069721/1509799788",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "0EB7E6",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "4a99070f5eacff91",
+				"url": "https://api.twitter.com/1.1/geo/id/4a99070f5eacff91.json",
+				"place_type": "city",
+				"name": "Tenterden",
+				"full_name": "Tenterden, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								0.664371,
+								51.064061
+							],
+							[
+								0.7143806,
+								51.064061
+							],
+							[
+								0.7143806,
+								51.0994474
+							],
+							[
+								0.664371,
+								51.0994474
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1619,
+			"favorite_count": 3399,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1619,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 04 20:08:51 +0000 2017",
 		"id": 926904094828191700,
 		"id_str": "926904094828191746",
