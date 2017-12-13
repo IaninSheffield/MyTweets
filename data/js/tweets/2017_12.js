@@ -1,6 +1,865 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 12 20:27:39 +0000 2017",
+		"id": 940679563448897500,
+		"id_str": "940679563448897537",
+		"text": "If you were drawing a curve to represent your pre- and post-Twitter learning, what would it look like? What are you… https://t.co/tV8WyN820Q",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tV8WyN820Q",
+					"expanded_url": "https://twitter.com/i/web/status/940679563448897537",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3184,
+			"friends_count": 3692,
+			"listed_count": 213,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 380,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 743893891003387900,
+		"quoted_status_id_str": "743893891003387909",
+		"quoted_status": {
+			"created_at": "Fri Jun 17 19:51:39 +0000 2016",
+			"id": 743893891003387900,
+			"id_str": "743893891003387909",
+			"text": "New #sketchnote: My Learning Curve Before and After Twitter cc @dougpete #edtech #edchat #PLN @zecool https://t.co/vcEWjN0Ybw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sketchnote",
+						"indices": [
+							4,
+							15
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							73,
+							80
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							81,
+							88
+						]
+					},
+					{
+						"text": "PLN",
+						"indices": [
+							89,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dougpete",
+						"name": "Doug Peterson",
+						"id": 8381832,
+						"id_str": "8381832",
+						"indices": [
+							63,
+							72
+						]
+					},
+					{
+						"screen_name": "zecool",
+						"name": "Jacques Cool",
+						"id": 14350762,
+						"id_str": "14350762",
+						"indices": [
+							94,
+							101
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 743893888516100100,
+						"id_str": "743893888516100096",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/ClLXjN-WEAAT3ZB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ClLXjN-WEAAT3ZB.jpg",
+						"url": "https://t.co/vcEWjN0Ybw",
+						"display_url": "pic.twitter.com/vcEWjN0Ybw",
+						"expanded_url": "https://twitter.com/sylviaduckworth/status/743893891003387909/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 743893888516100100,
+						"id_str": "743893888516100096",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/ClLXjN-WEAAT3ZB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ClLXjN-WEAAT3ZB.jpg",
+						"url": "https://t.co/vcEWjN0Ybw",
+						"display_url": "pic.twitter.com/vcEWjN0Ybw",
+						"expanded_url": "https://twitter.com/sylviaduckworth/status/743893891003387909/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 241291614,
+				"id_str": "241291614",
+				"name": "Sylvia Duckworth",
+				"screen_name": "sylviaduckworth",
+				"location": "Toronto",
+				"description": "#AIMlang French & Tech teacher/ Google Certified Innovator & Trainer/ Seesaw and WeVideo Ambassador/ Apple Teacher/ ADE2017. Author https://t.co/xxtm2UQi3S",
+				"url": "https://t.co/QRAUqy2Bjf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QRAUqy2Bjf",
+								"expanded_url": "http://sylviaduckworth.com",
+								"display_url": "sylviaduckworth.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xxtm2UQi3S",
+								"expanded_url": "http://bit.ly/100drawings",
+								"display_url": "bit.ly/100drawings",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 35082,
+				"friends_count": 3425,
+				"listed_count": 1332,
+				"created_at": "Fri Jan 21 22:37:36 +0000 2011",
+				"favourites_count": 10508,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31848,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/195799098/twitter_background.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/195799098/twitter_background.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/641296583905021952/FwNH4vFG_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/641296583905021952/FwNH4vFG_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/241291614/1420952874",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 124,
+			"favorite_count": 216,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 11:17:22 +0000 2017",
+		"id": 940541079652323300,
+		"id_str": "940541079652323328",
+		"text": "RT @anna_d_beck: If anybody wants to hear me attempting to squeeze my thesis into 25 minutes, here's the link! Sharing findings about the p…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anna_d_beck",
+					"name": "Anna Beck",
+					"id": 99997215,
+					"id_str": "99997215",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3184,
+			"friends_count": 3692,
+			"listed_count": 213,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 380,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 12 10:45:06 +0000 2017",
+			"id": 940532958099902500,
+			"id_str": "940532958099902464",
+			"text": "If anybody wants to hear me attempting to squeeze my thesis into 25 minutes, here's the link! Sharing findings abou… https://t.co/UsEs8bXQJi",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UsEs8bXQJi",
+						"expanded_url": "https://twitter.com/i/web/status/940532958099902464",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 99997215,
+				"id_str": "99997215",
+				"name": "Anna Beck",
+				"screen_name": "anna_d_beck",
+				"location": "University of Strathclyde",
+				"description": "Lecturer in Professional Learning @UniStrathclyde -- #BA4Pol -- #STLStrath | Teacher Education Policy | Critical Policy Analysis | Happiest when riding a bike",
+				"url": "https://t.co/evGVthuzz1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/evGVthuzz1",
+								"expanded_url": "https://glasgow.academia.edu/AnnaBeck",
+								"display_url": "glasgow.academia.edu/AnnaBeck",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1453,
+				"friends_count": 885,
+				"listed_count": 31,
+				"created_at": "Mon Dec 28 17:06:54 +0000 2009",
+				"favourites_count": 2790,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4385,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/455664542341558273/tefm44lz.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/455664542341558273/tefm44lz.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/782862993793179648/Gq7O1bXs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/782862993793179648/Gq7O1bXs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/99997215/1475487314",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 938191563888451600,
+			"quoted_status_id_str": "938191563888451584",
+			"quoted_status": {
+				"created_at": "Tue Dec 05 23:41:14 +0000 2017",
+				"id": 938191563888451600,
+				"id_str": "938191563888451584",
+				"text": "Podcast available now - Anna Beck, University of Strathclyde, on ‘The development and implementation of ‘Teaching S… https://t.co/SNuWMp6wOi",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/SNuWMp6wOi",
+							"expanded_url": "https://twitter.com/i/web/status/938191563888451584",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 77933462,
+					"id_str": "77933462",
+					"name": "Radio EDUtalk",
+					"screen_name": "EDUtalkr",
+					"location": "Scotland",
+					"description": "Education radio. Live broadcasts, see https://t.co/p4iPb4kiJM for listings & stream at https://t.co/pp4oo9cgGi. Tweets by @parslad & @johnjohnston.",
+					"url": "http://t.co/EHQjnaYD40",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/EHQjnaYD40",
+									"expanded_url": "http://EDUtalk.cc",
+									"display_url": "EDUtalk.cc",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/p4iPb4kiJM",
+									"expanded_url": "http://www.edutalk.info/listen",
+									"display_url": "edutalk.info/listen",
+									"indices": [
+										38,
+										61
+									]
+								},
+								{
+									"url": "https://t.co/pp4oo9cgGi",
+									"expanded_url": "http://edutalk.cc/listen",
+									"display_url": "edutalk.cc/listen",
+									"indices": [
+										87,
+										110
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 1555,
+					"friends_count": 1661,
+					"listed_count": 43,
+					"created_at": "Mon Sep 28 05:22:40 +0000 2009",
+					"favourites_count": 186,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 2783,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1660291429/radioedutalklogo200_normal.gif",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1660291429/radioedutalklogo200_normal.gif",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 18,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 938191563888451600,
+		"quoted_status_id_str": "938191563888451584",
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 11:14:18 +0000 2017",
+		"id": 940540306642128900,
+		"id_str": "940540306642128896",
+		"text": "RT @carljackmiller: I've been thinking about this amazing story a lot is morning. Tenacity and sheer grit are massively under-estimated hum…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carljackmiller",
+					"name": "Carl Miller",
+					"id": 351715132,
+					"id_str": "351715132",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3184,
+			"friends_count": 3692,
+			"listed_count": 213,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 380,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 09 10:05:05 +0000 2017",
+			"id": 939435724071456800,
+			"id_str": "939435724071456768",
+			"text": "I've been thinking about this amazing story a lot is morning. Tenacity and sheer grit are massively under-estimated… https://t.co/uKfzZS94jW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uKfzZS94jW",
+						"expanded_url": "https://twitter.com/i/web/status/939435724071456768",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 351715132,
+				"id_str": "351715132",
+				"name": "Carl Miller",
+				"screen_name": "carljackmiller",
+				"location": "",
+				"description": "Research Director, Centre for the Analysis of Social Media, Demos. \n\nFirst book 'Power: Liberation and Control in the Twenty-First Century' with @WmHeinemann",
+				"url": "https://t.co/3JBATKzMAK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3JBATKzMAK",
+								"expanded_url": "http://www.demos.co.uk/people/carl-miller/",
+								"display_url": "demos.co.uk/people/carl-mi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8485,
+				"friends_count": 613,
+				"listed_count": 288,
+				"created_at": "Tue Aug 09 16:58:51 +0000 2011",
+				"favourites_count": 18968,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7697,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/924750688873304064/PvGFYMpv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/924750688873304064/PvGFYMpv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/351715132/1454865862",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 112,
+			"favorite_count": 188,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 11 20:32:15 +0000 2017",
 		"id": 940318331931897900,
 		"id_str": "940318331931897856",
