@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 17 23:53:03 +0000 2017",
+		"id": 942543192746061800,
+		"id_str": "942543192746061824",
+		"text": "@ukedchat @blowtheblues @carolrainbow @ianaddison @Joga5 @aangeli @DocendoTim @dughall @digicoled Well I never! And… https://t.co/1cMtw1Ozk0",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ukedchat",
+					"name": "UKEdChat",
+					"id": 165510762,
+					"id_str": "165510762",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "blowtheblues",
+					"name": "Ren Thurston",
+					"id": 122937648,
+					"id_str": "122937648",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "carolrainbow",
+					"name": "Carol Rainbow",
+					"id": 14135206,
+					"id_str": "14135206",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "ianaddison",
+					"name": "Ian Addison",
+					"id": 25382562,
+					"id_str": "25382562",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"screen_name": "Joga5",
+					"name": "Bill Lord",
+					"id": 22745646,
+					"id_str": "22745646",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"screen_name": "aangeli",
+					"name": "Angela Angeli",
+					"id": 21913553,
+					"id_str": "21913553",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"screen_name": "DocendoTim",
+					"name": "Tim Jefferson",
+					"id": 15109272,
+					"id_str": "15109272",
+					"indices": [
+						66,
+						77
+					]
+				},
+				{
+					"screen_name": "dughall",
+					"name": "Dughall McCormick",
+					"id": 18716016,
+					"id_str": "18716016",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"screen_name": "digicoled",
+					"name": "DigiColEd",
+					"id": 340947069,
+					"id_str": "340947069",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1cMtw1Ozk0",
+					"expanded_url": "https://twitter.com/i/web/status/942543192746061824",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 942537456695562200,
+		"in_reply_to_status_id_str": "942537456695562240",
+		"in_reply_to_user_id": 165510762,
+		"in_reply_to_user_id_str": "165510762",
+		"in_reply_to_screen_name": "ukedchat",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3189,
+			"friends_count": 3690,
+			"listed_count": 213,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 382,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 17 19:28:32 +0000 2017",
+		"id": 942476624271958000,
+		"id_str": "942476624271958018",
+		"text": "When physicist combines art, maths, technology and science, you get something useful ... and beautiful https://t.co/DJ8jGViCyz #STEAM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEAM",
+					"indices": [
+						127,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DJ8jGViCyz",
+					"expanded_url": "https://youtu.be/DJ4hDppP_SQ",
+					"display_url": "youtu.be/DJ4hDppP_SQ",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3189,
+			"friends_count": 3690,
+			"listed_count": 213,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 382,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 16 18:17:33 +0000 2017",
 		"id": 942096374686015500,
 		"id_str": "942096374686015489",
