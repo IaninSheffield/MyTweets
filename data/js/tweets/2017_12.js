@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 23 06:21:14 +0000 2017",
+		"id": 944452819951804400,
+		"id_str": "944452819951804416",
+		"text": "RT @KristianStill: One final push for #srocks18 - if you could RT to broaden the audience that would be great. https://t.co/QUixBwlsh8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "srocks18",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KristianStill",
+					"name": "Kristian Still",
+					"id": 815781,
+					"id_str": "815781",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 944281430980550700,
+					"id_str": "944281430980550656",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DRrC9V2X4AAtEIy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRrC9V2X4AAtEIy.jpg",
+					"url": "https://t.co/QUixBwlsh8",
+					"display_url": "pic.twitter.com/QUixBwlsh8",
+					"expanded_url": "https://twitter.com/KristianStill/status/944281442728673281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 944281442728673300,
+					"source_status_id_str": "944281442728673281",
+					"source_user_id": 815781,
+					"source_user_id_str": "815781"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 944281430980550700,
+					"id_str": "944281430980550656",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DRrC9V2X4AAtEIy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRrC9V2X4AAtEIy.jpg",
+					"url": "https://t.co/QUixBwlsh8",
+					"display_url": "pic.twitter.com/QUixBwlsh8",
+					"expanded_url": "https://twitter.com/KristianStill/status/944281442728673281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 944281442728673300,
+					"source_status_id_str": "944281442728673281",
+					"source_user_id": 815781,
+					"source_user_id_str": "815781"
+				},
+				{
+					"id": 944281430946996200,
+					"id_str": "944281430946996225",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DRrC9VuX4AEipmD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRrC9VuX4AEipmD.jpg",
+					"url": "https://t.co/QUixBwlsh8",
+					"display_url": "pic.twitter.com/QUixBwlsh8",
+					"expanded_url": "https://twitter.com/KristianStill/status/944281442728673281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 326,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 326,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 944281442728673300,
+					"source_status_id_str": "944281442728673281",
+					"source_user_id": 815781,
+					"source_user_id_str": "815781"
+				},
+				{
+					"id": 944281430934376400,
+					"id_str": "944281430934376448",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DRrC9VrXUAAKHKl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRrC9VrXUAAKHKl.jpg",
+					"url": "https://t.co/QUixBwlsh8",
+					"display_url": "pic.twitter.com/QUixBwlsh8",
+					"expanded_url": "https://twitter.com/KristianStill/status/944281442728673281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 330,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 330,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 330,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 944281442728673300,
+					"source_status_id_str": "944281442728673281",
+					"source_user_id": 815781,
+					"source_user_id_str": "815781"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3188,
+			"friends_count": 3692,
+			"listed_count": 213,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 385,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10476,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 22 19:00:14 +0000 2017",
+			"id": 944281442728673300,
+			"id_str": "944281442728673281",
+			"text": "One final push for #srocks18 - if you could RT to broaden the audience that would be great. https://t.co/QUixBwlsh8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "srocks18",
+						"indices": [
+							19,
+							28
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 944281430980550700,
+						"id_str": "944281430980550656",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DRrC9V2X4AAtEIy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRrC9V2X4AAtEIy.jpg",
+						"url": "https://t.co/QUixBwlsh8",
+						"display_url": "pic.twitter.com/QUixBwlsh8",
+						"expanded_url": "https://twitter.com/KristianStill/status/944281442728673281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1364,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 799,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 944281430980550700,
+						"id_str": "944281430980550656",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DRrC9V2X4AAtEIy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRrC9V2X4AAtEIy.jpg",
+						"url": "https://t.co/QUixBwlsh8",
+						"display_url": "pic.twitter.com/QUixBwlsh8",
+						"expanded_url": "https://twitter.com/KristianStill/status/944281442728673281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1364,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 799,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 944281430946996200,
+						"id_str": "944281430946996225",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DRrC9VuX4AEipmD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRrC9VuX4AEipmD.jpg",
+						"url": "https://t.co/QUixBwlsh8",
+						"display_url": "pic.twitter.com/QUixBwlsh8",
+						"expanded_url": "https://twitter.com/KristianStill/status/944281442728673281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 246,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 326,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 326,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 944281430934376400,
+						"id_str": "944281430934376448",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DRrC9VrXUAAKHKl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRrC9VrXUAAKHKl.jpg",
+						"url": "https://t.co/QUixBwlsh8",
+						"display_url": "pic.twitter.com/QUixBwlsh8",
+						"expanded_url": "https://twitter.com/KristianStill/status/944281442728673281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 330,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 330,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 330,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 815781,
+				"id_str": "815781",
+				"name": "Kristian Still",
+				"screen_name": "KristianStill",
+				"location": "Southampton, UK",
+				"description": "Proud father & husband with an interest in education leadership, TL & A, PPD, lesson capture, data & HT.",
+				"url": "https://t.co/pOzbhFCU1V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pOzbhFCU1V",
+								"expanded_url": "http://www.kristianstill.co.uk",
+								"display_url": "kristianstill.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3971,
+				"friends_count": 1087,
+				"listed_count": 189,
+				"created_at": "Tue Mar 06 19:46:30 +0000 2007",
+				"favourites_count": 378,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25909,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435333894695821312/QdFsjhTE.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435333894695821312/QdFsjhTE.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929820619499335680/I5WNNQ5U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929820619499335680/I5WNNQ5U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/815781/1508611267",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "2C2C2C",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 21 11:09:33 +0000 2017",
 		"id": 943800602521489400,
 		"id_str": "943800602521489408",
