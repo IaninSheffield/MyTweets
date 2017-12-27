@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 26 07:08:40 +0000 2017",
+		"id": 945551924262309900,
+		"id_str": "945551924262309889",
+		"text": "RT @UrbaneCommuter: Help this lady find her Dad's bike if you can. Contact through Facebook. https://t.co/pft2mTLZmk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UrbaneCommuter",
+					"name": "Swanky Bicycle Bod",
+					"id": 544956295,
+					"id_str": "544956295",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 945412023743139800,
+					"id_str": "945412023743139840",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DR7HOgGX0AAT8-S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR7HOgGX0AAT8-S.jpg",
+					"url": "https://t.co/pft2mTLZmk",
+					"display_url": "pic.twitter.com/pft2mTLZmk",
+					"expanded_url": "https://twitter.com/UrbaneCommuter/status/945412051635265536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945412051635265500,
+					"source_status_id_str": "945412051635265536",
+					"source_user_id": 544956295,
+					"source_user_id_str": "544956295"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 945412023743139800,
+					"id_str": "945412023743139840",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DR7HOgGX0AAT8-S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR7HOgGX0AAT8-S.jpg",
+					"url": "https://t.co/pft2mTLZmk",
+					"display_url": "pic.twitter.com/pft2mTLZmk",
+					"expanded_url": "https://twitter.com/UrbaneCommuter/status/945412051635265536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945412051635265500,
+					"source_status_id_str": "945412051635265536",
+					"source_user_id": 544956295,
+					"source_user_id_str": "544956295"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3188,
+			"friends_count": 3692,
+			"listed_count": 213,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 385,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10477,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 25 21:52:52 +0000 2017",
+			"id": 945412051635265500,
+			"id_str": "945412051635265536",
+			"text": "Help this lady find her Dad's bike if you can. Contact through Facebook. https://t.co/pft2mTLZmk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 945412023743139800,
+						"id_str": "945412023743139840",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DR7HOgGX0AAT8-S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR7HOgGX0AAT8-S.jpg",
+						"url": "https://t.co/pft2mTLZmk",
+						"display_url": "pic.twitter.com/pft2mTLZmk",
+						"expanded_url": "https://twitter.com/UrbaneCommuter/status/945412051635265536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 945412023743139800,
+						"id_str": "945412023743139840",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DR7HOgGX0AAT8-S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR7HOgGX0AAT8-S.jpg",
+						"url": "https://t.co/pft2mTLZmk",
+						"display_url": "pic.twitter.com/pft2mTLZmk",
+						"expanded_url": "https://twitter.com/UrbaneCommuter/status/945412051635265536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 544956295,
+				"id_str": "544956295",
+				"name": "Swanky Bicycle Bod",
+				"screen_name": "UrbaneCommuter",
+				"location": "Manchester, IN the EU.",
+				"description": "Astride and in charge. Legs akimbo, thighs a-pumping.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1408,
+				"friends_count": 924,
+				"listed_count": 85,
+				"created_at": "Wed Apr 04 08:29:50 +0000 2012",
+				"favourites_count": 13235,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27531,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DDDDDD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2184803791/test_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2184803791/test_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/544956295/1360675319",
+				"profile_link_color": "000484",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 117,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 23 06:21:14 +0000 2017",
 		"id": 944452819951804400,
 		"id_str": "944452819951804416",
