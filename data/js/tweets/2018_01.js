@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 09 19:23:36 +0000 2018",
+		"id": 950810306007257100,
+		"id_str": "950810306007257088",
+		"text": "RT @Goodchap62: Presenting tomorrow @SHU_SIoE Early Years &amp; Primary Conf on bridging the epistemic gap between parents/carers of children w…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Goodchap62",
+					"name": "Nick Hodge",
+					"id": 619745347,
+					"id_str": "619745347",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "SHU_SIoE",
+					"name": "SHU_SIoE",
+					"id": 1933610330,
+					"id_str": "1933610330",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3195,
+			"friends_count": 3699,
+			"listed_count": 214,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 386,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10500,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 08:27:29 +0000 2018",
+			"id": 950645188648669200,
+			"id_str": "950645188648669184",
+			"text": "Presenting tomorrow @SHU_SIoE Early Years &amp; Primary Conf on bridging the epistemic gap between parents/carers of ch… https://t.co/MEDSqhFXQW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SHU_SIoE",
+						"name": "SHU_SIoE",
+						"id": 1933610330,
+						"id_str": "1933610330",
+						"indices": [
+							20,
+							29
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MEDSqhFXQW",
+						"expanded_url": "https://twitter.com/i/web/status/950645188648669184",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 619745347,
+				"id_str": "619745347",
+				"name": "Nick Hodge",
+				"screen_name": "Goodchap62",
+				"location": "Sheffield, England",
+				"description": "Professor of Inclusive Practice at Sheffield Hallam University. Research focus on autism and disability. Views expressed are my own.",
+				"url": "http://t.co/tAR0LzEhTo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tAR0LzEhTo",
+								"expanded_url": "http://theautismcentre.wordpress.com/author/autismcentre/",
+								"display_url": "theautismcentre.wordpress.com/author/autismc…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1540,
+				"friends_count": 886,
+				"listed_count": 31,
+				"created_at": "Wed Jun 27 06:39:30 +0000 2012",
+				"favourites_count": 2538,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4757,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/842413621112111110/FHQY5u5B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/842413621112111110/FHQY5u5B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/619745347/1489686311",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 06 18:48:32 +0000 2018",
 		"id": 949714315250225200,
 		"id_str": "949714315250225152",
@@ -647,7 +870,7 @@ Grailbird.data.tweets_2018_01 =
 			"user": {
 				"id": 153295243,
 				"id_str": "153295243",
-				"name": "Yara-ma-yha-who 🏳️‍🌈",
+				"name": "Yara-ma-yha-who 🏳️🌈",
 				"screen_name": "Unkle_Ken",
 				"location": "Gondwana",
 				"description": "#Black. #Green. #Red. #Aboriginal. #Environmental. #Socialist. #Atheist.",
