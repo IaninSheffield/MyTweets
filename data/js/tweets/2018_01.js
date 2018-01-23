@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 22 21:15:59 +0000 2018",
+		"id": 955549630019833900,
+		"id_str": "955549630019833856",
+		"text": "Wonder if @datastories would concur? https://t.co/FWVbG2fBOH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "datastories",
+					"name": "Data Stories Podcast",
+					"id": 465929514,
+					"id_str": "465929514",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FWVbG2fBOH",
+					"expanded_url": "https://twitter.com/xkcdComic/status/955467637416345600",
+					"display_url": "twitter.com/xkcdComic/stat…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3200,
+			"friends_count": 3714,
+			"listed_count": 213,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 389,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10532,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 955467637416345600,
+		"quoted_status_id_str": "955467637416345600",
+		"quoted_status": {
+			"created_at": "Mon Jan 22 15:50:11 +0000 2018",
+			"id": 955467637416345600,
+			"id_str": "955467637416345600",
+			"text": "Scientific Paper Graph Quality https://t.co/3OSoHCgGiG https://t.co/RcFfExBwdP https://t.co/5pYuoGKbn0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3OSoHCgGiG",
+						"expanded_url": "https://xkcd.com/1945/",
+						"display_url": "xkcd.com/1945/",
+						"indices": [
+							31,
+							54
+						]
+					},
+					{
+						"url": "https://t.co/RcFfExBwdP",
+						"expanded_url": "https://m.xkcd.com/1945/",
+						"display_url": "m.xkcd.com/1945/",
+						"indices": [
+							55,
+							78
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 955467636061618200,
+						"id_str": "955467636061618176",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DUKAwLHVwAAKmlU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUKAwLHVwAAKmlU.jpg",
+						"url": "https://t.co/5pYuoGKbn0",
+						"display_url": "pic.twitter.com/5pYuoGKbn0",
+						"expanded_url": "https://twitter.com/xkcdComic/status/955467637416345600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 955467636061618200,
+						"id_str": "955467636061618176",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DUKAwLHVwAAKmlU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUKAwLHVwAAKmlU.jpg",
+						"url": "https://t.co/5pYuoGKbn0",
+						"display_url": "pic.twitter.com/5pYuoGKbn0",
+						"expanded_url": "https://twitter.com/xkcdComic/status/955467637416345600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://dghubble.com\" rel=\"nofollow\">xkcdComic</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2251623492,
+				"id_str": "2251623492",
+				"name": "XKCD Comic",
+				"screen_name": "xkcdComic",
+				"location": "",
+				"description": "XKCD comic feed with images, mobile friendly links, and what-if articles. Unofficial, run by @dghubble",
+				"url": "http://t.co/Tca90xyNDW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Tca90xyNDW",
+								"expanded_url": "http://xkcd.com",
+								"display_url": "xkcd.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 135711,
+				"friends_count": 1,
+				"listed_count": 1871,
+				"created_at": "Wed Dec 18 08:00:58 +0000 2013",
+				"favourites_count": 4,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 718,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 468,
+			"favorite_count": 1296,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 22 19:16:47 +0000 2018",
+		"id": 955519632416432100,
+		"id_str": "955519632416432129",
+		"text": "Fine #phdadvice too https://t.co/bzf1XG8IUl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "phdadvice",
+					"indices": [
+						5,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bzf1XG8IUl",
+					"expanded_url": "https://twitter.com/jk_rowling/status/955513258798182400",
+					"display_url": "twitter.com/jk_rowling/sta…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3200,
+			"friends_count": 3714,
+			"listed_count": 213,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 389,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10532,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 955513258798182400,
+		"quoted_status_id_str": "955513258798182400",
+		"quoted_status": {
+			"created_at": "Mon Jan 22 18:51:28 +0000 2018",
+			"id": 955513258798182400,
+			"id_str": "955513258798182400",
+			"text": "When rereading last week's work, the trick is to stop for a biscuit just before your blood sugar levels drop to 'ev… https://t.co/IH2DSMDYfK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IH2DSMDYfK",
+						"expanded_url": "https://twitter.com/i/web/status/955513258798182400",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62513246,
+				"id_str": "62513246",
+				"name": "J.K. Rowling",
+				"screen_name": "jk_rowling",
+				"location": "Scotland",
+				"description": "Author whose out-of-control DMs must henceforth go unread. For contact details, see website.",
+				"url": "https://t.co/7iaKMs3iC6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7iaKMs3iC6",
+								"expanded_url": "http://www.jkrowling.com",
+								"display_url": "jkrowling.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13975175,
+				"friends_count": 550,
+				"listed_count": 37324,
+				"created_at": "Mon Aug 03 13:23:45 +0000 2009",
+				"favourites_count": 19008,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9634,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/703701999540371458/D7Ra4NMs.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/703701999540371458/D7Ra4NMs.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950014785982205952/fvS-2r3E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950014785982205952/fvS-2r3E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62513246/1515335881",
+				"profile_link_color": "CC3333",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3664,
+			"favorite_count": 31901,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 21 21:10:46 +0000 2018",
 		"id": 955185930490531800,
 		"id_str": "955185930490531840",
