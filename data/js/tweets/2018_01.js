@@ -1,6 +1,511 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 24 19:07:27 +0000 2018",
+		"id": 956242057265320000,
+		"id_str": "956242057265319937",
+		"text": "I concur. It's on my desk at this very moment. https://t.co/ENsV0vXHPb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ENsV0vXHPb",
+					"expanded_url": "https://twitter.com/bretsw/status/956237614281043968",
+					"display_url": "twitter.com/bretsw/status/…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3201,
+			"friends_count": 3715,
+			"listed_count": 213,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 389,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10538,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 956214271544909800,
+		"quoted_status_id_str": "956214271544909829",
+		"quoted_status": {
+			"created_at": "Wed Jan 24 17:17:02 +0000 2018",
+			"id": 956214271544909800,
+			"id_str": "956214271544909829",
+			"text": "I’ve been super impressed with the 2017 SAGE Handbook of Social Media Research Methods from @DrLukeSloan and… https://t.co/FRHU19Quxj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DrLukeSloan",
+						"name": "Luke Sloan",
+						"id": 829044066,
+						"id_str": "829044066",
+						"indices": [
+							92,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FRHU19Quxj",
+						"expanded_url": "https://twitter.com/i/web/status/956214271544909829",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53167706,
+				"id_str": "53167706",
+				"name": "Bret Staudt Willet",
+				"screen_name": "bretsw",
+				"location": "Pennsylvania, USA",
+				"description": "Living the #PhDlife at #MSUepet / Researching teacher lifelong learning #Edtech #SocialMedia #dataEDU / Teaching #cep416 #cep817",
+				"url": "https://t.co/9lV9hWdb9F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9lV9hWdb9F",
+								"expanded_url": "http://bretsw.com",
+								"display_url": "bretsw.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1244,
+				"friends_count": 2264,
+				"listed_count": 52,
+				"created_at": "Thu Jul 02 19:51:43 +0000 2009",
+				"favourites_count": 4452,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4871,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/429668659/twitter_background_bretsw.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/429668659/twitter_background_bretsw.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956013197034704896/o6OBalfB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956013197034704896/o6OBalfB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53167706/1515296789",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "ABABAB",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 24 14:08:28 +0000 2018",
+		"id": 956166817378119700,
+		"id_str": "956166817378119681",
+		"text": "Yep, been there ... although perhaps only with 'screaming' from within.\n[More like mocking laughter from without!]\nhttps://t.co/eb3h69qNoX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eb3h69qNoX",
+					"expanded_url": "https://twitter.com/xkcdComic/status/956166277684326400",
+					"display_url": "twitter.com/xkcdComic/stat…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3201,
+			"friends_count": 3715,
+			"listed_count": 213,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 389,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10538,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 956166277684326400,
+		"quoted_status_id_str": "956166277684326400",
+		"quoted_status": {
+			"created_at": "Wed Jan 24 14:06:19 +0000 2018",
+			"id": 956166277684326400,
+			"id_str": "956166277684326400",
+			"text": "Hawaii https://t.co/pjC0rD0LAG https://t.co/P0xu6SGPGz https://t.co/rFIVBxhmsz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pjC0rD0LAG",
+						"expanded_url": "https://xkcd.com/1946/",
+						"display_url": "xkcd.com/1946/",
+						"indices": [
+							7,
+							30
+						]
+					},
+					{
+						"url": "https://t.co/P0xu6SGPGz",
+						"expanded_url": "https://m.xkcd.com/1946/",
+						"display_url": "m.xkcd.com/1946/",
+						"indices": [
+							31,
+							54
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 956166275843088400,
+						"id_str": "956166275843088386",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DUT8KXHV4AIu1vM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUT8KXHV4AIu1vM.jpg",
+						"url": "https://t.co/rFIVBxhmsz",
+						"display_url": "pic.twitter.com/rFIVBxhmsz",
+						"expanded_url": "https://twitter.com/xkcdComic/status/956166277684326400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 345,
+								"h": 613,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 345,
+								"h": 613,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 345,
+								"h": 613,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 956166275843088400,
+						"id_str": "956166275843088386",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DUT8KXHV4AIu1vM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUT8KXHV4AIu1vM.jpg",
+						"url": "https://t.co/rFIVBxhmsz",
+						"display_url": "pic.twitter.com/rFIVBxhmsz",
+						"expanded_url": "https://twitter.com/xkcdComic/status/956166277684326400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 345,
+								"h": 613,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 345,
+								"h": 613,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 345,
+								"h": 613,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://dghubble.com\" rel=\"nofollow\">xkcdComic</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2251623492,
+				"id_str": "2251623492",
+				"name": "XKCD Comic",
+				"screen_name": "xkcdComic",
+				"location": "",
+				"description": "XKCD comic feed with images, mobile friendly links, and what-if articles. Unofficial, run by @dghubble",
+				"url": "http://t.co/Tca90xyNDW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Tca90xyNDW",
+								"expanded_url": "http://xkcd.com",
+								"display_url": "xkcd.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 136126,
+				"friends_count": 1,
+				"listed_count": 1877,
+				"created_at": "Wed Dec 18 08:00:58 +0000 2013",
+				"favourites_count": 4,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 719,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 833,
+			"favorite_count": 1971,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 23 21:56:48 +0000 2018",
 		"id": 955922286841876500,
 		"id_str": "955922286841876480",
