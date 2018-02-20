@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 19 19:47:21 +0000 2018",
+		"id": 965674185979768800,
+		"id_str": "965674185979768833",
+		"text": "RT @TeamRE_UK: It would be great to have 100 followers within 24 hours. Welcome. https://t.co/OzwwK5TJO9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeamRE_UK",
+					"name": "TeamRE",
+					"id": 965334468537081900,
+					"id_str": "965334468537081856",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OzwwK5TJO9",
+					"expanded_url": "https://twitter.com/guruteaching/status/965354473953660930",
+					"display_url": "twitter.com/guruteaching/s…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3204,
+			"friends_count": 3727,
+			"listed_count": 212,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 405,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10637,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 18 22:46:14 +0000 2018",
+			"id": 965356815490961400,
+			"id_str": "965356815490961409",
+			"text": "It would be great to have 100 followers within 24 hours. Welcome. https://t.co/OzwwK5TJO9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OzwwK5TJO9",
+						"expanded_url": "https://twitter.com/guruteaching/status/965354473953660930",
+						"display_url": "twitter.com/guruteaching/s…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 965334468537081900,
+				"id_str": "965334468537081856",
+				"name": "TeamRE",
+				"screen_name": "TeamRE_UK",
+				"location": "London, England",
+				"description": "#TeamRE @TeamRE_UK - also check out the monthly #REChatUK and @REEchoChamber blogs - will RT requests + resources - hosted @andylewis_re @jpaddy + @lisa_0connor",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 181,
+				"friends_count": 7,
+				"listed_count": 2,
+				"created_at": "Sun Feb 18 21:17:27 +0000 2018",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965339964568489986/j-u-xLFo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965339964568489986/j-u-xLFo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/965334468537081856/1518989776",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 965354473953660900,
+			"quoted_status_id_str": "965354473953660930",
+			"quoted_status": {
+				"created_at": "Sun Feb 18 22:36:56 +0000 2018",
+				"id": 965354473953660900,
+				"id_str": "965354473953660930",
+				"text": "@TeamRE_UK Count me in!",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "TeamRE_UK",
+							"name": "TeamRE",
+							"id": 965334468537081900,
+							"id_str": "965334468537081856",
+							"indices": [
+								0,
+								10
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": 965334468537081900,
+				"in_reply_to_user_id_str": "965334468537081856",
+				"in_reply_to_screen_name": "TeamRE_UK",
+				"user": {
+					"id": 739861400198217700,
+					"id_str": "739861400198217728",
+					"name": "Andy McHugh",
+					"screen_name": "guruteaching",
+					"location": "North East, England",
+					"description": "Teacher, HOD, Examiner and Blogger. Views my own. RTs not necessarily an endorsement. Love a good debate. \"The standard pace is for chumps.\"",
+					"url": "https://t.co/ovw4C0kG18",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/ovw4C0kG18",
+									"expanded_url": "http://www.teachingandlearningguru.com",
+									"display_url": "teachingandlearningguru.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 938,
+					"friends_count": 2102,
+					"listed_count": 22,
+					"created_at": "Mon Jun 06 16:47:58 +0000 2016",
+					"favourites_count": 975,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 1612,
+					"lang": "en-gb",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/739869141604110336/nZ0vrSLY_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/739869141604110336/nZ0vrSLY_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/739861400198217728/1515794343",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 12,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 965354473953660900,
+		"quoted_status_id_str": "965354473953660930",
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 19 19:46:02 +0000 2018",
+		"id": 965673853660926000,
+		"id_str": "965673853660925953",
+		"text": "RT @natkin: Cyclist in front of me taken out by someone opening a passenger door. He’s now in an ambulance - please can you raise awareness…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "natkin",
+					"name": "neil atkin",
+					"id": 17615345,
+					"id_str": "17615345",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3204,
+			"friends_count": 3727,
+			"listed_count": 212,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 405,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10637,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 19 08:56:51 +0000 2018",
+			"id": 965510478553329700,
+			"id_str": "965510478553329664",
+			"text": "Cyclist in front of me taken out by someone opening a passenger door. He’s now in an ambulance - please can you rai… https://t.co/pD1jNhBfsu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pD1jNhBfsu",
+						"expanded_url": "https://twitter.com/i/web/status/965510478553329664",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17615345,
+				"id_str": "17615345",
+				"name": "neil atkin",
+				"screen_name": "natkin",
+				"location": "Poole",
+				"description": "Educational Consultant . Developing Independent Learners thro pedagogy and tech. IOP Teach/Learning Coach & Gender Balance Officer. Collaborator agent of change",
+				"url": "https://t.co/XoM7GzB7wt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XoM7GzB7wt",
+								"expanded_url": "http://www.neilatkin.com",
+								"display_url": "neilatkin.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4608,
+				"friends_count": 1633,
+				"listed_count": 175,
+				"created_at": "Tue Nov 25 08:17:02 +0000 2008",
+				"favourites_count": 713,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8067,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000443833107/57dde345dfafaab907cad4079f8046c8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000443833107/57dde345dfafaab907cad4079f8046c8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17615345/1453021455",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "56c45474148ca4da",
+				"url": "https://api.twitter.com/1.1/geo/id/56c45474148ca4da.json",
+				"place_type": "city",
+				"name": "Paddington",
+				"full_name": "Paddington, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.2160701,
+								51.5098789
+							],
+							[
+								-0.1301597,
+								51.5098789
+							],
+							[
+								-0.1301597,
+								51.5397916
+							],
+							[
+								-0.2160701,
+								51.5397916
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 18 17:39:56 +0000 2018",
 		"id": 965279731380867100,
 		"id_str": "965279731380867072",
