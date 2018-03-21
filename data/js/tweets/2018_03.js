@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 20 10:30:09 +0000 2018",
+		"id": 976043208504496100,
+		"id_str": "976043208504496129",
+		"text": "Wonder if #NZBTchat folks are aware of #teacher5aday as one way to help with stress? https://t.co/Ll1kRYXYu1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NZBTchat",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"text": "teacher5aday",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ll1kRYXYu1",
+					"expanded_url": "https://ukedchat.com/2016/08/30/ukedmag-teacher-5-a-day-by-martynreah-teacher5aday/",
+					"display_url": "ukedchat.com/2016/08/30/uke…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3203,
+			"friends_count": 3739,
+			"listed_count": 212,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 413,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10685,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 20 06:42:06 +0000 2018",
+		"id": 975985819470192600,
+		"id_str": "975985819470192640",
+		"text": "I think I'd want to question some of the #physics in this sequence. https://t.co/tbW1GMmzRa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physics",
+					"indices": [
+						41,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tbW1GMmzRa",
+					"expanded_url": "https://twitter.com/TheSunFootball/status/975979907787436034",
+					"display_url": "twitter.com/TheSunFootball…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3203,
+			"friends_count": 3739,
+			"listed_count": 212,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 413,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10685,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 975614161966305300,
+		"quoted_status_id_str": "975614161966305281",
+		"quoted_status": {
+			"created_at": "Mon Mar 19 06:05:16 +0000 2018",
+			"id": 975614161966305300,
+			"id_str": "975614161966305281",
+			"text": "Every 'keeper could learn from this magnificent save. 🚫 https://t.co/SH2OrwoYkX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 975614094039552000,
+						"id_str": "975614094039552000",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/975614094039552000/img/dLILDa1QTS0Q61-a.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/975614094039552000/img/dLILDa1QTS0Q61-a.jpg",
+						"url": "https://t.co/SH2OrwoYkX",
+						"display_url": "pic.twitter.com/SH2OrwoYkX",
+						"expanded_url": "https://twitter.com/TheSunFootball/status/975614161966305281/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 975614094039552000,
+						"id_str": "975614094039552000",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/975614094039552000/img/dLILDa1QTS0Q61-a.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/975614094039552000/img/dLILDa1QTS0Q61-a.jpg",
+						"url": "https://t.co/SH2OrwoYkX",
+						"display_url": "pic.twitter.com/SH2OrwoYkX",
+						"expanded_url": "https://twitter.com/TheSunFootball/status/975614161966305281/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 30880,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/975614094039552000/vid/480x480/h_AjFgg9z5Wwd5nV.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/975614094039552000/vid/240x240/tZtkJ5WJd2fiSNhi.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/975614094039552000/vid/720x720/y5aQMXhISIKPzZoy.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/975614094039552000/pl/_XESNC2SI4TGbKFc.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20689749,
+				"id_str": "20689749",
+				"name": "The Sun Football ⚽",
+				"screen_name": "TheSunFootball",
+				"location": "",
+				"description": "Breaking news, goals, live coverage and more. https://t.co/26YquBuQuH",
+				"url": "https://t.co/ytHhKFOlFe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ytHhKFOlFe",
+								"expanded_url": "http://www.thesun.co.uk/football",
+								"display_url": "thesun.co.uk/football",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/26YquBuQuH",
+								"expanded_url": "http://www.Facebook.com/TheSunFootball",
+								"display_url": "Facebook.com/TheSunFootball",
+								"indices": [
+									46,
+									69
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 378319,
+				"friends_count": 495,
+				"listed_count": 3035,
+				"created_at": "Thu Feb 12 16:21:06 +0000 2009",
+				"favourites_count": 651,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 152210,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444738599418728448/0hFPB_OB.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444738599418728448/0hFPB_OB.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798441660849987584/dE3qi-R0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798441660849987584/dE3qi-R0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20689749/1512737453",
+				"profile_link_color": "00745F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DEDEDE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 166,
+			"favorite_count": 677,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 17 17:39:51 +0000 2018",
 		"id": 975064181505437700,
 		"id_str": "975064181505437698",
