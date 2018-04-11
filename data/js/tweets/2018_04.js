@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 10 05:29:23 +0000 2018",
+		"id": 983577661548228600,
+		"id_str": "983577661548228608",
+		"text": "RT @TeamScienceEdu: You can now find the #TeamScience podcast on iTunes as well as on our website https://t.co/wYAF9t8rvH https://t.co/xtLg…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamScience",
+					"indices": [
+						41,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeamScienceEdu",
+					"name": "Team Science",
+					"id": 843008461432635400,
+					"id_str": "843008461432635397",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wYAF9t8rvH",
+					"expanded_url": "http://TeamScienceEdu.co.uk",
+					"display_url": "TeamScienceEdu.co.uk",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3208,
+			"friends_count": 3740,
+			"listed_count": 211,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 424,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10727,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 10 04:09:20 +0000 2018",
+			"id": 983557517744787500,
+			"id_str": "983557517744787456",
+			"text": "You can now find the #TeamScience podcast on iTunes as well as on our website https://t.co/wYAF9t8rvH https://t.co/xtLgUjvFGZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TeamScience",
+						"indices": [
+							21,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wYAF9t8rvH",
+						"expanded_url": "http://TeamScienceEdu.co.uk",
+						"display_url": "TeamScienceEdu.co.uk",
+						"indices": [
+							78,
+							101
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 983557501131124700,
+						"id_str": "983557501131124737",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DaZMVg8XcAEPSUY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaZMVg8XcAEPSUY.jpg",
+						"url": "https://t.co/xtLgUjvFGZ",
+						"display_url": "pic.twitter.com/xtLgUjvFGZ",
+						"expanded_url": "https://twitter.com/TeamScienceEdu/status/983557517744787456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1075,
+								"h": 793,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 502,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1075,
+								"h": 793,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 983557501131124700,
+						"id_str": "983557501131124737",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DaZMVg8XcAEPSUY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaZMVg8XcAEPSUY.jpg",
+						"url": "https://t.co/xtLgUjvFGZ",
+						"display_url": "pic.twitter.com/xtLgUjvFGZ",
+						"expanded_url": "https://twitter.com/TeamScienceEdu/status/983557517744787456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1075,
+								"h": 793,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 502,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1075,
+								"h": 793,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 983557509423255600,
+						"id_str": "983557509423255552",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DaZMV_1XUAA-h9_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaZMV_1XUAA-h9_.jpg",
+						"url": "https://t.co/xtLgUjvFGZ",
+						"display_url": "pic.twitter.com/xtLgUjvFGZ",
+						"expanded_url": "https://twitter.com/TeamScienceEdu/status/983557517744787456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 843008461432635400,
+				"id_str": "843008461432635397",
+				"name": "Team Science",
+				"screen_name": "TeamScienceEdu",
+				"location": "England, United Kingdom",
+				"description": "You've found #TeamScience - a place to share resources & discuss ideas about science teaching. Hosted by @BenjaminDBarker.",
+				"url": "https://t.co/S62gxB13xA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/S62gxB13xA",
+								"expanded_url": "http://TeamScienceEdu.co.uk/",
+								"display_url": "TeamScienceEdu.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1982,
+				"friends_count": 2514,
+				"listed_count": 8,
+				"created_at": "Sat Mar 18 07:57:34 +0000 2017",
+				"favourites_count": 907,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 663,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/962263639829991424/s1FFTO7p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/962263639829991424/s1FFTO7p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/843008461432635397/1518245896",
+				"profile_link_color": "FAE43B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 09 20:52:36 +0000 2018",
 		"id": 983447610831900700,
 		"id_str": "983447610831900672",
