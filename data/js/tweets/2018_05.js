@@ -1,6 +1,701 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 04 17:26:55 +0000 2018",
+		"id": 992455545603940400,
+		"id_str": "992455545603940352",
+		"text": "Narcisism ... or just Twitter? https://t.co/V0851ZUOot",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V0851ZUOot",
+					"expanded_url": "https://twitter.com/WrongHands1/status/992359353712816129",
+					"display_url": "twitter.com/WrongHands1/st…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3219,
+			"friends_count": 3751,
+			"listed_count": 209,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 440,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 992359353712816100,
+		"quoted_status_id_str": "992359353712816129",
+		"quoted_status": {
+			"created_at": "Fri May 04 11:04:41 +0000 2018",
+			"id": 992359353712816100,
+			"id_str": "992359353712816129",
+			"text": "narcissism https://t.co/T8yaSKem8F via @wordpressdotcom #narcissism #newsocialmedia #socialnetworking",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "narcissism",
+						"indices": [
+							56,
+							67
+						]
+					},
+					{
+						"text": "newsocialmedia",
+						"indices": [
+							68,
+							83
+						]
+					},
+					{
+						"text": "socialnetworking",
+						"indices": [
+							84,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wordpressdotcom",
+						"name": "WordPress.com",
+						"id": 823905,
+						"id_str": "823905",
+						"indices": [
+							39,
+							55
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/T8yaSKem8F",
+						"expanded_url": "https://wronghands1.com/2018/05/04/narcissism/",
+						"display_url": "wronghands1.com/2018/05/04/nar…",
+						"indices": [
+							11,
+							34
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 460223892,
+				"id_str": "460223892",
+				"name": "Wrong Hands",
+				"screen_name": "WrongHands1",
+				"location": "Ottawa Ontario",
+				"description": "Cartoons by John Atkinson: wronghands1@gmail.com",
+				"url": "https://t.co/4PHDINS7kK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4PHDINS7kK",
+								"expanded_url": "http://wronghands1.com",
+								"display_url": "wronghands1.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3131,
+				"friends_count": 231,
+				"listed_count": 119,
+				"created_at": "Tue Jan 10 14:36:43 +0000 2012",
+				"favourites_count": 350,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 521,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/665831609/fa7425e5fa35d8a5054f9a4e22e31bbd.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/665831609/fa7425e5fa35d8a5054f9a4e22e31bbd.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1745866293/wp-logo1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1745866293/wp-logo1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/460223892/1507662390",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "pt"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 04 09:40:53 +0000 2018",
+		"id": 992338264685207600,
+		"id_str": "992338264685207552",
+		"text": "@dianatremayne Thanks Diana, and for the pointer to that post. It's one I hadn't seen and  can understand how those views might be formed.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dianatremayne",
+					"name": "Diana Tremayne",
+					"id": 148064860,
+					"id_str": "148064860",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 992302827962744800,
+		"in_reply_to_status_id_str": "992302827962744832",
+		"in_reply_to_user_id": 148064860,
+		"in_reply_to_user_id_str": "148064860",
+		"in_reply_to_screen_name": "dianatremayne",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3219,
+			"friends_count": 3751,
+			"listed_count": 209,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 440,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 04 09:29:48 +0000 2018",
+		"id": 992335475460460500,
+		"id_str": "992335475460460544",
+		"text": "RT @cbthomson: Like if Norah Jones did a version of Living on a Prayer. https://t.co/cTXfZJ4z7x",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cbthomson",
+					"name": "Chris Thomson",
+					"id": 246845785,
+					"id_str": "246845785",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 992335187982848000,
+					"id_str": "992335187982848000",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DcV7mInWkAA86Ib.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcV7mInWkAA86Ib.jpg",
+					"url": "https://t.co/cTXfZJ4z7x",
+					"display_url": "pic.twitter.com/cTXfZJ4z7x",
+					"expanded_url": "https://twitter.com/cbthomson/status/992335204630040576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992335204630040600,
+					"source_status_id_str": "992335204630040576",
+					"source_user_id": 246845785,
+					"source_user_id_str": "246845785"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 992335187982848000,
+					"id_str": "992335187982848000",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DcV7mInWkAA86Ib.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcV7mInWkAA86Ib.jpg",
+					"url": "https://t.co/cTXfZJ4z7x",
+					"display_url": "pic.twitter.com/cTXfZJ4z7x",
+					"expanded_url": "https://twitter.com/cbthomson/status/992335204630040576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992335204630040600,
+					"source_status_id_str": "992335204630040576",
+					"source_user_id": 246845785,
+					"source_user_id_str": "246845785"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3219,
+			"friends_count": 3751,
+			"listed_count": 209,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 440,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 04 09:28:44 +0000 2018",
+			"id": 992335204630040600,
+			"id_str": "992335204630040576",
+			"text": "Like if Norah Jones did a version of Living on a Prayer. https://t.co/cTXfZJ4z7x",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 992335187982848000,
+						"id_str": "992335187982848000",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DcV7mInWkAA86Ib.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcV7mInWkAA86Ib.jpg",
+						"url": "https://t.co/cTXfZJ4z7x",
+						"display_url": "pic.twitter.com/cTXfZJ4z7x",
+						"expanded_url": "https://twitter.com/cbthomson/status/992335204630040576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 992335187982848000,
+						"id_str": "992335187982848000",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DcV7mInWkAA86Ib.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcV7mInWkAA86Ib.jpg",
+						"url": "https://t.co/cTXfZJ4z7x",
+						"display_url": "pic.twitter.com/cTXfZJ4z7x",
+						"expanded_url": "https://twitter.com/cbthomson/status/992335204630040576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 246845785,
+				"id_str": "246845785",
+				"name": "Chris Thomson",
+				"screen_name": "cbthomson",
+				"location": "Newcastle upon Tyne",
+				"description": "By day, a mild-mannered learning technologist. By night, sleeping mostly. My employer probably thinks my tweets are ridiculous. Work @Jisc Trustee @cur_creative",
+				"url": "https://t.co/XtYTAXIJzl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XtYTAXIJzl",
+								"expanded_url": "http://cbthomson.net/methinks",
+								"display_url": "cbthomson.net/methinks",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1032,
+				"friends_count": 725,
+				"listed_count": 94,
+				"created_at": "Thu Feb 03 15:54:36 +0000 2011",
+				"favourites_count": 6092,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8762,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/753329768/609d72dcbcec184caa24f45c6ad62cb2.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/753329768/609d72dcbcec184caa24f45c6ad62cb2.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/944467599143985152/9askMhNw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/944467599143985152/9askMhNw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/246845785/1490002050",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 03 18:49:21 +0000 2018",
 		"id": 992113900450697200,
 		"id_str": "992113900450697216",
