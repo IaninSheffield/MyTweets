@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 05 18:34:11 +0000 2018",
+		"id": 992834859965001700,
+		"id_str": "992834859965001728",
+		"text": "RT @TeamRE_UK: We didn’t want to be left out... #TeamRE - Pls RT + spread the word\n\n#TeamEnglish #TeamHistory #TeamGeography #TeamMFL #Team…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamRE",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "TeamEnglish",
+					"indices": [
+						84,
+						96
+					]
+				},
+				{
+					"text": "TeamHistory",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"text": "TeamGeography",
+					"indices": [
+						110,
+						124
+					]
+				},
+				{
+					"text": "TeamMFL",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeamRE_UK",
+					"name": "TeamRE",
+					"id": 965334468537081900,
+					"id_str": "965334468537081856",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3217,
+			"friends_count": 3751,
+			"listed_count": 209,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 441,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10797,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 18 21:46:45 +0000 2018",
+			"id": 965341843666989000,
+			"id_str": "965341843666989058",
+			"text": "We didn’t want to be left out... #TeamRE - Pls RT + spread the word\n\n#TeamEnglish #TeamHistory #TeamGeography… https://t.co/U3G2D6VnYp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TeamRE",
+						"indices": [
+							33,
+							40
+						]
+					},
+					{
+						"text": "TeamEnglish",
+						"indices": [
+							69,
+							81
+						]
+					},
+					{
+						"text": "TeamHistory",
+						"indices": [
+							82,
+							94
+						]
+					},
+					{
+						"text": "TeamGeography",
+						"indices": [
+							95,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/U3G2D6VnYp",
+						"expanded_url": "https://twitter.com/i/web/status/965341843666989058",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 965334468537081900,
+				"id_str": "965334468537081856",
+				"name": "TeamRE",
+				"screen_name": "TeamRE_UK",
+				"location": "London, England",
+				"description": "#TeamRE @TeamRE_UK - also check out the monthly #REChatUK and @REEchoChamber blogs - will RT requests + resources - hosted @andylewis_re @jpaddy + @lisa_0connor",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 368,
+				"friends_count": 8,
+				"listed_count": 2,
+				"created_at": "Sun Feb 18 21:17:27 +0000 2018",
+				"favourites_count": 47,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 451,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965339964568489986/j-u-xLFo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965339964568489986/j-u-xLFo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/965334468537081856/1518989776",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 25,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 04 17:26:55 +0000 2018",
 		"id": 992455545603940400,
 		"id_str": "992455545603940352",
