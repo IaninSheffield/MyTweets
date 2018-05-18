@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 17 19:01:41 +0000 2018",
+		"id": 997190437382361100,
+		"id_str": "997190437382361088",
+		"text": "@iamKirstenT @suebecks @dead_of_night @SueBamford @adgibbs @cbthomson @navhundal @aw_wright @DTE_SHU @dyoj… https://t.co/61uhEg6GzZ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iamKirstenT",
+					"name": "Kirsten Thompson",
+					"id": 34722043,
+					"id_str": "34722043",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "dead_of_night",
+					"name": "Richard Pountney",
+					"id": 21296925,
+					"id_str": "21296925",
+					"indices": [
+						23,
+						37
+					]
+				},
+				{
+					"screen_name": "SueBamford",
+					"name": "Sue Bamford",
+					"id": 35174733,
+					"id_str": "35174733",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"screen_name": "adgibbs",
+					"name": "Dave Gibbs",
+					"id": 12497852,
+					"id_str": "12497852",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"screen_name": "cbthomson",
+					"name": "Chris Thomson",
+					"id": 246845785,
+					"id_str": "246845785",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"screen_name": "navhundal",
+					"name": "Nav Hundal",
+					"id": 29696800,
+					"id_str": "29696800",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"screen_name": "aw_wright",
+					"name": "Andy Wright",
+					"id": 408393094,
+					"id_str": "408393094",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"screen_name": "DTE_SHU",
+					"name": "Kieran McDonald",
+					"id": 335200664,
+					"id_str": "335200664",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"screen_name": "dyoj",
+					"name": "Joy Drever",
+					"id": 35199937,
+					"id_str": "35199937",
+					"indices": [
+						101,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/61uhEg6GzZ",
+					"expanded_url": "https://twitter.com/i/web/status/997190437382361088",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 997075225421402100,
+		"in_reply_to_status_id_str": "997075225421402113",
+		"in_reply_to_user_id": 34722043,
+		"in_reply_to_user_id_str": "34722043",
+		"in_reply_to_screen_name": "iamKirstenT",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3750,
+			"listed_count": 209,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 445,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 17 18:26:17 +0000 2018",
+		"id": 997181527015510000,
+		"id_str": "997181527015510016",
+		"text": "RT @RNIB: Make sure you capitalize the first letter of each word in hashtags so that screen reader software reads out each word separately.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RNIB",
+					"name": "RNIB",
+					"id": 19360351,
+					"id_str": "19360351",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3750,
+			"listed_count": 209,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 445,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 08 09:48:12 +0000 2018",
+			"id": 993789655660318700,
+			"id_str": "993789655660318720",
+			"text": "Make sure you capitalize the first letter of each word in hashtags so that screen reader software reads out each wo… https://t.co/QBCKrR88e3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QBCKrR88e3",
+						"expanded_url": "https://twitter.com/i/web/status/993789655660318720",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19360351,
+				"id_str": "19360351",
+				"name": "RNIB",
+				"screen_name": "RNIB",
+				"location": "UK",
+				"description": "We’re RNIB. If you’re affected by sight loss, we’re here for you. #HowISee",
+				"url": "http://t.co/gN8OXYSlqn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/gN8OXYSlqn",
+								"expanded_url": "http://www.rnib.org.uk",
+								"display_url": "rnib.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37645,
+				"friends_count": 3229,
+				"listed_count": 863,
+				"created_at": "Thu Jan 22 20:49:54 +0000 2009",
+				"favourites_count": 17527,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19304,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "007787",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130002345/rnib_general.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130002345/rnib_general.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870244537146511361/0Ra7OaIj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870244537146511361/0Ra7OaIj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19360351/1514889319",
+				"profile_link_color": "2313B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E8F0F2",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 874,
+			"favorite_count": 1073,
+			"favorited": false,
+			"retweeted": true,
+			"scopes": {
+				"followers": false
+			},
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 874,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 17 18:25:15 +0000 2018",
+		"id": 997181267509727200,
+		"id_str": "997181267509727232",
+		"text": "RT @SHUCDARE: Congratulations to @SHUCDARE head of centre Dr Mike Coldwell for successfully defending his thesis today and being awarded hi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHUCDARE",
+					"name": "SHUCDARE",
+					"id": 333540991,
+					"id_str": "333540991",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "SHUCDARE",
+					"name": "SHUCDARE",
+					"id": 333540991,
+					"id_str": "333540991",
+					"indices": [
+						33,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3750,
+			"listed_count": 209,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 445,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 17 14:44:40 +0000 2018",
+			"id": 997125753643982800,
+			"id_str": "997125753643982848",
+			"text": "Congratulations to @SHUCDARE head of centre Dr Mike Coldwell for successfully defending his thesis today and being… https://t.co/utYfMlTSkz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SHUCDARE",
+						"name": "SHUCDARE",
+						"id": 333540991,
+						"id_str": "333540991",
+						"indices": [
+							19,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/utYfMlTSkz",
+						"expanded_url": "https://twitter.com/i/web/status/997125753643982848",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 333540991,
+				"id_str": "333540991",
+				"name": "SHUCDARE",
+				"screen_name": "SHUCDARE",
+				"location": "Sheffield, United Kingdom",
+				"description": "Sheffield Hallam University's centre for funded research, evaluation, consultancy and curriculum and professional development in education",
+				"url": "https://t.co/FTT8uUNzSL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FTT8uUNzSL",
+								"expanded_url": "http://www4.shu.ac.uk/research/cse/",
+								"display_url": "www4.shu.ac.uk/research/cse/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 889,
+				"friends_count": 773,
+				"listed_count": 29,
+				"created_at": "Mon Jul 11 18:06:17 +0000 2011",
+				"favourites_count": 934,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2891,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/705376026579304448/PysIm0uL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/705376026579304448/PysIm0uL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/333540991/1460529096",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 14 20:37:13 +0000 2018",
 		"id": 996127315590557700,
 		"id_str": "996127315590557696",
