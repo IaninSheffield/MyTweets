@@ -1,6 +1,583 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 24 18:30:35 +0000 2018",
+		"id": 999719324758806500,
+		"id_str": "999719324758806528",
+		"text": "@helenczerski Are you in @WeAreCyclingUK Helen?  Possibly seek legal redress?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helenczerski",
+					"name": "Helen Czerski",
+					"id": 460187847,
+					"id_str": "460187847",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "WeAreCyclingUK",
+					"name": "Cycling UK",
+					"id": 18983676,
+					"id_str": "18983676",
+					"indices": [
+						25,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 999715018596868100,
+		"in_reply_to_status_id_str": "999715018596868098",
+		"in_reply_to_user_id": 460187847,
+		"in_reply_to_user_id_str": "460187847",
+		"in_reply_to_screen_name": "helenczerski",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 3749,
+			"listed_count": 209,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 447,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10827,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 24 12:03:06 +0000 2018",
+		"id": 999621809673826300,
+		"id_str": "999621809673826304",
+		"text": "@julesandco \"uncontrollable shaky hands\" + \"fizzy\" = MEGA fizzy!\n\n🦆 when the cork goes ballistic.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "julesandco",
+					"name": "Julia Leatherland",
+					"id": 214655334,
+					"id_str": "214655334",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 999621092334620700,
+		"in_reply_to_status_id_str": "999621092334620672",
+		"in_reply_to_user_id": 214655334,
+		"in_reply_to_user_id_str": "214655334",
+		"in_reply_to_screen_name": "julesandco",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 3749,
+			"listed_count": 209,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 447,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10827,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 24 11:23:01 +0000 2018",
+		"id": 999611723463176200,
+		"id_str": "999611723463176192",
+		"text": "@julesandco @SheffieldLuke @Nick5307 @mrchrisjbailey @SHannamSwain @Rach_Handforth @LauranDoak  https://t.co/0e5Vch5vMm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "julesandco",
+					"name": "Julia Leatherland",
+					"id": 214655334,
+					"id_str": "214655334",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "SheffieldLuke",
+					"name": "Luke Beardon",
+					"id": 311952380,
+					"id_str": "311952380",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "Nick5307",
+					"name": "Nicholas Marshall",
+					"id": 2803369512,
+					"id_str": "2803369512",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"screen_name": "mrchrisjbailey",
+					"name": "Chris Bailey Ⓥ",
+					"id": 2599453764,
+					"id_str": "2599453764",
+					"indices": [
+						37,
+						52
+					]
+				},
+				{
+					"screen_name": "SHannamSwain",
+					"name": "Steph Hannam-Swain",
+					"id": 139021931,
+					"id_str": "139021931",
+					"indices": [
+						53,
+						66
+					]
+				},
+				{
+					"screen_name": "Rach_Handforth",
+					"name": "Rachel Handforth",
+					"id": 119696660,
+					"id_str": "119696660",
+					"indices": [
+						67,
+						82
+					]
+				},
+				{
+					"screen_name": "LauranDoak",
+					"name": "Lauran Doak",
+					"id": 25140244,
+					"id_str": "25140244",
+					"indices": [
+						83,
+						94
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 999611678076497900,
+					"id_str": "999611678076497920",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dd9VhmkU8AAo0Ck.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dd9VhmkU8AAo0Ck.jpg",
+					"url": "https://t.co/0e5Vch5vMm",
+					"display_url": "pic.twitter.com/0e5Vch5vMm",
+					"expanded_url": "https://twitter.com/IaninSheffield/status/999611723463176192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 999611678076497900,
+					"id_str": "999611678076497920",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dd9VhmkU8AAo0Ck.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dd9VhmkU8AAo0Ck.jpg",
+					"url": "https://t.co/0e5Vch5vMm",
+					"display_url": "pic.twitter.com/0e5Vch5vMm",
+					"expanded_url": "https://twitter.com/IaninSheffield/status/999611723463176192/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 242,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							121
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dd9VhmkU8AAo0Ck.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 999608812100374500,
+		"in_reply_to_status_id_str": "999608812100374530",
+		"in_reply_to_user_id": 214655334,
+		"in_reply_to_user_id_str": "214655334",
+		"in_reply_to_screen_name": "julesandco",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 3749,
+			"listed_count": 209,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 447,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10827,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu May 24 10:50:45 +0000 2018",
+		"id": 999603601696788500,
+		"id_str": "999603601696788481",
+		"text": "Wonder if @Nick5307 has come across \"Against metrics: how measuring performance by numbers backfires\" ?https://t.co/YAs77BzQcJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nick5307",
+					"name": "Nicholas Marshall",
+					"id": 2803369512,
+					"id_str": "2803369512",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YAs77BzQcJ",
+					"expanded_url": "http://blogs.lse.ac.uk/impactofsocialsciences/2018/05/24/against-metrics-how-measuring-performance-by-numbers-backfires/",
+					"display_url": "blogs.lse.ac.uk/impactofsocial…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 3749,
+			"listed_count": 209,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 447,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10827,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 23 19:04:33 +0000 2018",
 		"id": 999365483764822000,
 		"id_str": "999365483764822017",
