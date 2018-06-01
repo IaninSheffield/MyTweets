@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 31 09:40:22 +0000 2018",
+		"id": 1002122607825752000,
+		"id_str": "1002122607825752066",
+		"text": "RT @RealJamesWoods: Barring a true tragedy in your life (God forbid), this will assuage any sadness on earth... https://t.co/1nfsebDaQB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RealJamesWoods",
+					"name": "James Woods",
+					"id": 78523300,
+					"id_str": "78523300",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1nfsebDaQB",
+					"expanded_url": "https://twitter.com/wwarped/status/1001935478554230784",
+					"display_url": "twitter.com/wwarped/status…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3208,
+			"friends_count": 3746,
+			"listed_count": 209,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10832,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 31 05:56:21 +0000 2018",
+			"id": 1002066228477812700,
+			"id_str": "1002066228477812736",
+			"text": "Barring a true tragedy in your life (God forbid), this will assuage any sadness on earth... https://t.co/1nfsebDaQB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1nfsebDaQB",
+						"expanded_url": "https://twitter.com/wwarped/status/1001935478554230784",
+						"display_url": "twitter.com/wwarped/status…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 78523300,
+				"id_str": "78523300",
+				"name": "James Woods",
+				"screen_name": "RealJamesWoods",
+				"location": "",
+				"description": "American citizen",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1522693,
+				"friends_count": 4989,
+				"listed_count": 7056,
+				"created_at": "Wed Sep 30 05:31:28 +0000 2009",
+				"favourites_count": 3048,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21745,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796482667340382211/CoV8077b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796482667340382211/CoV8077b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/78523300/1515893101",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1001935478554230800,
+			"quoted_status_id_str": "1001935478554230784",
+			"quoted_status": {
+				"created_at": "Wed May 30 21:16:47 +0000 2018",
+				"id": 1001935478554230800,
+				"id_str": "1001935478554230784",
+				"text": "The race is on. https://t.co/op9PvbdMX5",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1001935298673233900,
+							"id_str": "1001935298673233920",
+							"indices": [
+								16,
+								39
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1001935298673233920/pu/img/ah2pVqGJ2-cU_H9a.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1001935298673233920/pu/img/ah2pVqGJ2-cU_H9a.jpg",
+							"url": "https://t.co/op9PvbdMX5",
+							"display_url": "pic.twitter.com/op9PvbdMX5",
+							"expanded_url": "https://twitter.com/WWarped/status/1001935478554230784/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 383,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 675,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 718,
+									"h": 1276,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1001935298673233900,
+							"id_str": "1001935298673233920",
+							"indices": [
+								16,
+								39
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1001935298673233920/pu/img/ah2pVqGJ2-cU_H9a.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1001935298673233920/pu/img/ah2pVqGJ2-cU_H9a.jpg",
+							"url": "https://t.co/op9PvbdMX5",
+							"display_url": "pic.twitter.com/op9PvbdMX5",
+							"expanded_url": "https://twitter.com/WWarped/status/1001935478554230784/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 383,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 675,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 718,
+									"h": 1276,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									359,
+									638
+								],
+								"duration_millis": 23734,
+								"variants": [
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/1001935298673233920/pu/pl/lvaruS9RBR2dPCYt.m3u8?tag=3"
+									},
+									{
+										"bitrate": 256000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/1001935298673233920/pu/vid/180x320/KUwMNOCVy7scHcCP.mp4?tag=3"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/1001935298673233920/pu/vid/360x640/QM_s0w62BgSIqKG6.mp4?tag=3"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 86765771,
+					"id_str": "86765771",
+					"name": "W",
+					"screen_name": "WWarped",
+					"location": "Witham",
+					"description": "\"Very nice boy\" Women at number 84.\n\"Do you have to swear so much?\" Next-door neighbour.\n\"Are you bloody Tweeting again\" Long suffering partner. \nOften NSFW",
+					"url": "https://t.co/QIAIX2fgri",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/QIAIX2fgri",
+									"expanded_url": "http://www.fuckthisisessex.com",
+									"display_url": "fuckthisisessex.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2618,
+					"friends_count": 975,
+					"listed_count": 110,
+					"created_at": "Sun Nov 01 17:46:50 +0000 2009",
+					"favourites_count": 15,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 111328,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "642D8B",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/960831942609588225/O9HXv1dp_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/960831942609588225/O9HXv1dp_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/86765771/1398441995",
+					"profile_link_color": "481278",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "7AC3EE",
+					"profile_text_color": "3D1957",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 23593,
+				"favorite_count": 54352,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3106,
+			"favorite_count": 10342,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1001935478554230800,
+		"quoted_status_id_str": "1001935478554230784",
+		"retweet_count": 3106,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 29 18:25:50 +0000 2018",
 		"id": 1001530068429131800,
 		"id_str": "1001530068429131781",
