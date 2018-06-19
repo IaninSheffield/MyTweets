@@ -1,6 +1,749 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 18 19:20:03 +0000 2018",
+		"id": 1008791470055313400,
+		"id_str": "1008791470055313409",
+		"text": "@MattLWilliams @DrLukeSloan @pbFeed I'd also like to add that I found the article you point to, and decision flow c… https://t.co/rjE4TlLUGR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattLWilliams",
+					"name": "Prof Matt Williams",
+					"id": 566734344,
+					"id_str": "566734344",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "DrLukeSloan",
+					"name": "Luke Sloan",
+					"id": 829044066,
+					"id_str": "829044066",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "pbFeed",
+					"name": "Pete Burnap",
+					"id": 27624189,
+					"id_str": "27624189",
+					"indices": [
+						28,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rjE4TlLUGR",
+					"expanded_url": "https://twitter.com/i/web/status/1008791470055313409",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1008778694716985300,
+		"in_reply_to_status_id_str": "1008778694716985344",
+		"in_reply_to_user_id": 566734344,
+		"in_reply_to_user_id_str": "566734344",
+		"in_reply_to_screen_name": "MattLWilliams",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 3748,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 18 19:16:10 +0000 2018",
+		"id": 1008790493659062300,
+		"id_str": "1008790493659062272",
+		"text": "@MattLWilliams @CurtisJessop @DrLukeSloan @pbFeed Thanks Matt. You're right, they do, which is why I've been surpri… https://t.co/e3WhXeVv56",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattLWilliams",
+					"name": "Prof Matt Williams",
+					"id": 566734344,
+					"id_str": "566734344",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "CurtisJessop",
+					"name": "Curtis Jessop",
+					"id": 334820375,
+					"id_str": "334820375",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "DrLukeSloan",
+					"name": "Luke Sloan",
+					"id": 829044066,
+					"id_str": "829044066",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "pbFeed",
+					"name": "Pete Burnap",
+					"id": 27624189,
+					"id_str": "27624189",
+					"indices": [
+						42,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e3WhXeVv56",
+					"expanded_url": "https://twitter.com/i/web/status/1008790493659062272",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1008778694716985300,
+		"in_reply_to_status_id_str": "1008778694716985344",
+		"in_reply_to_user_id": 566734344,
+		"in_reply_to_user_id_str": "566734344",
+		"in_reply_to_screen_name": "MattLWilliams",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 3748,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 18 15:43:44 +0000 2018",
+		"id": 1008737030816305200,
+		"id_str": "1008737030816305154",
+		"text": "@drkatyvigurs @Rach_Handforth Yeehaw and woohoo!!! Can I be the second then please? Or third, of fourth? I'm not ch… https://t.co/MZ9A1paxJP",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drkatyvigurs",
+					"name": "Katy Vigurs",
+					"id": 269696081,
+					"id_str": "269696081",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Rach_Handforth",
+					"name": "Rachel Handforth",
+					"id": 119696660,
+					"id_str": "119696660",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MZ9A1paxJP",
+					"expanded_url": "https://twitter.com/i/web/status/1008737030816305154",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1008731193028866000,
+		"in_reply_to_status_id_str": "1008731193028866048",
+		"in_reply_to_user_id": 269696081,
+		"in_reply_to_user_id_str": "269696081",
+		"in_reply_to_screen_name": "drkatyvigurs",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 3748,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 18 11:00:43 +0000 2018",
+		"id": 1008665806769741800,
+		"id_str": "1008665806769741824",
+		"text": "RT @erbradfield: Have you registered for #CreativeMethods18 @DerbyUni yet? We have limited FREE places so don't delay - book today! 🎟️ @daw…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CreativeMethods18",
+					"indices": [
+						41,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erbradfield",
+					"name": "Emily Bradfield",
+					"id": 468599022,
+					"id_str": "468599022",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "DerbyUni",
+					"name": "University of Derby",
+					"id": 39975307,
+					"id_str": "39975307",
+					"indices": [
+						60,
+						69
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 3748,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 12 16:06:58 +0000 2018",
+			"id": 1006568552965566500,
+			"id_str": "1006568552965566465",
+			"text": "Have you registered for #CreativeMethods18 @DerbyUni yet? We have limited FREE places so don't delay - book today!… https://t.co/BGLEgpzOtN",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CreativeMethods18",
+						"indices": [
+							24,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DerbyUni",
+						"name": "University of Derby",
+						"id": 39975307,
+						"id_str": "39975307",
+						"indices": [
+							43,
+							52
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BGLEgpzOtN",
+						"expanded_url": "https://twitter.com/i/web/status/1006568552965566465",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 468599022,
+				"id_str": "468599022",
+				"name": "Emily Bradfield",
+				"screen_name": "erbradfield",
+				"location": "Cambridge, England",
+				"description": "PhD Student: Creative Ageing @DerbyUni @ArtsHealthECRN @BSG_ERA @DementiaFriends",
+				"url": "https://t.co/ucPEyti0OP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ucPEyti0OP",
+								"expanded_url": "https://www.researchgate.net/profile/Emily_Bradfield2",
+								"display_url": "researchgate.net/profile/Emily_…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 416,
+				"friends_count": 747,
+				"listed_count": 6,
+				"created_at": "Thu Jan 19 18:18:17 +0000 2012",
+				"favourites_count": 4317,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2429,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/959938741220642816/5zRaQB4y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/959938741220642816/5zRaQB4y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/468599022/1527661675",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 18 10:53:05 +0000 2018",
+		"id": 1008663889175691300,
+		"id_str": "1008663889175691264",
+		"text": "@CurtisJessop Thanks Curtis. It was a long shot I know.\nI've tried some of the generic channels they offer, but of… https://t.co/3aPjY8uaDk",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CurtisJessop",
+					"name": "Curtis Jessop",
+					"id": 334820375,
+					"id_str": "334820375",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3aPjY8uaDk",
+					"expanded_url": "https://twitter.com/i/web/status/1008663889175691264",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1008659433012985900,
+		"in_reply_to_status_id_str": "1008659433012985856",
+		"in_reply_to_user_id": 334820375,
+		"in_reply_to_user_id_str": "334820375",
+		"in_reply_to_screen_name": "CurtisJessop",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 3748,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 17 06:48:00 +0000 2018",
 		"id": 1008239821045846000,
 		"id_str": "1008239821045846017",
