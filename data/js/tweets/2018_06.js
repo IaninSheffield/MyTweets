@@ -1,6 +1,811 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 24 20:01:53 +0000 2018",
+		"id": 1010976326566711300,
+		"id_str": "1010976326566711296",
+		"text": "Superb animation of 'Human Population Through Time' https://t.co/Qs9FcMf0Rq showing how it 'took 200,000 years for… https://t.co/D1MZOk2GG9",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qs9FcMf0Rq",
+					"expanded_url": "https://youtu.be/PUwmA3Q0_OE",
+					"display_url": "youtu.be/PUwmA3Q0_OE",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/D1MZOk2GG9",
+					"expanded_url": "https://twitter.com/i/web/status/1010976326566711296",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 3754,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10863,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 24 18:18:46 +0000 2018",
+		"id": 1010950374885339100,
+		"id_str": "1010950374885339141",
+		"text": "@c_j_d @erbradfield Smart move.\nMy problem is that it's the *presenter*, rather than the presentation, that's simple!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c_j_d",
+					"name": "Clare Danek",
+					"id": 14830173,
+					"id_str": "14830173",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "erbradfield",
+					"name": "Emily Bradfield",
+					"id": 468599022,
+					"id_str": "468599022",
+					"indices": [
+						7,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1010949594837119000,
+		"in_reply_to_status_id_str": "1010949594837118976",
+		"in_reply_to_user_id": 14830173,
+		"in_reply_to_user_id_str": "14830173",
+		"in_reply_to_screen_name": "c_j_d",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 3754,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10863,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 24 18:13:56 +0000 2018",
+		"id": 1010949158688251900,
+		"id_str": "1010949158688251905",
+		"text": "@erbradfield @c_j_d @DrTomDodsley @Iwilllearnsonar @ZoeMaireClegg Working on it right now! https://t.co/OY2IM5XzfS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erbradfield",
+					"name": "Emily Bradfield",
+					"id": 468599022,
+					"id_str": "468599022",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "c_j_d",
+					"name": "Clare Danek",
+					"id": 14830173,
+					"id_str": "14830173",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"screen_name": "DrTomDodsley",
+					"name": "Tom Dodsley",
+					"id": 881471528961007600,
+					"id_str": "881471528961007617",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"screen_name": "Iwilllearnsonar",
+					"name": "Afrodita Nikolova",
+					"id": 84958756,
+					"id_str": "84958756",
+					"indices": [
+						34,
+						50
+					]
+				},
+				{
+					"screen_name": "ZoeMaireClegg",
+					"name": "Zoe Clegg",
+					"id": 127235220,
+					"id_str": "127235220",
+					"indices": [
+						51,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1010949115952484400,
+					"id_str": "1010949115952484354",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dgec3V5X0AIgACl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dgec3V5X0AIgACl.jpg",
+					"url": "https://t.co/OY2IM5XzfS",
+					"display_url": "pic.twitter.com/OY2IM5XzfS",
+					"expanded_url": "https://twitter.com/IaninSheffield/status/1010949158688251905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1010949115952484400,
+					"id_str": "1010949115952484354",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dgec3V5X0AIgACl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dgec3V5X0AIgACl.jpg",
+					"url": "https://t.co/OY2IM5XzfS",
+					"display_url": "pic.twitter.com/OY2IM5XzfS",
+					"expanded_url": "https://twitter.com/IaninSheffield/status/1010949158688251905/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dgec3V5X0AIgACl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1010947322711244800,
+		"in_reply_to_status_id_str": "1010947322711244801",
+		"in_reply_to_user_id": 468599022,
+		"in_reply_to_user_id_str": "468599022",
+		"in_reply_to_screen_name": "erbradfield",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 3754,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10863,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 24 17:42:27 +0000 2018",
+		"id": 1010941236415549400,
+		"id_str": "1010941236415549446",
+		"text": "RT @rachelphysics: Last call to sign up to next week's free @takeonphysics CPD in #Sheffield including #WorldCup inspired football workshop…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sheffield",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "WorldCup",
+					"indices": [
+						103,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rachelphysics",
+					"name": "Rachel Hartley",
+					"id": 608484617,
+					"id_str": "608484617",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "TakeOnPhysics",
+					"name": "Stimulating Physics Network",
+					"id": 757394390,
+					"id_str": "757394390",
+					"indices": [
+						60,
+						74
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 3754,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10863,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 20 09:43:44 +0000 2018",
+			"id": 1009371211913158700,
+			"id_str": "1009371211913158656",
+			"text": "Last call to sign up to next week's free @takeonphysics CPD in #Sheffield including #WorldCup inspired football wor… https://t.co/VtGxt0KzFs",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Sheffield",
+						"indices": [
+							63,
+							73
+						]
+					},
+					{
+						"text": "WorldCup",
+						"indices": [
+							84,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TakeOnPhysics",
+						"name": "Stimulating Physics Network",
+						"id": 757394390,
+						"id_str": "757394390",
+						"indices": [
+							41,
+							55
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VtGxt0KzFs",
+						"expanded_url": "https://twitter.com/i/web/status/1009371211913158656",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 608484617,
+				"id_str": "608484617",
+				"name": "Rachel Hartley",
+				"screen_name": "rachelphysics",
+				"location": "Yorkshire",
+				"description": "Stimulating Physics with the IOP, promoting physics far and wide (esp amongst girls). I'm still learning...guitar, swimming, balance. All tweets my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 665,
+				"friends_count": 704,
+				"listed_count": 26,
+				"created_at": "Thu Jun 14 20:48:17 +0000 2012",
+				"favourites_count": 763,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1007,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2792524570/a35d54b22910d15ea1f1d264389c6def_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2792524570/a35d54b22910d15ea1f1d264389c6def_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/608484617/1411414691",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1006522785991135200,
+			"quoted_status_id_str": "1006522785991135232",
+			"quoted_status": {
+				"created_at": "Tue Jun 12 13:05:07 +0000 2018",
+				"id": 1006522785991135200,
+				"id_str": "1006522785991135232",
+				"text": "After the #GCSEphysics exams, why not celebrate with other teachers of physics at our @takeonphysics teacher day… https://t.co/wcN35BMdeT",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "GCSEphysics",
+							"indices": [
+								10,
+								22
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "TakeOnPhysics",
+							"name": "Stimulating Physics Network",
+							"id": 757394390,
+							"id_str": "757394390",
+							"indices": [
+								86,
+								100
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/wcN35BMdeT",
+							"expanded_url": "https://twitter.com/i/web/status/1006522785991135232",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 608484617,
+					"id_str": "608484617",
+					"name": "Rachel Hartley",
+					"screen_name": "rachelphysics",
+					"location": "Yorkshire",
+					"description": "Stimulating Physics with the IOP, promoting physics far and wide (esp amongst girls). I'm still learning...guitar, swimming, balance. All tweets my own.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 665,
+					"friends_count": 704,
+					"listed_count": 26,
+					"created_at": "Thu Jun 14 20:48:17 +0000 2012",
+					"favourites_count": 763,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 1007,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/2792524570/a35d54b22910d15ea1f1d264389c6def_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/2792524570/a35d54b22910d15ea1f1d264389c6def_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/608484617/1411414691",
+					"profile_link_color": "19CF86",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 10,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1006522785991135200,
+		"quoted_status_id_str": "1006522785991135232",
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 22 19:21:37 +0000 2018",
 		"id": 1010241416063316000,
 		"id_str": "1010241416063315969",
