@@ -1,6 +1,911 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 15 17:42:24 +0000 2018",
+		"id": 1018551369681330200,
+		"id_str": "1018551369681330176",
+		"text": "@hattisambrooks @mrchrisjbailey Interesting point.\n\nI hadn't thought about it before, but I've found that, by being… https://t.co/K7RiW1zvqa",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hattisambrooks",
+					"name": "Hatti Sambrooks",
+					"id": 826023083895038000,
+					"id_str": "826023083895037952",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "mrchrisjbailey",
+					"name": "Chris Bailey Ⓥ",
+					"id": 2599453764,
+					"id_str": "2599453764",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K7RiW1zvqa",
+					"expanded_url": "https://twitter.com/i/web/status/1018551369681330176",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1018548097721352200,
+		"in_reply_to_status_id_str": "1018548097721352192",
+		"in_reply_to_user_id": 826023083895038000,
+		"in_reply_to_user_id_str": "826023083895037952",
+		"in_reply_to_screen_name": "hattisambrooks",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 3757,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10934,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 15 16:30:33 +0000 2018",
+		"id": 1018533285356556300,
+		"id_str": "1018533285356556288",
+		"text": "@hattisambrooks @mrchrisjbailey Try challenging someone famous. What's the worse that could happen?\n\nActually, no,… https://t.co/dQvZ5NBzcJ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hattisambrooks",
+					"name": "Hatti Sambrooks",
+					"id": 826023083895038000,
+					"id_str": "826023083895037952",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "mrchrisjbailey",
+					"name": "Chris Bailey Ⓥ",
+					"id": 2599453764,
+					"id_str": "2599453764",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dQvZ5NBzcJ",
+					"expanded_url": "https://twitter.com/i/web/status/1018533285356556288",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1018524123704758300,
+		"in_reply_to_status_id_str": "1018524123704758272",
+		"in_reply_to_user_id": 826023083895038000,
+		"in_reply_to_user_id_str": "826023083895037952",
+		"in_reply_to_screen_name": "hattisambrooks",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 3757,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10934,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 15 16:15:19 +0000 2018",
+		"id": 1018529452794445800,
+		"id_str": "1018529452794445824",
+		"text": "@mrchrisjbailey @hattisambrooks Oy! Six people. Tha'sall. Just six!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrchrisjbailey",
+					"name": "Chris Bailey Ⓥ",
+					"id": 2599453764,
+					"id_str": "2599453764",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "hattisambrooks",
+					"name": "Hatti Sambrooks",
+					"id": 826023083895038000,
+					"id_str": "826023083895037952",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1018521347541086200,
+		"in_reply_to_status_id_str": "1018521347541086209",
+		"in_reply_to_user_id": 2599453764,
+		"in_reply_to_user_id_str": "2599453764",
+		"in_reply_to_screen_name": "mrchrisjbailey",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 3757,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10934,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 15 16:05:31 +0000 2018",
+		"id": 1018526986816376800,
+		"id_str": "1018526986816376833",
+		"text": "RT @royalsociety: Happy birthday, Dame Jocelyn Bell Burnell. The astrophysicist discovered the first radio pulsars while studying for her p…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "royalsociety",
+					"name": "The Royal Society",
+					"id": 28567809,
+					"id_str": "28567809",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 3757,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10934,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 15 14:01:21 +0000 2018",
+			"id": 1018495738194661400,
+			"id_str": "1018495738194661376",
+			"text": "Happy birthday, Dame Jocelyn Bell Burnell. The astrophysicist discovered the first radio pulsars while studying for… https://t.co/Vno5EC9Ony",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Vno5EC9Ony",
+						"expanded_url": "https://twitter.com/i/web/status/1018495738194661376",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28567809,
+				"id_str": "28567809",
+				"name": "The Royal Society",
+				"screen_name": "royalsociety",
+				"location": "London, UK",
+				"description": "The Royal Society is a Fellowship of the world's most eminent scientists and is the oldest scientific academy in continuous existence. http://t.co/RVhEldfBvO",
+				"url": "http://t.co/HcrtFYqUKP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HcrtFYqUKP",
+								"expanded_url": "http://www.royalsociety.org",
+								"display_url": "royalsociety.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/RVhEldfBvO",
+								"expanded_url": "http://fb.com/theroyalsociety",
+								"display_url": "fb.com/theroyalsociety",
+								"indices": [
+									135,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 188837,
+				"friends_count": 812,
+				"listed_count": 4171,
+				"created_at": "Fri Apr 03 14:00:38 +0000 2009",
+				"favourites_count": 23823,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 30664,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D31245",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877106859643109377/MN0sRwQX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877106859643109377/MN0sRwQX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28567809/1527844302",
+				"profile_link_color": "D31245",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 76,
+			"favorite_count": 140,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 15 10:13:01 +0000 2018",
+		"id": 1018438278012432400,
+		"id_str": "1018438278012432385",
+		"text": "Sovereign wealth funds covered in an interesting @cheerfulpodcast https://t.co/wMwkgWcaUG and by @freakonomics ...… https://t.co/6AZy1oCzAB",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CheerfulPodcast",
+					"name": "ReasonsToBeCheerful",
+					"id": 908233161934504000,
+					"id_str": "908233161934503936",
+					"indices": [
+						49,
+						65
+					]
+				},
+				{
+					"screen_name": "Freakonomics",
+					"name": "Freakonomics",
+					"id": 14514804,
+					"id_str": "14514804",
+					"indices": [
+						97,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wMwkgWcaUG",
+					"expanded_url": "https://www.acast.com/reasonstobecheerful/episode27.mindthe-wealth-gap-asocialwealthfundforbritain",
+					"display_url": "acast.com/reasonstobeche…",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/6AZy1oCzAB",
+					"expanded_url": "https://twitter.com/i/web/status/1018438278012432385",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 3757,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10934,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1018070008780374000,
+		"quoted_status_id_str": "1018070008780374016",
+		"quoted_status": {
+			"created_at": "Sat Jul 14 09:49:39 +0000 2018",
+			"id": 1018070008780374000,
+			"id_str": "1018070008780374016",
+			"text": "The first trillion dollar “company” won’t be Apple or Google, instead it’s Norway’s Oil Fund which just passed $1 t… https://t.co/3wOqDhmwYO",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3wOqDhmwYO",
+						"expanded_url": "https://twitter.com/i/web/status/1018070008780374016",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1577241403,
+				"id_str": "1577241403",
+				"name": "Pieter Levels ✨",
+				"screen_name": "levelsio",
+				"location": "🌎🌍🌏🚀🌔",
+				"description": "Serial maker🏝https://t.co/dr6IFbxwX1 + 👩‍💻https://t.co/w6AtUy7mcR + 🗺https://t.co/OkOJ0XagRA + 📕https://t.co/CTgH9KJLuV + 📊https://t.co/jhYdA5gX84 + 🌴https://t.co/0ZlhK6XlYF + 📣https://t.co/SVSZa2qfac + 🚧https://t.co/2sPrMbDB7j",
+				"url": "https://t.co/NY02ID1av7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NY02ID1av7",
+								"expanded_url": "https://levels.io",
+								"display_url": "levels.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dr6IFbxwX1",
+								"expanded_url": "http://nomadlist.com",
+								"display_url": "nomadlist.com",
+								"indices": [
+									13,
+									36
+								]
+							},
+							{
+								"url": "https://t.co/w6AtUy7mcR",
+								"expanded_url": "http://remoteok.io",
+								"display_url": "remoteok.io",
+								"indices": [
+									42,
+									65
+								]
+							},
+							{
+								"url": "https://t.co/OkOJ0XagRA",
+								"expanded_url": "http://hoodmaps.com",
+								"display_url": "hoodmaps.com",
+								"indices": [
+									69,
+									92
+								]
+							},
+							{
+								"url": "https://t.co/CTgH9KJLuV",
+								"expanded_url": "http://makebook.io",
+								"display_url": "makebook.io",
+								"indices": [
+									96,
+									119
+								]
+							},
+							{
+								"url": "https://t.co/jhYdA5gX84",
+								"expanded_url": "http://openstartups.co",
+								"display_url": "openstartups.co",
+								"indices": [
+									123,
+									146
+								]
+							},
+							{
+								"url": "https://t.co/0ZlhK6XlYF",
+								"expanded_url": "http://makevillage.com",
+								"display_url": "makevillage.com",
+								"indices": [
+									150,
+									173
+								]
+							},
+							{
+								"url": "https://t.co/SVSZa2qfac",
+								"expanded_url": "http://t.me/levelsio",
+								"display_url": "t.me/levelsio",
+								"indices": [
+									177,
+									200
+								]
+							},
+							{
+								"url": "https://t.co/2sPrMbDB7j",
+								"expanded_url": "http://wip.chat/@levelsio",
+								"display_url": "wip.chat/@levelsio",
+								"indices": [
+									204,
+									227
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 50238,
+				"friends_count": 0,
+				"listed_count": 1321,
+				"created_at": "Mon Jul 08 09:31:59 +0000 2013",
+				"favourites_count": 51931,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 62430,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/970199050619256832/m_6mxqnX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/970199050619256832/m_6mxqnX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1577241403/1510316261",
+				"profile_link_color": "FF473F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01c2c76e25e13826",
+				"url": "https://api.twitter.com/1.1/geo/id/01c2c76e25e13826.json",
+				"place_type": "city",
+				"name": "Seongdong-gu",
+				"full_name": "Seongdong-gu, Republic of Korea",
+				"country_code": "KR",
+				"country": "Republic of Korea",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								127.008075726462,
+								37.528553479982
+							],
+							[
+								127.066625993619,
+								37.528553479982
+							],
+							[
+								127.066625993619,
+								37.569212476809
+							],
+							[
+								127.008075726462,
+								37.569212476809
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3475,
+			"favorite_count": 4370,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 14 19:05:10 +0000 2018",
 		"id": 1018209809722757100,
 		"id_str": "1018209809722757120",
