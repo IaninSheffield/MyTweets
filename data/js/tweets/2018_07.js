@@ -1,6 +1,733 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 27 18:01:33 +0000 2018",
+		"id": 1022904839477575700,
+		"id_str": "1022904839477575680",
+		"text": "RT @xkcdComic: Peer Review https://t.co/PEGVfqe8Ay https://t.co/PwBD4RBqKC https://t.co/iEwBr3vs9v",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xkcdComic",
+					"name": "XKCD Comic",
+					"id": 2251623492,
+					"id_str": "2251623492",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PEGVfqe8Ay",
+					"expanded_url": "https://xkcd.com/2025/",
+					"display_url": "xkcd.com/2025/",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/PwBD4RBqKC",
+					"expanded_url": "https://m.xkcd.com/2025/",
+					"display_url": "m.xkcd.com/2025/",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1022861711240380400,
+					"id_str": "1022861711240380419",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DjHvTpjUwAMFMUs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjHvTpjUwAMFMUs.jpg",
+					"url": "https://t.co/iEwBr3vs9v",
+					"display_url": "pic.twitter.com/iEwBr3vs9v",
+					"expanded_url": "https://twitter.com/xkcdComic/status/1022861712511262720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 329,
+							"h": 411,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 329,
+							"h": 411,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 329,
+							"h": 411,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1022861712511262700,
+					"source_status_id_str": "1022861712511262720",
+					"source_user_id": 2251623492,
+					"source_user_id_str": "2251623492"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022861711240380400,
+					"id_str": "1022861711240380419",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DjHvTpjUwAMFMUs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjHvTpjUwAMFMUs.jpg",
+					"url": "https://t.co/iEwBr3vs9v",
+					"display_url": "pic.twitter.com/iEwBr3vs9v",
+					"expanded_url": "https://twitter.com/xkcdComic/status/1022861712511262720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 329,
+							"h": 411,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 329,
+							"h": 411,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 329,
+							"h": 411,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1022861712511262700,
+					"source_status_id_str": "1022861712511262720",
+					"source_user_id": 2251623492,
+					"source_user_id_str": "2251623492"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 3758,
+			"listed_count": 207,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 27 15:10:10 +0000 2018",
+			"id": 1022861712511262700,
+			"id_str": "1022861712511262720",
+			"text": "Peer Review https://t.co/PEGVfqe8Ay https://t.co/PwBD4RBqKC https://t.co/iEwBr3vs9v",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PEGVfqe8Ay",
+						"expanded_url": "https://xkcd.com/2025/",
+						"display_url": "xkcd.com/2025/",
+						"indices": [
+							12,
+							35
+						]
+					},
+					{
+						"url": "https://t.co/PwBD4RBqKC",
+						"expanded_url": "https://m.xkcd.com/2025/",
+						"display_url": "m.xkcd.com/2025/",
+						"indices": [
+							36,
+							59
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1022861711240380400,
+						"id_str": "1022861711240380419",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/DjHvTpjUwAMFMUs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjHvTpjUwAMFMUs.jpg",
+						"url": "https://t.co/iEwBr3vs9v",
+						"display_url": "pic.twitter.com/iEwBr3vs9v",
+						"expanded_url": "https://twitter.com/xkcdComic/status/1022861712511262720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 329,
+								"h": 411,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 329,
+								"h": 411,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 329,
+								"h": 411,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1022861711240380400,
+						"id_str": "1022861711240380419",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/DjHvTpjUwAMFMUs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjHvTpjUwAMFMUs.jpg",
+						"url": "https://t.co/iEwBr3vs9v",
+						"display_url": "pic.twitter.com/iEwBr3vs9v",
+						"expanded_url": "https://twitter.com/xkcdComic/status/1022861712511262720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 329,
+								"h": 411,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 329,
+								"h": 411,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 329,
+								"h": 411,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://dghubble.com\" rel=\"nofollow\">xkcdComic</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2251623492,
+				"id_str": "2251623492",
+				"name": "XKCD Comic",
+				"screen_name": "xkcdComic",
+				"location": "",
+				"description": "XKCD comic feed with images, mobile friendly links, and what-if articles. Unofficial, run by @dghubble",
+				"url": "http://t.co/Tca90xyNDW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Tca90xyNDW",
+								"expanded_url": "http://xkcd.com",
+								"display_url": "xkcd.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 173235,
+				"friends_count": 1,
+				"listed_count": 2133,
+				"created_at": "Wed Dec 18 08:00:58 +0000 2013",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 799,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1320,
+			"favorite_count": 2796,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1320,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 27 17:52:26 +0000 2018",
+		"id": 1022902548502593500,
+		"id_str": "1022902548502593537",
+		"text": "RT @ianaddison: Are you somewhere in the UK that isn't Hampshire? Could you send my class a postcard? We want to explore the UK (although t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ianaddison",
+					"name": "Ian Addison",
+					"id": 25382562,
+					"id_str": "25382562",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 3758,
+			"listed_count": 207,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 26 20:21:28 +0000 2018",
+			"id": 1022577666619269100,
+			"id_str": "1022577666619269127",
+			"text": "Are you somewhere in the UK that isn't Hampshire? Could you send my class a postcard? We want to explore the UK (al… https://t.co/cCVB5cvEOe",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cCVB5cvEOe",
+						"expanded_url": "https://twitter.com/i/web/status/1022577666619269127",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25382562,
+				"id_str": "25382562",
+				"name": "Ian Addison",
+				"screen_name": "ianaddison",
+				"location": "Hampshire",
+				"description": "Year 3 Leader responsible for ICT and Maths across the school. Author of Essentials: ICT https://t.co/Qn4189TeGD Occasional runner. Father of one.",
+				"url": "https://t.co/75YfYNBuQF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/75YfYNBuQF",
+								"expanded_url": "http://www.ianaddison.net",
+								"display_url": "ianaddison.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Qn4189TeGD",
+								"expanded_url": "http://bit.ly/essentialsict",
+								"display_url": "bit.ly/essentialsict",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 15432,
+				"friends_count": 637,
+				"listed_count": 488,
+				"created_at": "Thu Mar 19 20:51:06 +0000 2009",
+				"favourites_count": 2531,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 67608,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3046847286/9a8d9a15812cf9c7b674fb0d7a24eea0_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3046847286/9a8d9a15812cf9c7b674fb0d7a24eea0_normal.jpeg",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 190,
+			"favorite_count": 256,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 27 17:52:18 +0000 2018",
+		"id": 1022902514260353000,
+		"id_str": "1022902514260353036",
+		"text": "@ianaddison Hi Ian You (and your classes?) might be interested in this research project by @JuliaGillen https://t.co/1ogXAk70Y8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ianaddison",
+					"name": "Ian Addison",
+					"id": 25382562,
+					"id_str": "25382562",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "JuliaGillen",
+					"name": "Julia Gillen",
+					"id": 59814496,
+					"id_str": "59814496",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1ogXAk70Y8",
+					"expanded_url": "https://youtu.be/JvSVUO0D-Bc",
+					"display_url": "youtu.be/JvSVUO0D-Bc",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1022577666619269100,
+		"in_reply_to_status_id_str": "1022577666619269127",
+		"in_reply_to_user_id": 25382562,
+		"in_reply_to_user_id_str": "25382562",
+		"in_reply_to_screen_name": "ianaddison",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 3758,
+			"listed_count": 207,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 26 16:57:44 +0000 2018",
 		"id": 1022526391601049600,
 		"id_str": "1022526391601049600",
