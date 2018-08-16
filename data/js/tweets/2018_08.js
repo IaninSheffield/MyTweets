@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 15 20:47:42 +0000 2018",
+		"id": 1029832025224695800,
+		"id_str": "1029832025224695810",
+		"text": "RT @xkcdComic: Repair or Replace https://t.co/DQ9EoJFoQ3 https://t.co/26kBkU3NqF https://t.co/UC97pH9AKW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xkcdComic",
+					"name": "XKCD Comic",
+					"id": 2251623492,
+					"id_str": "2251623492",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DQ9EoJFoQ3",
+					"expanded_url": "https://xkcd.com/2033/",
+					"display_url": "xkcd.com/2033/",
+					"indices": [
+						33,
+						56
+					]
+				},
+				{
+					"url": "https://t.co/26kBkU3NqF",
+					"expanded_url": "https://m.xkcd.com/2033/",
+					"display_url": "m.xkcd.com/2033/",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1029767274620629000,
+					"id_str": "1029767274620628992",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Dkp34V0VsAAqG2S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dkp34V0VsAAqG2S.jpg",
+					"url": "https://t.co/UC97pH9AKW",
+					"display_url": "pic.twitter.com/UC97pH9AKW",
+					"expanded_url": "https://twitter.com/xkcdComic/status/1029767275950178304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 289,
+							"h": 429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 289,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 289,
+							"h": 429,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029767275950178300,
+					"source_status_id_str": "1029767275950178304",
+					"source_user_id": 2251623492,
+					"source_user_id_str": "2251623492"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1029767274620629000,
+					"id_str": "1029767274620628992",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Dkp34V0VsAAqG2S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dkp34V0VsAAqG2S.jpg",
+					"url": "https://t.co/UC97pH9AKW",
+					"display_url": "pic.twitter.com/UC97pH9AKW",
+					"expanded_url": "https://twitter.com/xkcdComic/status/1029767275950178304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 289,
+							"h": 429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 289,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 289,
+							"h": 429,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029767275950178300,
+					"source_status_id_str": "1029767275950178304",
+					"source_user_id": 2251623492,
+					"source_user_id_str": "2251623492"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3187,
+			"friends_count": 3758,
+			"listed_count": 208,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10984,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 15 16:30:25 +0000 2018",
+			"id": 1029767275950178300,
+			"id_str": "1029767275950178304",
+			"text": "Repair or Replace https://t.co/DQ9EoJFoQ3 https://t.co/26kBkU3NqF https://t.co/UC97pH9AKW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DQ9EoJFoQ3",
+						"expanded_url": "https://xkcd.com/2033/",
+						"display_url": "xkcd.com/2033/",
+						"indices": [
+							18,
+							41
+						]
+					},
+					{
+						"url": "https://t.co/26kBkU3NqF",
+						"expanded_url": "https://m.xkcd.com/2033/",
+						"display_url": "m.xkcd.com/2033/",
+						"indices": [
+							42,
+							65
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1029767274620629000,
+						"id_str": "1029767274620628992",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkp34V0VsAAqG2S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkp34V0VsAAqG2S.jpg",
+						"url": "https://t.co/UC97pH9AKW",
+						"display_url": "pic.twitter.com/UC97pH9AKW",
+						"expanded_url": "https://twitter.com/xkcdComic/status/1029767275950178304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 289,
+								"h": 429,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 289,
+								"h": 429,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 289,
+								"h": 429,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1029767274620629000,
+						"id_str": "1029767274620628992",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkp34V0VsAAqG2S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkp34V0VsAAqG2S.jpg",
+						"url": "https://t.co/UC97pH9AKW",
+						"display_url": "pic.twitter.com/UC97pH9AKW",
+						"expanded_url": "https://twitter.com/xkcdComic/status/1029767275950178304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 289,
+								"h": 429,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 289,
+								"h": 429,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 289,
+								"h": 429,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://dghubble.com\" rel=\"nofollow\">xkcdComic</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2251623492,
+				"id_str": "2251623492",
+				"name": "XKCD Comic",
+				"screen_name": "xkcdComic",
+				"location": "",
+				"description": "XKCD comic feed with images, mobile friendly links, and what-if articles. Unofficial, run by @dghubble",
+				"url": "http://t.co/Tca90xyNDW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Tca90xyNDW",
+								"expanded_url": "http://xkcd.com",
+								"display_url": "xkcd.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 179468,
+				"friends_count": 1,
+				"listed_count": 2186,
+				"created_at": "Wed Dec 18 08:00:58 +0000 2013",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 807,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 460,
+			"favorite_count": 1321,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 460,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 14 20:43:56 +0000 2018",
 		"id": 1029468688259473400,
 		"id_str": "1029468688259473410",
