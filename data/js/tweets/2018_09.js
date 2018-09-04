@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 03 20:22:17 +0000 2018",
+		"id": 1036710999020240900,
+		"id_str": "1036710999020240897",
+		"text": "The 'isochronous curve' with sticky tape, pencil and a rubber band ... and a tobacco tin! [Can you still get them?!… https://t.co/ocjwSYfhIZ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ocjwSYfhIZ",
+					"expanded_url": "https://twitter.com/i/web/status/1036710999020240897",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3196,
+			"friends_count": 3763,
+			"listed_count": 207,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 03 06:51:12 +0000 2018",
+		"id": 1036506880938524700,
+		"id_str": "1036506880938524672",
+		"text": "Wishing @HFord_SciEd, @EM_PhysicsNQT, other members of the group and ALL NQTs the very best for their new careers. https://t.co/udXHBmwLXz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HFord_SciEd",
+					"name": "H Ford",
+					"id": 750430125272039400,
+					"id_str": "750430125272039424",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "EM_PhysicsNQT",
+					"name": "E.Rose",
+					"id": 914485360016715800,
+					"id_str": "914485360016715778",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1036506868175306800,
+					"id_str": "1036506868175306752",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DmJpgUTXgAAm_yV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DmJpgUTXgAAm_yV.jpg",
+					"url": "https://t.co/udXHBmwLXz",
+					"display_url": "pic.twitter.com/udXHBmwLXz",
+					"expanded_url": "https://twitter.com/IaninSheffield/status/1036506880938524672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1036506868175306800,
+					"id_str": "1036506868175306752",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DmJpgUTXgAAm_yV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DmJpgUTXgAAm_yV.jpg",
+					"url": "https://t.co/udXHBmwLXz",
+					"display_url": "pic.twitter.com/udXHBmwLXz",
+					"expanded_url": "https://twitter.com/IaninSheffield/status/1036506880938524672/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							187
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DmJpgUTXgAAm_yV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3196,
+			"friends_count": 3763,
+			"listed_count": 207,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 02 19:08:50 +0000 2018",
 		"id": 1036330125191729200,
 		"id_str": "1036330125191729152",
