@@ -1,6 +1,570 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Tue Sep 11 17:56:29 +0000 2018",
+		"id": 1039573406264565800,
+		"id_str": "1039573406264565761",
+		"text": "RT @Goodchap62: Introducing our framework of autism activism engagement in schools with @ejr88 at @CeDRLancs @SHU_SIoE #CeDR18 https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CeDR18",
+					"indices": [
+						119,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Goodchap62",
+					"name": "Nick Hodge",
+					"id": 619745347,
+					"id_str": "619745347",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "ejr88",
+					"name": "Emma Rice",
+					"id": 374056031,
+					"id_str": "374056031",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"screen_name": "CeDRLancs",
+					"name": "CeDR",
+					"id": 2215388186,
+					"id_str": "2215388186",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"screen_name": "SHU_SIoE",
+					"name": "SHU_SIoE",
+					"id": 1933610330,
+					"id_str": "1933610330",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3200,
+			"friends_count": 3763,
+			"listed_count": 207,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11017,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 11 15:08:49 +0000 2018",
+			"id": 1039531212119916500,
+			"id_str": "1039531212119916545",
+			"text": "Introducing our framework of autism activism engagement in schools with @ejr88 at @CeDRLancs @SHU_SIoE #CeDR18 https://t.co/J5SbK7HEFz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CeDR18",
+						"indices": [
+							103,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ejr88",
+						"name": "Emma Rice",
+						"id": 374056031,
+						"id_str": "374056031",
+						"indices": [
+							72,
+							78
+						]
+					},
+					{
+						"screen_name": "CeDRLancs",
+						"name": "CeDR",
+						"id": 2215388186,
+						"id_str": "2215388186",
+						"indices": [
+							82,
+							92
+						]
+					},
+					{
+						"screen_name": "SHU_SIoE",
+						"name": "SHU_SIoE",
+						"id": 1933610330,
+						"id_str": "1933610330",
+						"indices": [
+							93,
+							102
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1039531186949906400,
+						"id_str": "1039531186949906433",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/Dm0oG1sW4AERney.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dm0oG1sW4AERney.jpg",
+						"url": "https://t.co/J5SbK7HEFz",
+						"display_url": "pic.twitter.com/J5SbK7HEFz",
+						"expanded_url": "https://twitter.com/Goodchap62/status/1039531212119916545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1039531186949906400,
+						"id_str": "1039531186949906433",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/Dm0oG1sW4AERney.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dm0oG1sW4AERney.jpg",
+						"url": "https://t.co/J5SbK7HEFz",
+						"display_url": "pic.twitter.com/J5SbK7HEFz",
+						"expanded_url": "https://twitter.com/Goodchap62/status/1039531212119916545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 619745347,
+				"id_str": "619745347",
+				"name": "Nick Hodge",
+				"screen_name": "Goodchap62",
+				"location": "Sheffield, England",
+				"description": "Professor of Inclusive Practice at Sheffield Hallam University. Research focus on autism and disability. Views expressed are my own.",
+				"url": "http://t.co/tAR0LzEhTo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tAR0LzEhTo",
+								"expanded_url": "http://theautismcentre.wordpress.com/author/autismcentre/",
+								"display_url": "theautismcentre.wordpress.com/author/autismc…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1698,
+				"friends_count": 972,
+				"listed_count": 32,
+				"created_at": "Wed Jun 27 06:39:30 +0000 2012",
+				"favourites_count": 3276,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5105,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/842413621112111110/FHQY5u5B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/842413621112111110/FHQY5u5B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/619745347/1489686311",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 11 05:11:30 +0000 2018",
+		"id": 1039380892513460200,
+		"id_str": "1039380892513460224",
+		"text": "Something for @SHDocSchool to consider for next year perhaps? https://t.co/borg51y7SP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHDocSchool",
+					"name": "Doctoral School",
+					"id": 3524318957,
+					"id_str": "3524318957",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/borg51y7SP",
+					"expanded_url": "https://twitter.com/wadekelly/status/1039359838206087169",
+					"display_url": "twitter.com/wadekelly/stat…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3200,
+			"friends_count": 3763,
+			"listed_count": 207,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11017,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1039356948225830900,
+		"quoted_status_id_str": "1039356948225830912",
+		"quoted_status": {
+			"created_at": "Tue Sep 11 03:36:21 +0000 2018",
+			"id": 1039356948225830900,
+			"id_str": "1039356948225830912",
+			"text": "If you're in Canberra, you should go see what young academics have been up to. Other universities (like mine,… https://t.co/YMM3jzeT1G",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YMM3jzeT1G",
+						"expanded_url": "https://twitter.com/i/web/status/1039356948225830912",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18199081,
+				"id_str": "18199081",
+				"name": "wadekelly",
+				"screen_name": "wadekelly",
+				"location": "Australia",
+				"description": "A Canadian in Australia. Study. Work. Travel. Nerd Nite Melbs Boss. Info Science PhD candidate. Community engagement proselytiser.",
+				"url": "https://t.co/Sprt9U0NyR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Sprt9U0NyR",
+								"expanded_url": "http://www.wadekelly.com",
+								"display_url": "wadekelly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1581,
+				"friends_count": 887,
+				"listed_count": 45,
+				"created_at": "Wed Dec 17 20:41:21 +0000 2008",
+				"favourites_count": 11024,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13450,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/921172668925198336/Xe5QHP1k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/921172668925198336/Xe5QHP1k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18199081/1508459687",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1039356366345969700,
+			"quoted_status_id_str": "1039356366345969665",
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 10 11:16:43 +0000 2018",
 		"id": 1039110415383441400,
 		"id_str": "1039110415383441408",
