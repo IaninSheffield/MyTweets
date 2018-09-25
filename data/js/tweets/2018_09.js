@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 24 13:31:12 +0000 2018",
+		"id": 1044217688539770900,
+		"id_str": "1044217688539770880",
+		"text": "@Nick5307 @julesandco @LauranDoak @Rach_Handforth @mrchrisjbailey @SHannamSwain @hattisambrooks If we were assessin… https://t.co/bnPtNJfx3P",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nick5307",
+					"name": "Nicholas Marshall",
+					"id": 2803369512,
+					"id_str": "2803369512",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "julesandco",
+					"name": "Dr Julia Leatherland",
+					"id": 214655334,
+					"id_str": "214655334",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "LauranDoak",
+					"name": "Lauran Doak",
+					"id": 1042495925871173600,
+					"id_str": "1042495925871173632",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"screen_name": "Rach_Handforth",
+					"name": "Dr Rachel Handforth",
+					"id": 119696660,
+					"id_str": "119696660",
+					"indices": [
+						34,
+						49
+					]
+				},
+				{
+					"screen_name": "mrchrisjbailey",
+					"name": "Chris Bailey Ⓥ",
+					"id": 2599453764,
+					"id_str": "2599453764",
+					"indices": [
+						50,
+						65
+					]
+				},
+				{
+					"screen_name": "SHannamSwain",
+					"name": "Steph Hannam-Swain",
+					"id": 139021931,
+					"id_str": "139021931",
+					"indices": [
+						66,
+						79
+					]
+				},
+				{
+					"screen_name": "hattisambrooks",
+					"name": "Hatti Sambrooks",
+					"id": 826023083895038000,
+					"id_str": "826023083895037952",
+					"indices": [
+						80,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bnPtNJfx3P",
+					"expanded_url": "https://twitter.com/i/web/status/1044217688539770880",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1044214469310771200,
+		"in_reply_to_status_id_str": "1044214469310771201",
+		"in_reply_to_user_id": 2803369512,
+		"in_reply_to_user_id_str": "2803369512",
+		"in_reply_to_screen_name": "Nick5307",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3208,
+			"friends_count": 3771,
+			"listed_count": 207,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 24 07:52:23 +0000 2018",
+		"id": 1044132424689602600,
+		"id_str": "1044132424689602561",
+		"text": "@mrkrndvs Now *that* is a good question. Perhaps @largerama has a view?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "largerama",
+					"name": "Nick Jackson",
+					"id": 82992519,
+					"id_str": "82992519",
+					"indices": [
+						49,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1044104560229388300,
+		"in_reply_to_status_id_str": "1044104560229388288",
+		"in_reply_to_user_id": 372768752,
+		"in_reply_to_user_id_str": "372768752",
+		"in_reply_to_screen_name": "mrkrndvs",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3208,
+			"friends_count": 3771,
+			"listed_count": 207,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 23 21:07:32 +0000 2018",
 		"id": 1043970141439086600,
 		"id_str": "1043970141439086592",
