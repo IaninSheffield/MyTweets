@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 06:15:01 +0000 2018",
+		"id": 1050630903192404000,
+		"id_str": "1050630903192403969",
+		"full_text": "Might be me of course, but having to work hard to interpret this infographic.😟 https://t.co/JLevKoSZPE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JLevKoSZPE",
+					"expanded_url": "https://twitter.com/NGControlRoom/status/1050618268505989123",
+					"display_url": "twitter.com/NGControlRoom/…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3216,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11060,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1050304748145045500,
+		"quoted_status_id_str": "1050304748145045504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JLevKoSZPE",
+			"expanded": "https://twitter.com/NGControlRoom/status/1050618268505989123",
+			"display": "twitter.com/NGControlRoom/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 11 08:39:00 +0000 2018",
+			"id": 1050304748145045500,
+			"id_str": "1050304748145045504",
+			"full_text": "On Wednesday #gas generated 34.9% of British electricity, more than wind 19.9%, nuclear 18.4%, imports 8.3%, biomass 7.4%, solar 4.8%, hydro 3.7%, coal 2.3%, other 0.3% *excl. non-renewable distributed generation https://t.co/UGdHZJkmaA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gas",
+						"indices": [
+							13,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1050304746395820000,
+						"id_str": "1050304746395820033",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/DpNumiLUYAEsNAe.png",
+						"media_url_https": "https://pbs.twimg.com/media/DpNumiLUYAEsNAe.png",
+						"url": "https://t.co/UGdHZJkmaA",
+						"display_url": "pic.twitter.com/UGdHZJkmaA",
+						"expanded_url": "https://twitter.com/NGControlRoom/status/1050304748145045504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1050304746395820000,
+						"id_str": "1050304746395820033",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/DpNumiLUYAEsNAe.png",
+						"media_url_https": "https://pbs.twimg.com/media/DpNumiLUYAEsNAe.png",
+						"url": "https://t.co/UGdHZJkmaA",
+						"display_url": "pic.twitter.com/UGdHZJkmaA",
+						"expanded_url": "https://twitter.com/NGControlRoom/status/1050304748145045504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www2.nationalgrid.com/uk/industry-information/electricity-transmission-system-operations/\" rel=\"nofollow\">GB Elexon Electricity Data</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 781406141616095200,
+				"id_str": "781406141616095234",
+				"name": "ESO Control Room",
+				"screen_name": "NGControlRoom",
+				"location": "United Kingdom",
+				"description": "Electricity National Control Centre @ng_eso. We balance #electricity generation and demand in real-time across GB. Tweets by @AlasdairBruce",
+				"url": "https://t.co/bU9x06b70l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bU9x06b70l",
+								"expanded_url": "https://www.nationalgrideso.com/",
+								"display_url": "nationalgrideso.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7756,
+				"friends_count": 793,
+				"listed_count": 80,
+				"created_at": "Thu Sep 29 08:11:56 +0000 2016",
+				"favourites_count": 1837,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3124,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1041425914213621760/JGfmjl4E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041425914213621760/JGfmjl4E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/781406141616095234/1507749259",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Might be me of course, but having to work hard to interpret this infographic.😟 https://t.co/JLevKoSZPE"
+	},
+	{
 		"created_at": "Wed Oct 10 06:20:01 +0000 2018",
 		"id": 1049907384196522000,
 		"id_str": "1049907384196521984",
