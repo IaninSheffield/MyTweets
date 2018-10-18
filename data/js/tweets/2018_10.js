@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 13:00:24 +0000 2018",
+		"id": 1052544857544290300,
+		"id_str": "1052544857544290304",
+		"full_text": "Are you aged 50+ &amp; living in Cambridge? @CAN_Cambridge \nIf so, you might be eligible to participate in my research! #CreativeAgeing \nFind out more: https://t.co/JUd2sBOXNo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CreativeAgeing",
+					"indices": [
+						120,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CAN_Cambridge",
+					"name": "CambridgeArtsNetwork",
+					"id": 2422127826,
+					"id_str": "2422127826",
+					"indices": [
+						44,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JUd2sBOXNo",
+					"expanded_url": "https://creativeageingphd.wordpress.com/2018/10/17/call-for-participants-creative-ageing-research-study/",
+					"display_url": "creativeageingphd.wordpress.com/2018/10/17/cal…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 468599022,
+			"id_str": "468599022",
+			"name": "Emily Bradfield",
+			"screen_name": "erbradfield",
+			"location": "Cambridge, England",
+			"description": "PhD Student: Creative Ageing @DerbyUni @BSG_ERA @AgeofCreativity @DementiaFriends @ArtsHealthECRN Arts Consultant & Events Manager | Dementia Friends Champion",
+			"url": "https://t.co/ucPEyti0OP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ucPEyti0OP",
+							"expanded_url": "https://www.researchgate.net/profile/Emily_Bradfield2",
+							"display_url": "researchgate.net/profile/Emily_…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Thu Jan 19 18:18:17 +0000 2012",
+			"favourites_count": 6306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3407,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959938741220642816/5zRaQB4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959938741220642816/5zRaQB4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/468599022/1539192172",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you aged 50+ &amp; living in Cambridge? @CAN_Cambridge \nIf so, you might be eligible to participate in my research! #CreativeAgeing \nFind out more: https://t.co/JUd2sBOXNo"
+	},
+	{
+		"created_at": "Tue Oct 16 10:56:56 +0000 2018",
+		"id": 1052151401906884600,
+		"id_str": "1052151401906884609",
+		"full_text": "Getting more people with disabilities involved in parkrun🌳. Chuffed to present the @parkrunUK PROVE project to an international audience @ISPAH #ISPAH2018. Read more here: https://t.co/pDojfkU6dh @CSES_shu @SHUresearch @SHUPressOffice @stevehaake https://t.co/9kbbfQb2MY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ISPAH2018",
+					"indices": [
+						144,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "parkrunUK",
+					"name": "parkrun UK",
+					"id": 884180960,
+					"id_str": "884180960",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"screen_name": "ISPAH",
+					"name": "ISPAH",
+					"id": 53771388,
+					"id_str": "53771388",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"screen_name": "CSES_shu",
+					"name": "CSES at Hallam",
+					"id": 224611549,
+					"id_str": "224611549",
+					"indices": [
+						196,
+						205
+					]
+				},
+				{
+					"screen_name": "SHUresearch",
+					"name": "SHU Research",
+					"id": 3028265171,
+					"id_str": "3028265171",
+					"indices": [
+						206,
+						218
+					]
+				},
+				{
+					"screen_name": "SHUPressOffice",
+					"name": "SHU Press Office",
+					"id": 621984468,
+					"id_str": "621984468",
+					"indices": [
+						219,
+						234
+					]
+				},
+				{
+					"screen_name": "stevehaake",
+					"name": "Steve Haake",
+					"id": 102688083,
+					"id_str": "102688083",
+					"indices": [
+						235,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pDojfkU6dh",
+					"expanded_url": "https://www.shu.ac.uk/learn-more/parkrun",
+					"display_url": "shu.ac.uk/learn-more/par…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1052151393505689600,
+					"id_str": "1052151393505689600",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpn-HivWwAA4fKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpn-HivWwAA4fKP.jpg",
+					"url": "https://t.co/9kbbfQb2MY",
+					"display_url": "pic.twitter.com/9kbbfQb2MY",
+					"expanded_url": "https://twitter.com/HQuirky/status/1052151401906884609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 938,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052151393505689600,
+					"id_str": "1052151393505689600",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpn-HivWwAA4fKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpn-HivWwAA4fKP.jpg",
+					"url": "https://t.co/9kbbfQb2MY",
+					"display_url": "pic.twitter.com/9kbbfQb2MY",
+					"expanded_url": "https://twitter.com/HQuirky/status/1052151401906884609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 938,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 636991004,
+			"id_str": "636991004",
+			"name": "Helen Quirk",
+			"screen_name": "HQuirky",
+			"location": "Sheffield",
+			"description": "Exercise enthusiast, researcher and psychologist sharing my passion for physical activity, health and wellbeing!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 187,
+			"listed_count": 3,
+			"created_at": "Mon Jul 16 13:58:08 +0000 2012",
+			"favourites_count": 841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 551,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/741900219261063168/0TrhIpow_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/741900219261063168/0TrhIpow_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/636991004/1519382118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Getting more people with disabilities involved in parkrun🌳. Chuffed to present the @parkrunUK PROVE project to an international audience @ISPAH #ISPAH2018. Read more here: https://t.co/pDojfkU6dh @CSES_shu @SHUresearch @SHUPressOffice @stevehaake https://t.co/9kbbfQb2MY"
+	},
+	{
 		"created_at": "Fri Oct 12 06:15:01 +0000 2018",
 		"id": 1050630903192404000,
 		"id_str": "1050630903192403969",
