@@ -1,6 +1,623 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 18 20:03:23 +0000 2018",
+		"id": 1053013694484009000,
+		"id_str": "1053013694484008961",
+		"full_text": "@mrsgclass3 😄\nI’m working on my doctoral thesis (teacher PD and Twitter) and would be really grateful if you would allow me to include a quote from that post? (Appropriately credited of course).\nMore details: https://t.co/0DtpgSgWUo, DMs open if you have any Qs.\nThx 🙂",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrsgclass3",
+					"name": "MrsG",
+					"id": 3234032172,
+					"id_str": "3234032172",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0DtpgSgWUo",
+					"expanded_url": "https://cpdin140.wordpress.com/publishing-my-thesis-information-for-participants/",
+					"display_url": "cpdin140.wordpress.com/publishing-my-…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053012670650159100,
+		"in_reply_to_status_id_str": "1053012670650159104",
+		"in_reply_to_user_id": 3234032172,
+		"in_reply_to_user_id_str": "3234032172",
+		"in_reply_to_screen_name": "mrsgclass3",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3210,
+			"friends_count": 3767,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mrsgclass3 😄\nI’m working on my doctoral thesis (teacher PD and Twitter) and would be really grateful if you would allow me to include a quote from that post? (Appropriately credited of course).\nMore details: https://t.co/0DtpgSgWUo, DMs open if you have any Qs.\nThx 🙂"
+	},
+	{
+		"created_at": "Thu Oct 18 19:41:52 +0000 2018",
+		"id": 1053008280895787000,
+		"id_str": "1053008280895787013",
+		"full_text": "@mrsgclass3 \nHi there. Wonder if I could ask a favour regarding a staffrm post you wrote a while ago (“My tentative steps …”)? It’s #4MyResearch\nMy DMs are open if you’d prefer to reply there.\nThanks :-)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "4MyResearch",
+					"indices": [
+						132,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrsgclass3",
+					"name": "MrsG",
+					"id": 3234032172,
+					"id_str": "3234032172",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3234032172,
+		"in_reply_to_user_id_str": "3234032172",
+		"in_reply_to_screen_name": "mrsgclass3",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3210,
+			"friends_count": 3767,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mrsgclass3 \nHi there. Wonder if I could ask a favour regarding a staffrm post you wrote a while ago (“My tentative steps …”)? It’s #4MyResearch\nMy DMs are open if you’d prefer to reply there.\nThanks :-)"
+	},
+	{
+		"created_at": "Thu Oct 18 17:29:19 +0000 2018",
+		"id": 1052974923336028200,
+		"id_str": "1052974923336028161",
+		"full_text": "Only a month to go till one of our favourite days of the year: @theASE regional conference at @SHU_SIoE.  https://t.co/y1IbrK3o5M Loads of brilliant workshops and exhibitors for teachers of science from all phases &amp; settings. @teacheredshu @SHUEducation https://t.co/DuUTgVcUn9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theASE",
+					"name": "The ASE",
+					"id": 155690477,
+					"id_str": "155690477",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"screen_name": "SHU_SIoE",
+					"name": "SHU_SIoE",
+					"id": 1933610330,
+					"id_str": "1933610330",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"screen_name": "teacheredshu",
+					"name": "Department of Teacher Education",
+					"id": 2829450405,
+					"id_str": "2829450405",
+					"indices": [
+						230,
+						243
+					]
+				},
+				{
+					"screen_name": "SHUEducation",
+					"name": "Department of Education Childhood and Inclusion",
+					"id": 953572861788213200,
+					"id_str": "953572861788213249",
+					"indices": [
+						244,
+						257
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y1IbrK3o5M",
+					"expanded_url": "https://www.ase.org.uk/northern-conference",
+					"display_url": "ase.org.uk/northern-confe…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1052974706591182800,
+					"id_str": "1052974706591182848",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpzq6q_WsAA3In-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpzq6q_WsAA3In-.jpg",
+					"url": "https://t.co/DuUTgVcUn9",
+					"display_url": "pic.twitter.com/DuUTgVcUn9",
+					"expanded_url": "https://twitter.com/SHUCDARE/status/1052974923336028161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 797,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 265,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052974706591182800,
+					"id_str": "1052974706591182848",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpzq6q_WsAA3In-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpzq6q_WsAA3In-.jpg",
+					"url": "https://t.co/DuUTgVcUn9",
+					"display_url": "pic.twitter.com/DuUTgVcUn9",
+					"expanded_url": "https://twitter.com/SHUCDARE/status/1052974923336028161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 797,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 265,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1052974728590299100,
+					"id_str": "1052974728590299137",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpzq788WkAEO852.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpzq788WkAEO852.jpg",
+					"url": "https://t.co/DuUTgVcUn9",
+					"display_url": "pic.twitter.com/DuUTgVcUn9",
+					"expanded_url": "https://twitter.com/SHUCDARE/status/1052974923336028161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 593,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 197,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 348,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 333540991,
+			"id_str": "333540991",
+			"name": "SHUCDARE",
+			"screen_name": "SHUCDARE",
+			"location": "Sheffield, United Kingdom",
+			"description": "Sheffield Hallam University's centre for funded research, evaluation, consultancy and curriculum and professional development in education",
+			"url": "https://t.co/pQ611dBuCr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pQ611dBuCr",
+							"expanded_url": "https://www.shu.ac.uk/about-us/academic-departments/institute-of-education/research/cdare",
+							"display_url": "shu.ac.uk/about-us/acade…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935,
+			"friends_count": 798,
+			"listed_count": 30,
+			"created_at": "Mon Jul 11 18:06:17 +0000 2011",
+			"favourites_count": 1369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3133,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/705376026579304448/PysIm0uL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/705376026579304448/PysIm0uL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/333540991/1460529096",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Only a month to go till one of our favourite days of the year: @theASE regional conference at @SHU_SIoE.  https://t.co/y1IbrK3o5M Loads of brilliant workshops and exhibitors for teachers of science from all phases &amp; settings. @teacheredshu @SHUEducation https://t.co/DuUTgVcUn9"
+	},
+	{
+		"created_at": "Wed Oct 17 13:00:24 +0000 2018",
+		"id": 1052544857544290300,
+		"id_str": "1052544857544290304",
+		"full_text": "Are you aged 50+ &amp; living in Cambridge? @CAN_Cambridge \nIf so, you might be eligible to participate in my research! #CreativeAgeing \nFind out more: https://t.co/JUd2sBOXNo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CreativeAgeing",
+					"indices": [
+						120,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CAN_Cambridge",
+					"name": "CambridgeArtsNetwork",
+					"id": 2422127826,
+					"id_str": "2422127826",
+					"indices": [
+						44,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JUd2sBOXNo",
+					"expanded_url": "https://creativeageingphd.wordpress.com/2018/10/17/call-for-participants-creative-ageing-research-study/",
+					"display_url": "creativeageingphd.wordpress.com/2018/10/17/cal…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 468599022,
+			"id_str": "468599022",
+			"name": "Emily Bradfield",
+			"screen_name": "erbradfield",
+			"location": "Cambridge, England",
+			"description": "PhD Student: Creative Ageing @DerbyUni @BSG_ERA @AgeofCreativity @DementiaFriends @ArtsHealthECRN Arts Consultant & Events Manager | Dementia Friends Champion",
+			"url": "https://t.co/ucPEyti0OP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ucPEyti0OP",
+							"expanded_url": "https://www.researchgate.net/profile/Emily_Bradfield2",
+							"display_url": "researchgate.net/profile/Emily_…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 954,
+			"listed_count": 8,
+			"created_at": "Thu Jan 19 18:18:17 +0000 2012",
+			"favourites_count": 6306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3407,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959938741220642816/5zRaQB4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959938741220642816/5zRaQB4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/468599022/1539192172",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you aged 50+ &amp; living in Cambridge? @CAN_Cambridge \nIf so, you might be eligible to participate in my research! #CreativeAgeing \nFind out more: https://t.co/JUd2sBOXNo"
+	},
+	{
 		"created_at": "Wed Oct 17 13:00:24 +0000 2018",
 		"id": 1052544857544290300,
 		"id_str": "1052544857544290304",
