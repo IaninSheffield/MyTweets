@@ -1,6 +1,1724 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 23 18:07:14 +0000 2018",
+		"id": 1054796402545647600,
+		"id_str": "1054796402545647616",
+		"full_text": "@lauranteaches Thanks Lauran; really appreciate that 👍",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lauranteaches",
+					"name": "Laur HD",
+					"id": 763375827526508500,
+					"id_str": "763375827526508544",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1054747298775863300,
+		"in_reply_to_status_id_str": "1054747298775863296",
+		"in_reply_to_user_id": 763375827526508500,
+		"in_reply_to_user_id_str": "763375827526508544",
+		"in_reply_to_screen_name": "lauranteaches",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lauranteaches Thanks Lauran; really appreciate that 👍"
+	},
+	{
+		"created_at": "Tue Oct 23 13:54:25 +0000 2018",
+		"id": 1054732779836063700,
+		"id_str": "1054732779836063745",
+		"full_text": "@thatboycanteach Hi Aidan\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thatboycanteach",
+					"name": "Aidan Severs",
+					"id": 3303531875,
+					"id_str": "3303531875",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 803262635428843500,
+		"in_reply_to_status_id_str": "803262635428843520",
+		"in_reply_to_user_id": 3303531875,
+		"in_reply_to_user_id_str": "3303531875",
+		"in_reply_to_screen_name": "thatboycanteach",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thatboycanteach Hi Aidan\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂"
+	},
+	{
+		"created_at": "Tue Oct 23 13:51:06 +0000 2018",
+		"id": 1054731944246894600,
+		"id_str": "1054731944246894598",
+		"full_text": "@clairebrooks Hi Claire\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clairebrooks",
+					"name": "Claire Brooks",
+					"id": 21629610,
+					"id_str": "21629610",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 268521025703145470,
+		"in_reply_to_status_id_str": "268521025703145473",
+		"in_reply_to_user_id": 21629610,
+		"in_reply_to_user_id_str": "21629610",
+		"in_reply_to_screen_name": "clairebrooks",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@clairebrooks Hi Claire\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂"
+	},
+	{
+		"created_at": "Tue Oct 23 13:49:59 +0000 2018",
+		"id": 1054731665694777300,
+		"id_str": "1054731665694777351",
+		"full_text": "@lasic Hi Tomaz\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lasic",
+					"name": "Tomaz Lasic",
+					"id": 15668900,
+					"id_str": "15668900",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 268520376483598340,
+		"in_reply_to_status_id_str": "268520376483598336",
+		"in_reply_to_user_id": 15668900,
+		"in_reply_to_user_id_str": "15668900",
+		"in_reply_to_screen_name": "lasic",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lasic Hi Tomaz\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂"
+	},
+	{
+		"created_at": "Tue Oct 23 13:40:51 +0000 2018",
+		"id": 1054729366578565100,
+		"id_str": "1054729366578565121",
+		"full_text": "@JRK_81 Thanks Jenni; really appreciate that 👍",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JRK_81",
+					"name": "Jenni Cresswell",
+					"id": 20378935,
+					"id_str": "20378935",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1054728349094940700,
+		"in_reply_to_status_id_str": "1054728349094940672",
+		"in_reply_to_user_id": 20378935,
+		"in_reply_to_user_id_str": "20378935",
+		"in_reply_to_screen_name": "JRK_81",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JRK_81 Thanks Jenni; really appreciate that 👍"
+	},
+	{
+		"created_at": "Tue Oct 23 13:40:14 +0000 2018",
+		"id": 1054729211276116000,
+		"id_str": "1054729211276115968",
+		"full_text": "@joshchoward Hi Josh\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshchoward",
+					"name": "Josh Howard",
+					"id": 3146328324,
+					"id_str": "3146328324",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 832981886263816200,
+		"in_reply_to_status_id_str": "832981886263816195",
+		"in_reply_to_user_id": 3146328324,
+		"in_reply_to_user_id_str": "3146328324",
+		"in_reply_to_screen_name": "joshchoward",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@joshchoward Hi Josh\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂"
+	},
+	{
+		"created_at": "Tue Oct 23 13:38:18 +0000 2018",
+		"id": 1054728725269569500,
+		"id_str": "1054728725269569537",
+		"full_text": "@hoffmanteambret Hi Brett\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoffmanteambret",
+					"name": "Brett Hoffman",
+					"id": 739855166,
+					"id_str": "739855166",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 832980165470851100,
+		"in_reply_to_status_id_str": "832980165470851073",
+		"in_reply_to_user_id": 739855166,
+		"in_reply_to_user_id_str": "739855166",
+		"in_reply_to_screen_name": "hoffmanteambret",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hoffmanteambret Hi Brett\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂"
+	},
+	{
+		"created_at": "Tue Oct 23 13:12:37 +0000 2018",
+		"id": 1054722263134756900,
+		"id_str": "1054722263134756865",
+		"full_text": "@room20awesome Hi Jennifer\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "room20awesome",
+					"name": "Jennifer Seitsinger",
+					"id": 2440878283,
+					"id_str": "2440878283",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 832980320504905700,
+		"in_reply_to_status_id_str": "832980320504905732",
+		"in_reply_to_user_id": 2440878283,
+		"in_reply_to_user_id_str": "2440878283",
+		"in_reply_to_screen_name": "room20awesome",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@room20awesome Hi Jennifer\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂"
+	},
+	{
+		"created_at": "Tue Oct 23 13:09:23 +0000 2018",
+		"id": 1054721445987827700,
+		"id_str": "1054721445987827713",
+		"full_text": "@JRK_81 Hi Jenni\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JRK_81",
+					"name": "Jenni Cresswell",
+					"id": 20378935,
+					"id_str": "20378935",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 807184420524458000,
+		"in_reply_to_status_id_str": "807184420524457985",
+		"in_reply_to_user_id": 20378935,
+		"in_reply_to_user_id_str": "20378935",
+		"in_reply_to_screen_name": "JRK_81",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JRK_81 Hi Jenni\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂"
+	},
+	{
+		"created_at": "Tue Oct 23 13:05:11 +0000 2018",
+		"id": 1054720392466743300,
+		"id_str": "1054720392466743297",
+		"full_text": "@mavfinkle Hi Maria\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mavfinkle",
+					"name": "Maria Finkle",
+					"id": 2844449427,
+					"id_str": "2844449427",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 969756481259233300,
+		"in_reply_to_status_id_str": "969756481259233280",
+		"in_reply_to_user_id": 2844449427,
+		"in_reply_to_user_id_str": "2844449427",
+		"in_reply_to_screen_name": "mavfinkle",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mavfinkle Hi Maria\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂"
+	},
+	{
+		"created_at": "Tue Oct 23 13:03:13 +0000 2018",
+		"id": 1054719897014599700,
+		"id_str": "1054719897014599685",
+		"full_text": "@ColumbiaPapa Hi Edward\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ColumbiaPapa",
+					"name": "Edward Schumacher",
+					"id": 339406647,
+					"id_str": "339406647",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 577177760201732100,
+		"in_reply_to_status_id_str": "577177760201732096",
+		"in_reply_to_user_id": 339406647,
+		"in_reply_to_user_id_str": "339406647",
+		"in_reply_to_screen_name": "ColumbiaPapa",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ColumbiaPapa Hi Edward\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂"
+	},
+	{
+		"created_at": "Tue Oct 23 12:58:35 +0000 2018",
+		"id": 1054718731539091500,
+		"id_str": "1054718731539091457",
+		"full_text": "@SoyBolingual Hi Robin\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SoyBolingual",
+					"name": "Robin Boling",
+					"id": 2308759866,
+					"id_str": "2308759866",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 835574301315203100,
+		"in_reply_to_status_id_str": "835574301315203072",
+		"in_reply_to_user_id": 2308759866,
+		"in_reply_to_user_id_str": "2308759866",
+		"in_reply_to_screen_name": "SoyBolingual",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SoyBolingual Hi Robin\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂"
+	},
+	{
+		"created_at": "Tue Oct 23 12:48:21 +0000 2018",
+		"id": 1054716153606627300,
+		"id_str": "1054716153606627329",
+		"full_text": "@MrsMathia Hi Deborah\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrsMathia",
+					"name": "Deborah Barakat",
+					"id": 1531785204,
+					"id_str": "1531785204",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 835498162966184000,
+		"in_reply_to_status_id_str": "835498162966183937",
+		"in_reply_to_user_id": 1531785204,
+		"in_reply_to_user_id_str": "1531785204",
+		"in_reply_to_screen_name": "MrsMathia",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MrsMathia Hi Deborah\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂"
+	},
+	{
+		"created_at": "Tue Oct 23 12:43:08 +0000 2018",
+		"id": 1054714839560536000,
+		"id_str": "1054714839560536065",
+		"full_text": "@elainecook23 Hi Elaine\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elainecook23",
+					"name": "Elaine",
+					"id": 1616188754,
+					"id_str": "1616188754",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 835506946967027700,
+		"in_reply_to_status_id_str": "835506946967027712",
+		"in_reply_to_user_id": 1616188754,
+		"in_reply_to_user_id_str": "1616188754",
+		"in_reply_to_screen_name": "elainecook23",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@elainecook23 Hi Elaine\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂"
+	},
+	{
+		"created_at": "Tue Oct 23 12:33:18 +0000 2018",
+		"id": 1054712366984773600,
+		"id_str": "1054712366984773632",
+		"full_text": "@burgessdave Hi Dave\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "burgessdave",
+					"name": "Dave Burgess",
+					"id": 87269548,
+					"id_str": "87269548",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 444856347008319500,
+		"in_reply_to_status_id_str": "444856347008319488",
+		"in_reply_to_user_id": 87269548,
+		"in_reply_to_user_id_str": "87269548",
+		"in_reply_to_screen_name": "burgessdave",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@burgessdave Hi Dave\nWonder if I could ask a favour? I’m working on my doctoral thesis (teacher PD &amp; Twitter) &amp; would be really grateful if you could agree to me quoting this tweet?\n(DMs are open if you’d prefer to reply there, or have any questions)\nThanks 🙂"
+	},
+	{
+		"created_at": "Mon Oct 22 17:32:41 +0000 2018",
+		"id": 1054425319892045800,
+		"id_str": "1054425319892045824",
+		"full_text": "Looking for students that would be willing to share their experience of mental health at university for a short radio report as part of my degree. \n@HelpSheffield #sheffieldissuper #journorequest #mentalhealth",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sheffieldissuper",
+					"indices": [
+						163,
+						180
+					]
+				},
+				{
+					"text": "journorequest",
+					"indices": [
+						181,
+						195
+					]
+				},
+				{
+					"text": "mentalhealth",
+					"indices": [
+						196,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HelpSheffield",
+					"name": "Help Sheffield",
+					"id": 1303167920,
+					"id_str": "1303167920",
+					"indices": [
+						148,
+						162
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 954421038544244700,
+			"id_str": "954421038544244737",
+			"name": "Charlotte Stanbra",
+			"screen_name": "CStanbraJourno",
+			"location": "Sheffield, England",
+			"description": "Journalism student at @sheffhallamuni. @SHUFemSoc treasurer. Vegetarian. Cat lover and funky earring enthusiast.",
+			"url": "https://t.co/zyVt3x1yWV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zyVt3x1yWV",
+							"expanded_url": "https://cstanbra.wordpress.com",
+							"display_url": "cstanbra.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87,
+			"friends_count": 195,
+			"listed_count": 4,
+			"created_at": "Fri Jan 19 18:31:22 +0000 2018",
+			"favourites_count": 948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 105,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030242068382273541/skyV0wvZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030242068382273541/skyV0wvZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/954421038544244737/1534464339",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Looking for students that would be willing to share their experience of mental health at university for a short radio report as part of my degree. \n@HelpSheffield #sheffieldissuper #journorequest #mentalhealth"
+	},
+	{
 		"created_at": "Mon Oct 22 17:32:41 +0000 2018",
 		"id": 1054425319892045800,
 		"id_str": "1054425319892045824",
