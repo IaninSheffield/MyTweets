@@ -1,6 +1,603 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 24 18:48:16 +0000 2018",
+		"id": 1055169118989676500,
+		"id_str": "1055169118989676546",
+		"full_text": "Maybe something for #Science teachers tonight? #asechat https://t.co/FwHXidL4vM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Science",
+					"indices": [
+						20,
+						28
+					]
+				},
+				{
+					"text": "asechat",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FwHXidL4vM",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1055165920077901826",
+					"display_url": "twitter.com/johnjohnston/s…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055165920077901800,
+		"quoted_status_id_str": "1055165920077901826",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FwHXidL4vM",
+			"expanded": "https://twitter.com/johnjohnston/status/1055165920077901826",
+			"display": "twitter.com/johnjohnston/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 24 18:35:34 +0000 2018",
+			"id": 1055165920077901800,
+			"id_str": "1055165920077901826",
+			"full_text": "Warming up the mic for 8pm uk tonight I’ll be talking to @sfm36 Sarah Clark on Radio #EDUtalk: listen about Using technology when teaching science. Should be a fascinating show.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EDUtalk",
+						"indices": [
+							85,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Sfm36",
+						"name": "Sarah Clark",
+						"id": 384551986,
+						"id_str": "384551986",
+						"indices": [
+							57,
+							63
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7484192,
+				"id_str": "7484192",
+				"name": "john johnston",
+				"screen_name": "johnjohnston",
+				"location": "Glasgow, UK",
+				"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+				"url": "https://t.co/p7vNWSMAoH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p7vNWSMAoH",
+								"expanded_url": "http://johnjohnston.info/blog/",
+								"display_url": "johnjohnston.info/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/QAJpOIj9ta",
+								"expanded_url": "http://johnjohnston.info",
+								"display_url": "johnjohnston.info",
+								"indices": [
+									135,
+									158
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3892,
+				"friends_count": 2531,
+				"listed_count": 280,
+				"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+				"favourites_count": 4376,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16990,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EE6C00",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "FFFF00",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maybe something for #Science teachers tonight? #asechat https://t.co/FwHXidL4vM"
+	},
+	{
+		"created_at": "Wed Oct 24 09:53:39 +0000 2018",
+		"id": 1055034577004228600,
+		"id_str": "1055034577004228608",
+		"full_text": "@HLPLinguist Many thanks; really appreciate that 👍",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLPLinguist",
+					"name": "HP",
+					"id": 894075884960985100,
+					"id_str": "894075884960985088",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1055015148463767600,
+		"in_reply_to_status_id_str": "1055015148463767552",
+		"in_reply_to_user_id": 894075884960985100,
+		"in_reply_to_user_id_str": "894075884960985088",
+		"in_reply_to_screen_name": "HLPLinguist",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 3771,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HLPLinguist Many thanks; really appreciate that 👍"
+	},
+	{
+		"created_at": "Wed Oct 24 06:57:27 +0000 2018",
+		"id": 1054990233832484900,
+		"id_str": "1054990233832484870",
+		"full_text": "Collaboration, enquiry, innovation &amp; trust - sustained individualised #CPD for early career &amp; experienced teachers of #STEM Subjects. Generously funded by @Wipro with bursaries for schools. Use the links to find out more. @teacheredshu @SHU_SIoE @SYorksFutures @mentor_shooc https://t.co/ZCQfiKxvhV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CPD",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wipro",
+					"name": "Wipro Limited",
+					"id": 14390109,
+					"id_str": "14390109",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"screen_name": "teacheredshu",
+					"name": "Department of Teacher Education",
+					"id": 2829450405,
+					"id_str": "2829450405",
+					"indices": [
+						230,
+						243
+					]
+				},
+				{
+					"screen_name": "SHU_SIoE",
+					"name": "SHU_SIoE",
+					"id": 1933610330,
+					"id_str": "1933610330",
+					"indices": [
+						244,
+						253
+					]
+				},
+				{
+					"screen_name": "SYorksFutures",
+					"name": "South Yorkshire Futures",
+					"id": 988067126559821800,
+					"id_str": "988067126559821824",
+					"indices": [
+						254,
+						268
+					]
+				},
+				{
+					"screen_name": "mentor_shooc",
+					"name": "MentorSHOOC",
+					"id": 796772065781092400,
+					"id_str": "796772065781092352",
+					"indices": [
+						269,
+						282
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1054990091117039600,
+					"id_str": "1054990091117039616",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/DqQT5faWkAANPxO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqQT5faWkAANPxO.jpg",
+					"url": "https://t.co/ZCQfiKxvhV",
+					"display_url": "pic.twitter.com/ZCQfiKxvhV",
+					"expanded_url": "https://twitter.com/SHUCDARE/status/1054990233832484870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2010,
+							"h": 763,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054990091117039600,
+					"id_str": "1054990091117039616",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/DqQT5faWkAANPxO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqQT5faWkAANPxO.jpg",
+					"url": "https://t.co/ZCQfiKxvhV",
+					"display_url": "pic.twitter.com/ZCQfiKxvhV",
+					"expanded_url": "https://twitter.com/SHUCDARE/status/1054990233832484870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2010,
+							"h": 763,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 333540991,
+			"id_str": "333540991",
+			"name": "SHUCDARE",
+			"screen_name": "SHUCDARE",
+			"location": "Sheffield, United Kingdom",
+			"description": "Sheffield Hallam University's centre for funded research, evaluation, consultancy and curriculum and professional development in education",
+			"url": "https://t.co/pQ611dBuCr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pQ611dBuCr",
+							"expanded_url": "https://www.shu.ac.uk/about-us/academic-departments/institute-of-education/research/cdare",
+							"display_url": "shu.ac.uk/about-us/acade…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 939,
+			"friends_count": 796,
+			"listed_count": 30,
+			"created_at": "Mon Jul 11 18:06:17 +0000 2011",
+			"favourites_count": 1379,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3144,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/705376026579304448/PysIm0uL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/705376026579304448/PysIm0uL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/333540991/1460529096",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Collaboration, enquiry, innovation &amp; trust - sustained individualised #CPD for early career &amp; experienced teachers of #STEM Subjects. Generously funded by @Wipro with bursaries for schools. Use the links to find out more. @teacheredshu @SHU_SIoE @SYorksFutures @mentor_shooc https://t.co/ZCQfiKxvhV"
+	},
+	{
 		"created_at": "Tue Oct 23 18:07:14 +0000 2018",
 		"id": 1054796402545647600,
 		"id_str": "1054796402545647616",
