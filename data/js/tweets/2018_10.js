@@ -1,6 +1,1480 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 27 18:17:29 +0000 2018",
+		"id": 1056248535987949600,
+		"id_str": "1056248535987949571",
+		"full_text": "@jpmynott Yes, it'll be available through SHURA https://t.co/VcIrzqXpl7 #ipdaengland \n\nThe bot's not so active these days, but I think there's potential worth exploring beyond this testing phase. There's a little about the background here https://t.co/CVBUwGsEaf",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ipdaengland",
+					"indices": [
+						72,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jpmynott",
+					"name": "JP Mynott",
+					"id": 1861739929,
+					"id_str": "1861739929",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VcIrzqXpl7",
+					"expanded_url": "https://shura.shu.ac.uk/",
+					"display_url": "shura.shu.ac.uk",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/CVBUwGsEaf",
+					"expanded_url": "https://cpdin140.wordpress.com/2017/05/24/the-pldbot-comes-out/",
+					"display_url": "cpdin140.wordpress.com/2017/05/24/the…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1056246207641718800,
+		"in_reply_to_status_id_str": "1056246207641718784",
+		"in_reply_to_user_id": 1861739929,
+		"in_reply_to_user_id_str": "1861739929",
+		"in_reply_to_screen_name": "jpmynott",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3218,
+			"friends_count": 3774,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jpmynott Yes, it'll be available through SHURA https://t.co/VcIrzqXpl7 #ipdaengland \n\nThe bot's not so active these days, but I think there's potential worth exploring beyond this testing phase. There's a little about the background here https://t.co/CVBUwGsEaf"
+	},
+	{
+		"created_at": "Sat Oct 27 18:03:51 +0000 2018",
+		"id": 1056245104439115800,
+		"id_str": "1056245104439115776",
+		"full_text": "@jpmynott It was a broadly ethnographic approach incorporating participant observation, interviews &amp; documentary analysis (of blogs ... which also enabled an additional form of interview). Oh, and I recruited a research assistant - @PLDBot ;-)\n#ipdaengland",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ipdaengland",
+					"indices": [
+						248,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jpmynott",
+					"name": "JP Mynott",
+					"id": 1861739929,
+					"id_str": "1861739929",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "PLDBot",
+					"name": "Prof Learning",
+					"id": 796081497249902600,
+					"id_str": "796081497249902596",
+					"indices": [
+						236,
+						243
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1056242547574665200,
+		"in_reply_to_status_id_str": "1056242547574665218",
+		"in_reply_to_user_id": 1861739929,
+		"in_reply_to_user_id_str": "1861739929",
+		"in_reply_to_screen_name": "jpmynott",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3218,
+			"friends_count": 3774,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jpmynott It was a broadly ethnographic approach incorporating participant observation, interviews &amp; documentary analysis (of blogs ... which also enabled an additional form of interview). Oh, and I recruited a research assistant - @PLDBot ;-)\n#ipdaengland"
+	},
+	{
+		"created_at": "Sat Oct 27 17:26:03 +0000 2018",
+		"id": 1056235591560585200,
+		"id_str": "1056235591560585216",
+		"full_text": "@jpmynott Or were you asking what techniques I brought to bear? #ipdaengland",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ipdaengland",
+					"indices": [
+						64,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jpmynott",
+					"name": "JP Mynott",
+					"id": 1861739929,
+					"id_str": "1861739929",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1056233463487971300,
+		"in_reply_to_status_id_str": "1056233463487971328",
+		"in_reply_to_user_id": 1861739929,
+		"in_reply_to_user_id_str": "1861739929",
+		"in_reply_to_screen_name": "jpmynott",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3218,
+			"friends_count": 3774,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jpmynott Or were you asking what techniques I brought to bear? #ipdaengland"
+	},
+	{
+		"created_at": "Sat Oct 27 17:25:48 +0000 2018",
+		"id": 1056235526267826200,
+		"id_str": "1056235526267826176",
+		"full_text": "@jpmynott Thanks 🤞\nI'm not sure I captured their PD, but I hope I was able to get a sense of how they articulated what  it meant for them. I was looking less for instances/examples of PD and more for what PD is for teachers, in the context of Twitter.\n#ipdaengland",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ipdaengland",
+					"indices": [
+						252,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jpmynott",
+					"name": "JP Mynott",
+					"id": 1861739929,
+					"id_str": "1861739929",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1056233463487971300,
+		"in_reply_to_status_id_str": "1056233463487971328",
+		"in_reply_to_user_id": 1861739929,
+		"in_reply_to_user_id_str": "1861739929",
+		"in_reply_to_screen_name": "jpmynott",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3218,
+			"friends_count": 3774,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jpmynott Thanks 🤞\nI'm not sure I captured their PD, but I hope I was able to get a sense of how they articulated what  it meant for them. I was looking less for instances/examples of PD and more for what PD is for teachers, in the context of Twitter.\n#ipdaengland"
+	},
+	{
+		"created_at": "Sat Oct 27 17:14:35 +0000 2018",
+		"id": 1056232707397742600,
+		"id_str": "1056232707397742593",
+		"full_text": "@jpmynott I'm coming towards the end of my doctoral research into teachers' professional development with Twitter. Current challenges? Submitting my thesis next week, then preparing for the viva! Eek!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jpmynott",
+					"name": "JP Mynott",
+					"id": 1861739929,
+					"id_str": "1861739929",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1056231501518450700,
+		"in_reply_to_status_id_str": "1056231501518450688",
+		"in_reply_to_user_id": 1861739929,
+		"in_reply_to_user_id_str": "1861739929",
+		"in_reply_to_screen_name": "jpmynott",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3218,
+			"friends_count": 3774,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jpmynott I'm coming towards the end of my doctoral research into teachers' professional development with Twitter. Current challenges? Submitting my thesis next week, then preparing for the viva! Eek!"
+	},
+	{
+		"created_at": "Sat Oct 27 17:13:02 +0000 2018",
+		"id": 1056232314710188000,
+		"id_str": "1056232314710188032",
+		"full_text": "@jpmynott Firstly, thank you, and apologies for missing #ipdaengland from my last couple of replies. Doh!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ipdaengland",
+					"indices": [
+						56,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jpmynott",
+					"name": "JP Mynott",
+					"id": 1861739929,
+					"id_str": "1861739929",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1056231501518450700,
+		"in_reply_to_status_id_str": "1056231501518450688",
+		"in_reply_to_user_id": 1861739929,
+		"in_reply_to_user_id_str": "1861739929",
+		"in_reply_to_screen_name": "jpmynott",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3218,
+			"friends_count": 3774,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jpmynott Firstly, thank you, and apologies for missing #ipdaengland from my last couple of replies. Doh!"
+	},
+	{
+		"created_at": "Sat Oct 27 17:11:21 +0000 2018",
+		"id": 1056231889827258400,
+		"id_str": "1056231889827258374",
+		"full_text": "@jpmynott As they say 'It's complex' ;-)",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jpmynott",
+					"name": "JP Mynott",
+					"id": 1861739929,
+					"id_str": "1861739929",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1056231020788367400,
+		"in_reply_to_status_id_str": "1056231020788367362",
+		"in_reply_to_user_id": 1861739929,
+		"in_reply_to_user_id_str": "1861739929",
+		"in_reply_to_screen_name": "jpmynott",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3218,
+			"friends_count": 3774,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jpmynott As they say 'It's complex' ;-)"
+	},
+	{
+		"created_at": "Sat Oct 27 17:05:31 +0000 2018",
+		"id": 1056230425557909500,
+		"id_str": "1056230425557909508",
+		"full_text": "@jpmynott @DrEJWhite_Herts @SHUCDARE @MarkBoylanEd Ah, I understand. That's a good point, perhaps compounded by a further problem? Where the research *is* able to track impact over time, might it be that the original intervention becomes 'supplemented' by other factors as time goes on?",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jpmynott",
+					"name": "JP Mynott",
+					"id": 1861739929,
+					"id_str": "1861739929",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "DrEJWhite_Herts",
+					"name": "Elizabeth White",
+					"id": 2186567106,
+					"id_str": "2186567106",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "SHUCDARE",
+					"name": "SHUCDARE",
+					"id": 333540991,
+					"id_str": "333540991",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"screen_name": "MarkBoylanEd",
+					"name": "Mark Boylan",
+					"id": 4239537203,
+					"id_str": "4239537203",
+					"indices": [
+						37,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1056227836628004900,
+		"in_reply_to_status_id_str": "1056227836628004865",
+		"in_reply_to_user_id": 1861739929,
+		"in_reply_to_user_id_str": "1861739929",
+		"in_reply_to_screen_name": "jpmynott",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3218,
+			"friends_count": 3774,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jpmynott @DrEJWhite_Herts @SHUCDARE @MarkBoylanEd Ah, I understand. That's a good point, perhaps compounded by a further problem? Where the research *is* able to track impact over time, might it be that the original intervention becomes 'supplemented' by other factors as time goes on?"
+	},
+	{
+		"created_at": "Sat Oct 27 16:51:12 +0000 2018",
+		"id": 1056226821912621000,
+		"id_str": "1056226821912621061",
+		"full_text": "@jpmynott @DrEJWhite_Herts @SHUCDARE @MarkBoylanEd Can you say what you mean by 'remotely?' Thx",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jpmynott",
+					"name": "JP Mynott",
+					"id": 1861739929,
+					"id_str": "1861739929",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "DrEJWhite_Herts",
+					"name": "Elizabeth White",
+					"id": 2186567106,
+					"id_str": "2186567106",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "SHUCDARE",
+					"name": "SHUCDARE",
+					"id": 333540991,
+					"id_str": "333540991",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"screen_name": "MarkBoylanEd",
+					"name": "Mark Boylan",
+					"id": 4239537203,
+					"id_str": "4239537203",
+					"indices": [
+						37,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1056176741968945200,
+		"in_reply_to_status_id_str": "1056176741968945153",
+		"in_reply_to_user_id": 1861739929,
+		"in_reply_to_user_id_str": "1861739929",
+		"in_reply_to_screen_name": "jpmynott",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3218,
+			"friends_count": 3774,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jpmynott @DrEJWhite_Herts @SHUCDARE @MarkBoylanEd Can you say what you mean by 'remotely?' Thx"
+	},
+	{
+		"created_at": "Sat Oct 27 16:46:07 +0000 2018",
+		"id": 1056225541978755100,
+		"id_str": "1056225541978755072",
+		"full_text": "Thanks for the invite and intro.\nHave #ipdaengland slowchats been around for a while? https://t.co/oPmYKiDsc7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ipdaengland",
+					"indices": [
+						38,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oPmYKiDsc7",
+					"expanded_url": "https://twitter.com/SHUCDARE/status/1056135605879484417",
+					"display_url": "twitter.com/SHUCDARE/statu…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3218,
+			"friends_count": 3774,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1056135605879484400,
+		"quoted_status_id_str": "1056135605879484417",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oPmYKiDsc7",
+			"expanded": "https://twitter.com/SHUCDARE/status/1056135605879484417",
+			"display": "twitter.com/SHUCDARE/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 27 10:48:45 +0000 2018",
+			"id": 1056135605879484400,
+			"id_str": "1056135605879484417",
+			"full_text": "@jpmynott @DrEJWhite_Herts @PDiEjournal @SHU_SIoE @MarkBoylanEd @IaninSheffield is researching professional development and Twitter which is relevant to this #slowchat on multiple levels!",
+			"truncated": false,
+			"display_text_range": [
+				64,
+				187
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "slowchat",
+						"indices": [
+							158,
+							167
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jpmynott",
+						"name": "JP Mynott",
+						"id": 1861739929,
+						"id_str": "1861739929",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "DrEJWhite_Herts",
+						"name": "Elizabeth White",
+						"id": 2186567106,
+						"id_str": "2186567106",
+						"indices": [
+							10,
+							26
+						]
+					},
+					{
+						"screen_name": "PDiEjournal",
+						"name": "PDiE Journal",
+						"id": 266665715,
+						"id_str": "266665715",
+						"indices": [
+							27,
+							39
+						]
+					},
+					{
+						"screen_name": "SHU_SIoE",
+						"name": "SHU_SIoE",
+						"id": 1933610330,
+						"id_str": "1933610330",
+						"indices": [
+							40,
+							49
+						]
+					},
+					{
+						"screen_name": "MarkBoylanEd",
+						"name": "Mark Boylan",
+						"id": 4239537203,
+						"id_str": "4239537203",
+						"indices": [
+							50,
+							63
+						]
+					},
+					{
+						"screen_name": "IaninSheffield",
+						"name": "Ian Guest",
+						"id": 21324520,
+						"id_str": "21324520",
+						"indices": [
+							64,
+							79
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1056135372332286000,
+			"in_reply_to_status_id_str": "1056135372332285952",
+			"in_reply_to_user_id": 333540991,
+			"in_reply_to_user_id_str": "333540991",
+			"in_reply_to_screen_name": "SHUCDARE",
+			"user": {
+				"id": 333540991,
+				"id_str": "333540991",
+				"name": "SHUCDARE",
+				"screen_name": "SHUCDARE",
+				"location": "Sheffield, United Kingdom",
+				"description": "Sheffield Hallam University's centre for funded research, evaluation, consultancy and curriculum and professional development in education",
+				"url": "https://t.co/pQ611dBuCr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pQ611dBuCr",
+								"expanded_url": "https://www.shu.ac.uk/about-us/academic-departments/institute-of-education/research/cdare",
+								"display_url": "shu.ac.uk/about-us/acade…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 944,
+				"friends_count": 794,
+				"listed_count": 30,
+				"created_at": "Mon Jul 11 18:06:17 +0000 2011",
+				"favourites_count": 1402,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3166,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/705376026579304448/PysIm0uL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/705376026579304448/PysIm0uL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/333540991/1460529096",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for the invite and intro.\nHave #ipdaengland slowchats been around for a while? https://t.co/oPmYKiDsc7"
+	},
+	{
+		"created_at": "Sat Oct 27 16:15:45 +0000 2018",
+		"id": 1056217898140745700,
+		"id_str": "1056217898140745731",
+		"full_text": "@MartinaEmke Congratulations Martina! You must be delighted. 😀\nYou beat me to it by a few days. Hoping to follow in your footsteps early next week. Remarkable we should be pretty much at the same point.\nYes, let's do a Skype when I've got there too.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartinaEmke",
+					"name": "Martina Emke",
+					"id": 843365802,
+					"id_str": "843365802",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1056097754240442400,
+		"in_reply_to_status_id_str": "1056097754240442368",
+		"in_reply_to_user_id": 843365802,
+		"in_reply_to_user_id_str": "843365802",
+		"in_reply_to_screen_name": "MartinaEmke",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3218,
+			"friends_count": 3774,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MartinaEmke Congratulations Martina! You must be delighted. 😀\nYou beat me to it by a few days. Hoping to follow in your footsteps early next week. Remarkable we should be pretty much at the same point.\nYes, let's do a Skype when I've got there too."
+	},
+	{
 		"created_at": "Wed Oct 24 18:48:16 +0000 2018",
 		"id": 1055169118989676500,
 		"id_str": "1055169118989676546",
