@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 26 11:06:26 +0000 2018",
+		"id": 1055777668707299300,
+		"id_str": "1055777668707299330",
+		"full_text": "We are advertising a short-term, part-time lectureship in mathematics (18.5 hours/week, fixed term until 31/05/19) here at @SHUMaths in Sheffield. \nhttps://t.co/3mMx0WzphH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHUMaths",
+					"name": "SHUMaths",
+					"id": 1015005314,
+					"id_str": "1015005314",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3mMx0WzphH",
+					"expanded_url": "https://my.corehr.com/pls/coreportal_shup/erq_jobspec_details_form.jobspec?p_id=045122",
+					"display_url": "my.corehr.com/pls/coreportal…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20946945,
+			"id_str": "20946945",
+			"name": "Peter Rowlett",
+			"screen_name": "peterrowlett",
+			"location": "Nottingham/Sheffield, England",
+			"description": "Teach maths & research maths education at @SHUmaths. Teaching-intensive and research-active (https://t.co/OLs92QsmVb). Blog, occasionally, at @aperiodical.",
+			"url": "https://t.co/1hJSX9A3fo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1hJSX9A3fo",
+							"expanded_url": "http://peterrowlett.net/",
+							"display_url": "peterrowlett.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OLs92QsmVb",
+							"expanded_url": "https://twitter.com/peterrowlett/status/959716619328065536",
+							"display_url": "twitter.com/peterrowlett/s…",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10520,
+			"friends_count": 10184,
+			"listed_count": 442,
+			"created_at": "Sun Feb 15 23:28:49 +0000 2009",
+			"favourites_count": 554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21339,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/516700029231185920/frm8LWlq_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/516700029231185920/frm8LWlq_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20946945/1360835990",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are advertising a short-term, part-time lectureship in mathematics (18.5 hours/week, fixed term until 31/05/19) here at @SHUMaths in Sheffield. \nhttps://t.co/3mMx0WzphH"
+	},
+	{
+		"created_at": "Tue Oct 30 15:23:20 +0000 2018",
+		"id": 1057291872627032000,
+		"id_str": "1057291872627032064",
+		"full_text": "Not many tickets left for my #esrcfestival event next week! As well as talking about how I've used letters to future selves in my research, the session gives attendees the chance to write their own letter. Fountain pens optional! Register here https://t.co/EvVxB2vgwB @SIPS_SHU https://t.co/v7Y7U7wfD7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "esrcfestival",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SIPS_SHU",
+					"name": "SIPS",
+					"id": 731040670643851300,
+					"id_str": "731040670643851264",
+					"indices": [
+						268,
+						277
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EvVxB2vgwB",
+					"expanded_url": "https://bit.ly/2CQG8KF",
+					"display_url": "bit.ly/2CQG8KF",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1057288179093520400,
+					"id_str": "1057288179093520384",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Dqw9_0QWwAAcv02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dqw9_0QWwAAcv02.jpg",
+					"url": "https://t.co/v7Y7U7wfD7",
+					"display_url": "pic.twitter.com/v7Y7U7wfD7",
+					"expanded_url": "https://twitter.com/Rach_Handforth/status/1057291872627032064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 460,
+							"h": 276,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1057288179093520400,
+					"id_str": "1057288179093520384",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Dqw9_0QWwAAcv02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dqw9_0QWwAAcv02.jpg",
+					"url": "https://t.co/v7Y7U7wfD7",
+					"display_url": "pic.twitter.com/v7Y7U7wfD7",
+					"expanded_url": "https://twitter.com/Rach_Handforth/status/1057291872627032064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 460,
+							"h": 276,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119696660,
+			"id_str": "119696660",
+			"name": "Dr Rachel Handforth",
+			"screen_name": "Rach_Handforth",
+			"location": "Sheffield",
+			"description": "Research Fellow @SHUCDARE, feminist, literature lover, mediocre musician. PhD on the career aspirations of women doctoral students. Views are my own.",
+			"url": "https://t.co/N4OQaDHwqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N4OQaDHwqc",
+							"expanded_url": "https://rachelhandforth.wordpress.com/",
+							"display_url": "rachelhandforth.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 886,
+			"friends_count": 987,
+			"listed_count": 24,
+			"created_at": "Thu Mar 04 11:11:39 +0000 2010",
+			"favourites_count": 1768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6518,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/694110959800033280/b4HsN5D9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/694110959800033280/b4HsN5D9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119696660/1435740543",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not many tickets left for my #esrcfestival event next week! As well as talking about how I've used letters to future selves in my research, the session gives attendees the chance to write their own letter. Fountain pens optional! Register here https://t.co/EvVxB2vgwB @SIPS_SHU https://t.co/v7Y7U7wfD7"
+	},
+	{
+		"created_at": "Wed Oct 31 06:57:13 +0000 2018",
+		"id": 1057526892939624400,
+		"id_str": "1057526892939624448",
+		"full_text": "@WellsportsPhil Thanks Phil; really appreciate that 👍",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WellsportsPhil",
+					"name": "Phil Ruse",
+					"id": 576696171,
+					"id_str": "576696171",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1057392392473636900,
+		"in_reply_to_status_id_str": "1057392392473636864",
+		"in_reply_to_user_id": 576696171,
+		"in_reply_to_user_id_str": "576696171",
+		"in_reply_to_screen_name": "WellsportsPhil",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3221,
+			"friends_count": 3773,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11157,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WellsportsPhil Thanks Phil; really appreciate that 👍"
+	},
+	{
 		"created_at": "Tue Oct 30 21:10:22 +0000 2018",
 		"id": 1057379207259570200,
 		"id_str": "1057379207259570177",
