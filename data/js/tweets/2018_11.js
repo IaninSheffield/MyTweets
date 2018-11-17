@@ -1,6 +1,627 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 16 15:18:02 +0000 2018",
+		"id": 1063451134067687400,
+		"id_str": "1063451134067687424",
+		"full_text": "SHU WRDTP doctoral scholarship advert live now!https://t.co/Xj4dWpmrmT \nSIoE doctoral scholarships: https://t.co/sYAmgqfrU0 @SHU_SIoE @SHUCDARE @SHDocSchool",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHU_SIoE",
+					"name": "SHU_SIoE",
+					"id": 1933610330,
+					"id_str": "1933610330",
+					"indices": [
+						124,
+						133
+					]
+				},
+				{
+					"screen_name": "SHUCDARE",
+					"name": "SHUCDARE",
+					"id": 333540991,
+					"id_str": "333540991",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"screen_name": "SHDocSchool",
+					"name": "Doctoral School",
+					"id": 3524318957,
+					"id_str": "3524318957",
+					"indices": [
+						144,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xj4dWpmrmT",
+					"expanded_url": "https://www.shu.ac.uk/research/research-degrees/phd-scholarship-opportunities",
+					"display_url": "shu.ac.uk/research/resea…",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/sYAmgqfrU0",
+					"expanded_url": "https://www.shu.ac.uk/research/research-degrees/phd-scholarship-opportunities/sheffield-institute-of-education",
+					"display_url": "shu.ac.uk/research/resea…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1513646876,
+			"id_str": "1513646876",
+			"name": "Gill Adams",
+			"screen_name": "GillRAdams",
+			"location": "Sheffield Hallam University",
+			"description": "",
+			"url": "http://t.co/2wCsO3HXHx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2wCsO3HXHx",
+							"expanded_url": "http://www.shu.ac.uk/faculties/ds/education-department/staff/gilladams.html",
+							"display_url": "shu.ac.uk/faculties/ds/e…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75,
+			"friends_count": 124,
+			"listed_count": 1,
+			"created_at": "Thu Jun 13 15:05:20 +0000 2013",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 164,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/639547677005492226/bdQ1fJoK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/639547677005492226/bdQ1fJoK_normal.jpg",
+			"profile_link_color": "6B00B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SHU WRDTP doctoral scholarship advert live now!https://t.co/Xj4dWpmrmT \nSIoE doctoral scholarships: https://t.co/sYAmgqfrU0 @SHU_SIoE @SHUCDARE @SHDocSchool"
+	},
+	{
+		"created_at": "Fri Nov 16 18:45:29 +0000 2018",
+		"id": 1063503338493435900,
+		"id_str": "1063503338493435904",
+		"full_text": "Come for an end of term trip to Sheffield and let me and my fantastic colleagues give your students a flavour of English at university (for free!) - first come, first serve, don’t miss out! Taster lectures range from analysing the language of Donald Trump to Simon Armitage https://t.co/6K1ZtOPLzw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6K1ZtOPLzw",
+					"expanded_url": "https://twitter.com/exploringenged/status/1062979507496333312",
+					"display_url": "twitter.com/exploringenged…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1961035038,
+			"id_str": "1961035038",
+			"name": "Dr. Jess Mason",
+			"screen_name": "DrofletJess",
+			"location": "Nottingham & Sheffield",
+			"description": "English Language Lecturer @SheffHallamEng. Intertextuality. Stylistics. Cognitive Poetics. All things Education. Blog @studyingfiction. Module @ExploringEngEd",
+			"url": "https://t.co/GQqaJQMfV2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQqaJQMfV2",
+							"expanded_url": "https://www.shu.ac.uk/about-us/our-people/staff-profiles/jessica-mason",
+							"display_url": "shu.ac.uk/about-us/our-p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 1522,
+			"listed_count": 20,
+			"created_at": "Mon Oct 14 17:21:20 +0000 2013",
+			"favourites_count": 9929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4670,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049939625039552512/_6Bq7dhd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049939625039552512/_6Bq7dhd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1961035038/1499972670",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062979507496333300,
+		"quoted_status_id_str": "1062979507496333312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6K1ZtOPLzw",
+			"expanded": "https://twitter.com/exploringenged/status/1062979507496333312",
+			"display": "twitter.com/exploringenged…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 15 08:03:58 +0000 2018",
+			"id": 1062979507496333300,
+			"id_str": "1062979507496333312",
+			"full_text": "Fancy a fab Christmas trip with your sixth formers? Come to our FREE HE Taster Day @sheffhallamuni for A Level English Language &amp; Language and Literature students: 13th December. 3 lectures all relevant to their studies &amp; a chance to find out what university is like! #TeamEnglish https://t.co/PXcW8dJikm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				288
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TeamEnglish",
+						"indices": [
+							276,
+							288
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sheffhallamuni",
+						"name": "Sheffield Hallam University",
+						"id": 20593971,
+						"id_str": "20593971",
+						"indices": [
+							83,
+							98
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1062979501443952600,
+						"id_str": "1062979501443952640",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/DsB2OYMWsAA6DGk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsB2OYMWsAA6DGk.jpg",
+						"url": "https://t.co/PXcW8dJikm",
+						"display_url": "pic.twitter.com/PXcW8dJikm",
+						"expanded_url": "https://twitter.com/ExploringEngEd/status/1062979507496333312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 873,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 873,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 499,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1062979501443952600,
+						"id_str": "1062979501443952640",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/DsB2OYMWsAA6DGk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsB2OYMWsAA6DGk.jpg",
+						"url": "https://t.co/PXcW8dJikm",
+						"display_url": "pic.twitter.com/PXcW8dJikm",
+						"expanded_url": "https://twitter.com/ExploringEngEd/status/1062979507496333312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 873,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 873,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 499,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1062979501452378100,
+						"id_str": "1062979501452378117",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/DsB2OYOXQAUBduo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsB2OYOXQAUBduo.jpg",
+						"url": "https://t.co/PXcW8dJikm",
+						"display_url": "pic.twitter.com/PXcW8dJikm",
+						"expanded_url": "https://twitter.com/ExploringEngEd/status/1062979507496333312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 850,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 850,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 763376525521653800,
+				"id_str": "763376525521653760",
+				"name": "Exploring English Ed",
+				"screen_name": "ExploringEngEd",
+				"location": "Sheffield, England",
+				"description": "All Education enthusiasts welcome-join the discussion! Final year module @SheffHallamEng. Run by @DrofletJess Live lecture tweets Tuesdays 11-12.30 & 7-8.30pm",
+				"url": "https://t.co/IXYOPnCkwX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IXYOPnCkwX",
+								"expanded_url": "http://www.studyingfiction.com",
+								"display_url": "studyingfiction.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1544,
+				"friends_count": 1030,
+				"listed_count": 13,
+				"created_at": "Wed Aug 10 14:08:41 +0000 2016",
+				"favourites_count": 1584,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2480,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763379002321043456/uLyJNsnN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763379002321043456/uLyJNsnN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/763376525521653760/1506499640",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come for an end of term trip to Sheffield and let me and my fantastic colleagues give your students a flavour of English at university (for free!) - first come, first serve, don’t miss out! Taster lectures range from analysing the language of Donald Trump to Simon Armitage https://t.co/6K1ZtOPLzw"
+	},
+	{
+		"created_at": "Wed Nov 14 07:05:41 +0000 2018",
+		"id": 1062602451491213300,
+		"id_str": "1062602451491213312",
+		"full_text": "Tonight at 8pm uk I'll be talking to David Crooks @DaithiCruic on Radio #EDUtalk https://t.co/Xhhaa1qlBV \nabout G Suite in the Highlands",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDUtalk",
+					"indices": [
+						72,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DaithiCruic",
+					"name": "Daithi Cruic",
+					"id": 205294606,
+					"id_str": "205294606",
+					"indices": [
+						50,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xhhaa1qlBV",
+					"expanded_url": "http://edutalk.cc/listen",
+					"display_url": "edutalk.cc/listen",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3890,
+			"friends_count": 2536,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17035,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tonight at 8pm uk I'll be talking to David Crooks @DaithiCruic on Radio #EDUtalk https://t.co/Xhhaa1qlBV \nabout G Suite in the Highlands"
+	},
+	{
 		"created_at": "Wed Nov 14 07:05:41 +0000 2018",
 		"id": 1062602451491213300,
 		"id_str": "1062602451491213312",
