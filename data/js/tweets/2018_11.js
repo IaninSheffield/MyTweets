@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 25 19:18:27 +0000 2018",
+		"id": 1066773124333666300,
+		"id_str": "1066773124333666304",
+		"full_text": "@GillRAdams @SHU_SIoE @SHDocSchool @HelenDonaghue @kfleming100 @cara_doxey Sorry to have missed this year's 😢",
+		"truncated": false,
+		"display_text_range": [
+			75,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GillRAdams",
+					"name": "Gill Adams",
+					"id": 1513646876,
+					"id_str": "1513646876",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "SHU_SIoE",
+					"name": "SHU_SIoE",
+					"id": 1933610330,
+					"id_str": "1933610330",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "SHDocSchool",
+					"name": "Doctoral School",
+					"id": 3524318957,
+					"id_str": "3524318957",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "HelenDonaghue",
+					"name": "Helen Donaghue",
+					"id": 2506622507,
+					"id_str": "2506622507",
+					"indices": [
+						35,
+						49
+					]
+				},
+				{
+					"screen_name": "kfleming100",
+					"name": "Katarzyna Fleming",
+					"id": 3212820243,
+					"id_str": "3212820243",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"screen_name": "cara_doxey",
+					"name": "Cid",
+					"id": 862003231,
+					"id_str": "862003231",
+					"indices": [
+						63,
+						74
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1066367820856991700,
+		"in_reply_to_status_id_str": "1066367820856991744",
+		"in_reply_to_user_id": 1513646876,
+		"in_reply_to_user_id_str": "1513646876",
+		"in_reply_to_screen_name": "GillRAdams",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3204,
+			"friends_count": 3775,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11183,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GillRAdams @SHU_SIoE @SHDocSchool @HelenDonaghue @kfleming100 @cara_doxey Sorry to have missed this year's 😢"
+	},
+	{
+		"created_at": "Thu Nov 22 11:36:51 +0000 2018",
+		"id": 1065569795897217000,
+		"id_str": "1065569795897217025",
+		"full_text": "@SHU_SIoE is welcoming applications for a fully funded potential PhD study focused on 'Becoming Friends: An investigation into autistic children's multimodal communication of friendship' Other PhD opportunities are also available https://t.co/eQb6Boc2ot @AutismHallam",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHU_SIoE",
+					"name": "SHU_SIoE",
+					"id": 1933610330,
+					"id_str": "1933610330",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AutismHallam",
+					"name": "SHARP",
+					"id": 907219778137411600,
+					"id_str": "907219778137411586",
+					"indices": [
+						254,
+						267
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eQb6Boc2ot",
+					"expanded_url": "https://www.shu.ac.uk/research/research-degrees/phd-scholarship-opportunities/sheffield-institute-of-education",
+					"display_url": "shu.ac.uk/research/resea…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1933610330,
+		"in_reply_to_user_id_str": "1933610330",
+		"in_reply_to_screen_name": "SHU_SIoE",
+		"user": {
+			"id": 619745347,
+			"id_str": "619745347",
+			"name": "Nick Hodge",
+			"screen_name": "Goodchap62",
+			"location": "Sheffield, England",
+			"description": "Professor of Inclusive Practice at Sheffield Hallam University. Research focus on autism and disability. Views expressed are my own.",
+			"url": "https://t.co/uogf0zYK9V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uogf0zYK9V",
+							"expanded_url": "https://www.shu.ac.uk/about-us/our-people/staff-profiles/nicholas-hodge",
+							"display_url": "shu.ac.uk/about-us/our-p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 1033,
+			"listed_count": 32,
+			"created_at": "Wed Jun 27 06:39:30 +0000 2012",
+			"favourites_count": 3459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5217,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/842413621112111110/FHQY5u5B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/842413621112111110/FHQY5u5B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/619745347/1489686311",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SHU_SIoE is welcoming applications for a fully funded potential PhD study focused on 'Becoming Friends: An investigation into autistic children's multimodal communication of friendship' Other PhD opportunities are also available https://t.co/eQb6Boc2ot @AutismHallam"
+	},
+	{
 		"created_at": "Thu Nov 22 11:36:51 +0000 2018",
 		"id": 1065569795897217000,
 		"id_str": "1065569795897217025",
