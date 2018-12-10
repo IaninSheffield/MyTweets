@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 09 18:02:50 +0000 2018",
+		"id": 1071827524236267500,
+		"id_str": "1071827524236267521",
+		"full_text": "@mrkrndvs I think this tiny aspect of Twitter (&amp; social media more generally) warrants a study in its own right Aaron.\nIs it common? What are the causes/consequences/solutions? Why do some people reach this stage and what tips them over the edge? Fascinating ... and troubling.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1071711069406679000,
+		"in_reply_to_status_id_str": "1071711069406679040",
+		"in_reply_to_user_id": 372768752,
+		"in_reply_to_user_id_str": "372768752",
+		"in_reply_to_screen_name": "mrkrndvs",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3205,
+			"friends_count": 3778,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 571,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11198,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mrkrndvs I think this tiny aspect of Twitter (&amp; social media more generally) warrants a study in its own right Aaron.\nIs it common? What are the causes/consequences/solutions? Why do some people reach this stage and what tips them over the edge? Fascinating ... and troubling."
+	},
+	{
+		"created_at": "Sun Dec 09 15:51:45 +0000 2018",
+		"id": 1071794537490718700,
+		"id_str": "1071794537490718720",
+		"full_text": "Educators using Instagram, please share your experiences &amp; perspectives with us via a ~5 min survey: https://t.co/KErVRdXxUl #edtechknow #edtechbridge #sunchat #21stedchat https://t.co/RTUQlZrpRu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtechknow",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "edtechbridge",
+					"indices": [
+						141,
+						154
+					]
+				},
+				{
+					"text": "sunchat",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"text": "21stedchat",
+					"indices": [
+						164,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KErVRdXxUl",
+					"expanded_url": "http://bit.ly/educatorinstagram",
+					"display_url": "bit.ly/educatorinstag…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1071794207805849600,
+					"id_str": "1071794207805849602",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt_HJ0SWwAITS2A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt_HJ0SWwAITS2A.jpg",
+					"url": "https://t.co/RTUQlZrpRu",
+					"display_url": "pic.twitter.com/RTUQlZrpRu",
+					"expanded_url": "https://twitter.com/jeffpcarpenter/status/1071794537490718720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071794207805849600,
+					"id_str": "1071794207805849602",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt_HJ0SWwAITS2A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt_HJ0SWwAITS2A.jpg",
+					"url": "https://t.co/RTUQlZrpRu",
+					"display_url": "pic.twitter.com/RTUQlZrpRu",
+					"expanded_url": "https://twitter.com/jeffpcarpenter/status/1071794537490718720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98171356,
+			"id_str": "98171356",
+			"name": "Jeff Carpenter",
+			"screen_name": "jeffpcarpenter",
+			"location": "Hilsborough, NC",
+			"description": "Teaches future teachers @ElonUniversity. Researches social media & professional learning in education. #ElonEd #NCed #Edcamp #SocialMediaEd",
+			"url": "https://t.co/kJIqZlakOO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kJIqZlakOO",
+							"expanded_url": "https://scholar.google.com/citations?user=AcOjoQIAAAAJ&hl=en",
+							"display_url": "scholar.google.com/citations?user…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4969,
+			"friends_count": 4176,
+			"listed_count": 253,
+			"created_at": "Sun Dec 20 17:46:57 +0000 2009",
+			"favourites_count": 11128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14746,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2901096761/3574bdf84194ff5b19dc29782417c84c_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2901096761/3574bdf84194ff5b19dc29782417c84c_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98171356/1360950249",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Educators using Instagram, please share your experiences &amp; perspectives with us via a ~5 min survey: https://t.co/KErVRdXxUl #edtechknow #edtechbridge #sunchat #21stedchat https://t.co/RTUQlZrpRu"
+	},
+	{
+		"created_at": "Sat Dec 08 13:34:26 +0000 2018",
+		"id": 1071397595166191600,
+		"id_str": "1071397595166191616",
+		"full_text": "Join us at 8pm GMT on Tuesday to hear Claire Gillespie of Skills Development Scotland speak about how they are supporting young peoples' development of digital skills. https://t.co/4x9UjkVAbY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4x9UjkVAbY",
+					"expanded_url": "http://edutalk.cc/listen",
+					"display_url": "edutalk.cc/listen",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77933462,
+			"id_str": "77933462",
+			"name": "Radio EDUtalk",
+			"screen_name": "EDUtalkr",
+			"location": "Scotland",
+			"description": "Education radio. Live broadcasts, see https://t.co/p4iPb4kiJM for listings & stream at https://t.co/pp4oo9cgGi. Tweets by @parslad & @johnjohnston.",
+			"url": "http://t.co/EHQjnaYD40",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/EHQjnaYD40",
+							"expanded_url": "http://EDUtalk.cc",
+							"display_url": "EDUtalk.cc",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/p4iPb4kiJM",
+							"expanded_url": "http://www.edutalk.info/listen",
+							"display_url": "edutalk.info/listen",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/pp4oo9cgGi",
+							"expanded_url": "http://edutalk.cc/listen",
+							"display_url": "edutalk.cc/listen",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1738,
+			"friends_count": 1845,
+			"listed_count": 51,
+			"created_at": "Mon Sep 28 05:22:40 +0000 2009",
+			"favourites_count": 273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2925,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1660291429/radioedutalklogo200_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1660291429/radioedutalklogo200_normal.gif",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us at 8pm GMT on Tuesday to hear Claire Gillespie of Skills Development Scotland speak about how they are supporting young peoples' development of digital skills. https://t.co/4x9UjkVAbY"
+	},
+	{
 		"created_at": "Sat Dec 08 16:52:44 +0000 2018",
 		"id": 1071447498517086200,
 		"id_str": "1071447498517086208",
