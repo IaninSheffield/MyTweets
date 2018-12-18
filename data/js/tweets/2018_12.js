@@ -1,6 +1,887 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 17 18:34:12 +0000 2018",
+		"id": 1074734522481160200,
+		"id_str": "1074734522481160192",
+		"full_text": "@drchrisjbailey :-)\nThoughts of 'tempting providence' or 'pride coming before a fall' etc all spring to mind.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drchrisjbailey",
+					"name": "Chris Bailey Ⓥ",
+					"id": 2599453764,
+					"id_str": "2599453764",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1074732905488883700,
+		"in_reply_to_status_id_str": "1074732905488883717",
+		"in_reply_to_user_id": 2599453764,
+		"in_reply_to_user_id_str": "2599453764",
+		"in_reply_to_screen_name": "drchrisjbailey",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3207,
+			"friends_count": 3781,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@drchrisjbailey :-)\nThoughts of 'tempting providence' or 'pride coming before a fall' etc all spring to mind."
+	},
+	{
+		"created_at": "Mon Dec 17 18:26:35 +0000 2018",
+		"id": 1074732604975472600,
+		"id_str": "1074732604975472642",
+		"full_text": "@drchrisjbailey Ah, Dr CJB. I like it. Good man.\nI shall follow your lead ... when the VC  confirms ;-)",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drchrisjbailey",
+					"name": "Chris Bailey Ⓥ",
+					"id": 2599453764,
+					"id_str": "2599453764",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1074721797499744300,
+		"in_reply_to_status_id_str": "1074721797499744257",
+		"in_reply_to_user_id": 2599453764,
+		"in_reply_to_user_id_str": "2599453764",
+		"in_reply_to_screen_name": "drchrisjbailey",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3207,
+			"friends_count": 3781,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@drchrisjbailey Ah, Dr CJB. I like it. Good man.\nI shall follow your lead ... when the VC  confirms ;-)"
+	},
+	{
+		"created_at": "Mon Dec 17 13:12:52 +0000 2018",
+		"id": 1074653655863910400,
+		"id_str": "1074653655863910401",
+		"full_text": "Wha...? Get outta here! https://t.co/4AP9IEgr51",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4AP9IEgr51",
+					"expanded_url": "https://twitter.com/ZonePhysics/status/1074646785228980224",
+					"display_url": "twitter.com/ZonePhysics/st…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3207,
+			"friends_count": 3781,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1073226013507797000,
+		"quoted_status_id_str": "1073226013507796994",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4AP9IEgr51",
+			"expanded": "https://twitter.com/ZonePhysics/status/1074646785228980224",
+			"display": "twitter.com/ZonePhysics/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 13 14:39:55 +0000 2018",
+			"id": 1073226013507797000,
+			"id_str": "1073226013507796994",
+			"full_text": "When water flows so smoothly it looks solid. This effect is called Laminar flow https://t.co/2QtUYcQcxb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1073225852559728600,
+						"id_str": "1073225852559728640",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1073225852559728640/pu/img/Ruq8CJ4iFfGxknlR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1073225852559728640/pu/img/Ruq8CJ4iFfGxknlR.jpg",
+						"url": "https://t.co/2QtUYcQcxb",
+						"display_url": "pic.twitter.com/2QtUYcQcxb",
+						"expanded_url": "https://twitter.com/ZonePhysics/status/1073226013507796994/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 378,
+								"h": 352,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 378,
+								"h": 352,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 378,
+								"h": 352,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1073225852559728600,
+						"id_str": "1073225852559728640",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1073225852559728640/pu/img/Ruq8CJ4iFfGxknlR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1073225852559728640/pu/img/Ruq8CJ4iFfGxknlR.jpg",
+						"url": "https://t.co/2QtUYcQcxb",
+						"display_url": "pic.twitter.com/2QtUYcQcxb",
+						"expanded_url": "https://twitter.com/ZonePhysics/status/1073226013507796994/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 378,
+								"h": 352,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 378,
+								"h": 352,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 378,
+								"h": 352,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								189,
+								176
+							],
+							"duration_millis": 55458,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1073225852559728640/pu/vid/378x352/YjJEcUMsVz0vozbb.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1073225852559728640/pu/vid/192x180/d5XlZrakxY7VJ2bD.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1073225852559728640/pu/pl/9IEtpQ-IhK5uEyWP.m3u8?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 934281246435405800,
+				"id_str": "934281246435405824",
+				"name": "Physics & Astronomy Zone",
+				"screen_name": "ZonePhysics",
+				"location": "New York, USA",
+				"description": "Science Educational Website 🔬🔭\nWelcome to the official page physics & astronomy zone.this page is primarily Dedicated to physics and astronomy lovers.",
+				"url": "https://t.co/l9rEF8HzmT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l9rEF8HzmT",
+								"expanded_url": "https://www.facebook.com/physicsastronomyzone/",
+								"display_url": "facebook.com/physicsastrono…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121749,
+				"friends_count": 17907,
+				"listed_count": 706,
+				"created_at": "Sat Nov 25 04:43:02 +0000 2017",
+				"favourites_count": 3224,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3864,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1005757901766627333/nii7Bs2B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005757901766627333/nii7Bs2B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/934281246435405824/1511586771",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62367,
+			"favorite_count": 167439,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wha...? Get outta here! https://t.co/4AP9IEgr51"
+	},
+	{
+		"created_at": "Wed Nov 07 18:50:39 +0000 2018",
+		"id": 1060243146183979000,
+		"id_str": "1060243146183979009",
+		"full_text": "I’m  currently seeking teachers of OCR-A A Level Physics interested in jointly developing resources. Please retweet/reply to help me find people @MattPearson1991 @mrbakerphysics @BenyohaiPhysics @flippedaround @TeamScienceEdu @theASE @natkin @PhysicsUk @MrShawePhysics",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattPearson1991",
+					"name": "Matt Pearson",
+					"id": 402971543,
+					"id_str": "402971543",
+					"indices": [
+						145,
+						161
+					]
+				},
+				{
+					"screen_name": "mrbakerphysics",
+					"name": "Chris Baker",
+					"id": 2646393002,
+					"id_str": "2646393002",
+					"indices": [
+						162,
+						177
+					]
+				},
+				{
+					"screen_name": "BenyohaiPhysics",
+					"name": "Matthew Benyohai",
+					"id": 1874872537,
+					"id_str": "1874872537",
+					"indices": [
+						178,
+						194
+					]
+				},
+				{
+					"screen_name": "flippedaround",
+					"name": "John Eyre",
+					"id": 805142546993336300,
+					"id_str": "805142546993336322",
+					"indices": [
+						195,
+						209
+					]
+				},
+				{
+					"screen_name": "TeamScienceEdu",
+					"name": "Team Science",
+					"id": 843008461432635400,
+					"id_str": "843008461432635397",
+					"indices": [
+						210,
+						225
+					]
+				},
+				{
+					"screen_name": "theASE",
+					"name": "The ASE",
+					"id": 155690477,
+					"id_str": "155690477",
+					"indices": [
+						226,
+						233
+					]
+				},
+				{
+					"screen_name": "natkin",
+					"name": "neil atkin",
+					"id": 17615345,
+					"id_str": "17615345",
+					"indices": [
+						234,
+						241
+					]
+				},
+				{
+					"screen_name": "PhysicsUk",
+					"name": "TeachingPhysicsUK",
+					"id": 1005129048375390200,
+					"id_str": "1005129048375390208",
+					"indices": [
+						242,
+						252
+					]
+				},
+				{
+					"screen_name": "MrShawePhysics",
+					"name": "MrShawePhysics",
+					"id": 565658404,
+					"id_str": "565658404",
+					"indices": [
+						253,
+						268
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 374711914,
+			"id_str": "374711914",
+			"name": "Bernard Rand",
+			"screen_name": "BernardRand",
+			"location": "Southampton, UK",
+			"description": "A Level Physics teacher, joining @RT6thForm in January. Interested in educational research, cognitive science, educational technology and retrieval practise.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 782,
+			"listed_count": 11,
+			"created_at": "Fri Sep 16 20:06:50 +0000 2011",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/987665379261591552/dxDsOBVn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/987665379261591552/dxDsOBVn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/374711914/1353280935",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m  currently seeking teachers of OCR-A A Level Physics interested in jointly developing resources. Please retweet/reply to help me find people @MattPearson1991 @mrbakerphysics @BenyohaiPhysics @flippedaround @TeamScienceEdu @theASE @natkin @PhysicsUk @MrShawePhysics"
+	},
+	{
+		"created_at": "Wed Dec 12 23:31:25 +0000 2018",
+		"id": 1072997381778608100,
+		"id_str": "1072997381778608130",
+		"full_text": "I'm doing a session on the philosophy of education with trainees tomorrow, and shall be attempting to make \"schools of educational thought\" a little more complex. Do you see yourself in one or more of these? https://t.co/QfedutUszH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072997199364218900,
+					"id_str": "1072997199364218888",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/DuQNRJEX4AgDb1d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuQNRJEX4AgDb1d.jpg",
+					"url": "https://t.co/QfedutUszH",
+					"display_url": "pic.twitter.com/QfedutUszH",
+					"expanded_url": "https://twitter.com/mfordhamhistory/status/1072997381778608130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 831,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1269,
+							"h": 879,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072997199364218900,
+					"id_str": "1072997199364218888",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/DuQNRJEX4AgDb1d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuQNRJEX4AgDb1d.jpg",
+					"url": "https://t.co/QfedutUszH",
+					"display_url": "pic.twitter.com/QfedutUszH",
+					"expanded_url": "https://twitter.com/mfordhamhistory/status/1072997381778608130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 831,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1269,
+							"h": 879,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 267094769,
+			"id_str": "267094769",
+			"name": "Michael Fordham",
+			"screen_name": "mfordhamhistory",
+			"location": "Ely, UK",
+			"description": "Interested in history, education and philosophy. Bio: https://t.co/B3r6m2SJpS",
+			"url": "https://t.co/BWVpjOBZGs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BWVpjOBZGs",
+							"expanded_url": "http://www.clioetcetera.com",
+							"display_url": "clioetcetera.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/B3r6m2SJpS",
+							"expanded_url": "http://clioetcetera.com/biography/",
+							"display_url": "clioetcetera.com/biography/",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6930,
+			"friends_count": 203,
+			"listed_count": 100,
+			"created_at": "Wed Mar 16 09:45:30 +0000 2011",
+			"favourites_count": 3769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28943,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982585256099315712/Ayk9hjcn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982585256099315712/Ayk9hjcn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267094769/1523101600",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm doing a session on the philosophy of education with trainees tomorrow, and shall be attempting to make \"schools of educational thought\" a little more complex. Do you see yourself in one or more of these? https://t.co/QfedutUszH"
+	},
+	{
 		"created_at": "Sun Dec 16 11:43:13 +0000 2018",
 		"id": 1074268706451177500,
 		"id_str": "1074268706451177472",
