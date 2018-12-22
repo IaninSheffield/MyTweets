@@ -146,6 +146,521 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 3570,
+			"friends_count": 989,
+			"listed_count": 100,
+			"created_at": "Wed Mar 19 15:13:10 +0000 2014",
+			"favourites_count": 3805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4869,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/968528193857736705/IiN4Wr8W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/968528193857736705/IiN4Wr8W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2398034245/1537863109",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Many, many congratulations to @MartinaEmke, who just passed her EdD viva with her thesis on Twitter-based professional development. 🙌👍👏👏👏🎉🎉 #MFLTwitterati https://t.co/lvxzPflApJ"
+	},
+	{
+		"created_at": "Thu Dec 20 17:27:06 +0000 2018",
+		"id": 1075804798094622700,
+		"id_str": "1075804798094622720",
+		"full_text": "A special souvenir of my wonderful viva today! \n\n#phdlife \n#EdD https://t.co/C7h2eqeUvu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "phdlife",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "EdD",
+					"indices": [
+						59,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C7h2eqeUvu",
+					"expanded_url": "https://twitter.com/agneskh/status/1075801180314484743",
+					"display_url": "twitter.com/agneskh/status…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 843365802,
+			"id_str": "843365802",
+			"name": "Martina Emke",
+			"screen_name": "MartinaEmke",
+			"location": "",
+			"description": "Project Manager at @SstOHN; doctoral researcher at @OpenUniversity ; language teacher educator: https://t.co/GxRxsGmkkL - Views are my own",
+			"url": "https://t.co/EJQ282gkqD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EJQ282gkqD",
+							"expanded_url": "https://de.linkedin.com/in/martina-emke-2485565b",
+							"display_url": "de.linkedin.com/in/martina-emk…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GxRxsGmkkL",
+							"expanded_url": "http://ict-rev.ecml.at/",
+							"display_url": "ict-rev.ecml.at",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1196,
+			"friends_count": 760,
+			"listed_count": 150,
+			"created_at": "Mon Sep 24 10:57:08 +0000 2012",
+			"favourites_count": 1580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9134,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/510724564381220864/rCnZsu4F_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/510724564381220864/rCnZsu4F_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/843365802/1433018110",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075801180314484700,
+		"quoted_status_id_str": "1075801180314484743",
+		"quoted_status_permalink": {
+			"url": "https://t.co/C7h2eqeUvu",
+			"expanded": "https://twitter.com/agneskh/status/1075801180314484743",
+			"display": "twitter.com/agneskh/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 20 17:12:43 +0000 2018",
+			"id": 1075801180314484700,
+			"id_str": "1075801180314484743",
+			"full_text": "@MartinaEmke Just for you as a souvenir of a most memorable and fabulous day :-) https://t.co/vMaymcvbzX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				80
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MartinaEmke",
+						"name": "Martina Emke",
+						"id": 843365802,
+						"id_str": "843365802",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1075801171292512300,
+						"id_str": "1075801171292512268",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/Du4DdyfW4AwAaV-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du4DdyfW4AwAaV-.jpg",
+						"url": "https://t.co/vMaymcvbzX",
+						"display_url": "pic.twitter.com/vMaymcvbzX",
+						"expanded_url": "https://twitter.com/agneskh/status/1075801180314484743/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1075801171292512300,
+						"id_str": "1075801171292512268",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/Du4DdyfW4AwAaV-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du4DdyfW4AwAaV-.jpg",
+						"url": "https://t.co/vMaymcvbzX",
+						"display_url": "pic.twitter.com/vMaymcvbzX",
+						"expanded_url": "https://twitter.com/agneskh/status/1075801180314484743/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 843365802,
+			"in_reply_to_user_id_str": "843365802",
+			"in_reply_to_screen_name": "MartinaEmke",
+			"user": {
+				"id": 12590832,
+				"id_str": "12590832",
+				"name": "Agnes Kukulska-Hulme",
+				"screen_name": "agneskh",
+				"location": "",
+				"description": "Professor at The Open University researching mobile language learning, migrant and refugee learning, intelligent assistants",
+				"url": "https://t.co/4h9jc3uG0f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4h9jc3uG0f",
+								"expanded_url": "http://oro.open.ac.uk/view/person/ak35.html",
+								"display_url": "oro.open.ac.uk/view/person/ak…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2040,
+				"friends_count": 1026,
+				"listed_count": 142,
+				"created_at": "Wed Jan 23 12:11:20 +0000 2008",
+				"favourites_count": 709,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1277,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/636986367008985088/xK_kmKjC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/636986367008985088/xK_kmKjC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12590832/1439819154",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A special souvenir of my wonderful viva today! \n\n#phdlife \n#EdD https://t.co/C7h2eqeUvu"
+	},
+	{
+		"created_at": "Thu Dec 20 17:15:45 +0000 2018",
+		"id": 1075801942390116400,
+		"id_str": "1075801942390116360",
+		"full_text": "Many, many congratulations to @MartinaEmke, who just passed her EdD viva with her thesis on Twitter-based professional development. 🙌👍👏👏👏🎉🎉 #MFLTwitterati https://t.co/lvxzPflApJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MFLTwitterati",
+					"indices": [
+						140,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartinaEmke",
+					"name": "Martina Emke",
+					"id": 843365802,
+					"id_str": "843365802",
+					"indices": [
+						30,
+						42
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075801937507967000,
+					"id_str": "1075801937507966978",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/Du4EKY3W4AIi53G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du4EKY3W4AIi53G.jpg",
+					"url": "https://t.co/lvxzPflApJ",
+					"display_url": "pic.twitter.com/lvxzPflApJ",
+					"expanded_url": "https://twitter.com/OULanguages/status/1075801942390116360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075801937507967000,
+					"id_str": "1075801937507966978",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/Du4EKY3W4AIi53G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du4EKY3W4AIi53G.jpg",
+					"url": "https://t.co/lvxzPflApJ",
+					"display_url": "pic.twitter.com/lvxzPflApJ",
+					"expanded_url": "https://twitter.com/OULanguages/status/1075801942390116360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2398034245,
+			"id_str": "2398034245",
+			"name": "OU Languages",
+			"screen_name": "OULanguages",
+			"location": "UK",
+			"description": "Account for the Languages team at The Open University School of Languages and Applied Linguistics.",
+			"url": "https://t.co/CqzU8zPly4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqzU8zPly4",
+							"expanded_url": "http://wels.open.ac.uk/overview/school-languages-and-applied-linguistics",
+							"display_url": "wels.open.ac.uk/overview/schoo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 3564,
 			"friends_count": 988,
 			"listed_count": 100,
