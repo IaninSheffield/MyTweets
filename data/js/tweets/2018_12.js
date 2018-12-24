@@ -1,6 +1,1137 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 22 21:06:33 +0000 2018",
+		"id": 1076584801228996600,
+		"id_str": "1076584801228996613",
+		"full_text": "New blog post: ‘Hearing’ \n\nhttps://t.co/rxFmYW3zAA https://t.co/z9Hdjqvb4n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rxFmYW3zAA",
+					"expanded_url": "https://drchrisjbailey.wordpress.com/2018/12/22/hearing/",
+					"display_url": "drchrisjbailey.wordpress.com/2018/12/22/hea…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1076584796741136400,
+					"id_str": "1076584796741136384",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DvDMKyxXcAAMklR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvDMKyxXcAAMklR.jpg",
+					"url": "https://t.co/z9Hdjqvb4n",
+					"display_url": "pic.twitter.com/z9Hdjqvb4n",
+					"expanded_url": "https://twitter.com/drchrisjbailey/status/1076584801228996613/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076584796741136400,
+					"id_str": "1076584796741136384",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DvDMKyxXcAAMklR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvDMKyxXcAAMklR.jpg",
+					"url": "https://t.co/z9Hdjqvb4n",
+					"display_url": "pic.twitter.com/z9Hdjqvb4n",
+					"expanded_url": "https://twitter.com/drchrisjbailey/status/1076584801228996613/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2599453764,
+			"id_str": "2599453764",
+			"name": "Chris Bailey Ⓥ",
+			"screen_name": "drchrisjbailey",
+			"location": "Sheffield, England",
+			"description": "Lecturer in Education at Sheffield Hallam Uni. 'The world is teeming; anything can happen' - John Cage",
+			"url": "https://t.co/BCRAntcYCM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BCRAntcYCM",
+							"expanded_url": "https://drchrisjbailey.wordpress.com/",
+							"display_url": "drchrisjbailey.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 756,
+			"friends_count": 835,
+			"listed_count": 32,
+			"created_at": "Wed Jul 02 08:48:15 +0000 2014",
+			"favourites_count": 3255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905804019934908417/Vhz_VrmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905804019934908417/Vhz_VrmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2599453764/1531425801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New blog post: ‘Hearing’ \n\nhttps://t.co/rxFmYW3zAA https://t.co/z9Hdjqvb4n"
+	},
+	{
+		"created_at": "Sun Dec 23 08:04:56 +0000 2018",
+		"id": 1076750490229227500,
+		"id_str": "1076750490229227520",
+		"full_text": "Thank you to everyone who has supported Radio Edutalk over another fruitful year! We are always looking for your suggestions for future guests. Who should we invite onto the show?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77933462,
+			"id_str": "77933462",
+			"name": "Radio EDUtalk",
+			"screen_name": "EDUtalkr",
+			"location": "Scotland",
+			"description": "Education radio. Live broadcasts, see https://t.co/p4iPb4kiJM for listings & stream at https://t.co/pp4oo9cgGi. Tweets by @parslad & @johnjohnston.",
+			"url": "http://t.co/EHQjnaYD40",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/EHQjnaYD40",
+							"expanded_url": "http://EDUtalk.cc",
+							"display_url": "EDUtalk.cc",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/p4iPb4kiJM",
+							"expanded_url": "http://www.edutalk.info/listen",
+							"display_url": "edutalk.info/listen",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/pp4oo9cgGi",
+							"expanded_url": "http://edutalk.cc/listen",
+							"display_url": "edutalk.cc/listen",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1743,
+			"friends_count": 1852,
+			"listed_count": 51,
+			"created_at": "Mon Sep 28 05:22:40 +0000 2009",
+			"favourites_count": 278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2936,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1660291429/radioedutalklogo200_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1660291429/radioedutalklogo200_normal.gif",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Thank you to everyone who has supported Radio Edutalk over another fruitful year! We are always looking for your suggestions for future guests. Who should we invite onto the show?"
+	},
+	{
+		"created_at": "Thu Dec 20 16:47:29 +0000 2018",
+		"id": 1075794829878198300,
+		"id_str": "1075794829878198274",
+		"full_text": "Hey UK friends. I just had to do this.\n\nMERRY CHRISTMAS 🎄💖🇬🇧✨🇪🇺 https://t.co/uz9NpnoB2J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075794708071366700,
+					"id_str": "1075794708071366656",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1075794708071366656/pu/img/6VdbpPX67UYGDu0F.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1075794708071366656/pu/img/6VdbpPX67UYGDu0F.jpg",
+					"url": "https://t.co/uz9NpnoB2J",
+					"display_url": "pic.twitter.com/uz9NpnoB2J",
+					"expanded_url": "https://twitter.com/TerryReintke/status/1075794829878198274/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075794708071366700,
+					"id_str": "1075794708071366656",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1075794708071366656/pu/img/6VdbpPX67UYGDu0F.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1075794708071366656/pu/img/6VdbpPX67UYGDu0F.jpg",
+					"url": "https://t.co/uz9NpnoB2J",
+					"display_url": "pic.twitter.com/uz9NpnoB2J",
+					"expanded_url": "https://twitter.com/TerryReintke/status/1075794829878198274/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 71207,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1075794708071366656/pu/vid/1280x720/uXFo7ejaYHdoHB_p.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1075794708071366656/pu/vid/320x180/wSzyzEWnqBnTTlxB.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1075794708071366656/pu/vid/640x360/GF1ZHnHmWiGKc_kb.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1075794708071366656/pu/pl/YHWhjFRUEgRhdSnC.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 560188351,
+			"id_str": "560188351",
+			"name": "Terry Reintke",
+			"screen_name": "TerryReintke",
+			"location": "Gelsenkirchen",
+			"description": "Feminism. Social justice. Europe. MEP | Greens",
+			"url": "https://t.co/995Fpm4yG8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/995Fpm4yG8",
+							"expanded_url": "http://www.terryreintke.eu",
+							"display_url": "terryreintke.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14631,
+			"friends_count": 1111,
+			"listed_count": 356,
+			"created_at": "Sun Apr 22 09:56:05 +0000 2012",
+			"favourites_count": 8511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11191,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062074575419310081/dKW-joHq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062074575419310081/dKW-joHq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/560188351/1542053287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9373,
+		"favorite_count": 32444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey UK friends. I just had to do this.\n\nMERRY CHRISTMAS 🎄💖🇬🇧✨🇪🇺 https://t.co/uz9NpnoB2J"
+	},
+	{
+		"created_at": "Sat Dec 22 17:26:02 +0000 2018",
+		"id": 1076529309161001000,
+		"id_str": "1076529309161000960",
+		"full_text": "@drchrisjbailey Oh no! #symptomofbeingateacher 😞",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "symptomofbeingateacher",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drchrisjbailey",
+					"name": "Chris Bailey Ⓥ",
+					"id": 2599453764,
+					"id_str": "2599453764",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1076516999726022700,
+		"in_reply_to_status_id_str": "1076516999726022656",
+		"in_reply_to_user_id": 2599453764,
+		"in_reply_to_user_id_str": "2599453764",
+		"in_reply_to_screen_name": "drchrisjbailey",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3208,
+			"friends_count": 3782,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11242,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@drchrisjbailey Oh no! #symptomofbeingateacher 😞"
+	},
+	{
+		"created_at": "Thu Dec 20 17:15:45 +0000 2018",
+		"id": 1075801942390116400,
+		"id_str": "1075801942390116360",
+		"full_text": "Many, many congratulations to @MartinaEmke, who just passed her EdD viva with her thesis on Twitter-based professional development. 🙌👍👏👏👏🎉🎉 #MFLTwitterati https://t.co/lvxzPflApJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MFLTwitterati",
+					"indices": [
+						140,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartinaEmke",
+					"name": "Martina Emke",
+					"id": 843365802,
+					"id_str": "843365802",
+					"indices": [
+						30,
+						42
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075801937507967000,
+					"id_str": "1075801937507966978",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/Du4EKY3W4AIi53G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du4EKY3W4AIi53G.jpg",
+					"url": "https://t.co/lvxzPflApJ",
+					"display_url": "pic.twitter.com/lvxzPflApJ",
+					"expanded_url": "https://twitter.com/OULanguages/status/1075801942390116360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075801937507967000,
+					"id_str": "1075801937507966978",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/Du4EKY3W4AIi53G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du4EKY3W4AIi53G.jpg",
+					"url": "https://t.co/lvxzPflApJ",
+					"display_url": "pic.twitter.com/lvxzPflApJ",
+					"expanded_url": "https://twitter.com/OULanguages/status/1075801942390116360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2398034245,
+			"id_str": "2398034245",
+			"name": "OU Languages",
+			"screen_name": "OULanguages",
+			"location": "UK",
+			"description": "Account for the Languages team at The Open University School of Languages and Applied Linguistics.",
+			"url": "https://t.co/CqzU8zPly4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqzU8zPly4",
+							"expanded_url": "http://wels.open.ac.uk/overview/school-languages-and-applied-linguistics",
+							"display_url": "wels.open.ac.uk/overview/schoo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3569,
+			"friends_count": 989,
+			"listed_count": 100,
+			"created_at": "Wed Mar 19 15:13:10 +0000 2014",
+			"favourites_count": 3807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4869,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/968528193857736705/IiN4Wr8W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/968528193857736705/IiN4Wr8W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2398034245/1537863109",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Many, many congratulations to @MartinaEmke, who just passed her EdD viva with her thesis on Twitter-based professional development. 🙌👍👏👏👏🎉🎉 #MFLTwitterati https://t.co/lvxzPflApJ"
+	},
+	{
+		"created_at": "Thu Dec 20 17:27:06 +0000 2018",
+		"id": 1075804798094622700,
+		"id_str": "1075804798094622720",
+		"full_text": "A special souvenir of my wonderful viva today! \n\n#phdlife \n#EdD https://t.co/C7h2eqeUvu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "phdlife",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "EdD",
+					"indices": [
+						59,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C7h2eqeUvu",
+					"expanded_url": "https://twitter.com/agneskh/status/1075801180314484743",
+					"display_url": "twitter.com/agneskh/status…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 843365802,
+			"id_str": "843365802",
+			"name": "Martina Emke",
+			"screen_name": "MartinaEmke",
+			"location": "",
+			"description": "Project Manager at @SstOHN; doctoral researcher at @OpenUniversity ; language teacher educator: https://t.co/GxRxsGmkkL - Views are my own",
+			"url": "https://t.co/EJQ282gkqD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EJQ282gkqD",
+							"expanded_url": "https://de.linkedin.com/in/martina-emke-2485565b",
+							"display_url": "de.linkedin.com/in/martina-emk…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GxRxsGmkkL",
+							"expanded_url": "http://ict-rev.ecml.at/",
+							"display_url": "ict-rev.ecml.at",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1197,
+			"friends_count": 761,
+			"listed_count": 149,
+			"created_at": "Mon Sep 24 10:57:08 +0000 2012",
+			"favourites_count": 1582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9140,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076591266887073792/6FmRtAy1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076591266887073792/6FmRtAy1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/843365802/1433018110",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075801180314484700,
+		"quoted_status_id_str": "1075801180314484743",
+		"quoted_status_permalink": {
+			"url": "https://t.co/C7h2eqeUvu",
+			"expanded": "https://twitter.com/agneskh/status/1075801180314484743",
+			"display": "twitter.com/agneskh/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 20 17:12:43 +0000 2018",
+			"id": 1075801180314484700,
+			"id_str": "1075801180314484743",
+			"full_text": "@MartinaEmke Just for you as a souvenir of a most memorable and fabulous day :-) https://t.co/vMaymcvbzX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				80
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MartinaEmke",
+						"name": "Martina Emke",
+						"id": 843365802,
+						"id_str": "843365802",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1075801171292512300,
+						"id_str": "1075801171292512268",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/Du4DdyfW4AwAaV-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du4DdyfW4AwAaV-.jpg",
+						"url": "https://t.co/vMaymcvbzX",
+						"display_url": "pic.twitter.com/vMaymcvbzX",
+						"expanded_url": "https://twitter.com/agneskh/status/1075801180314484743/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1075801171292512300,
+						"id_str": "1075801171292512268",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/Du4DdyfW4AwAaV-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du4DdyfW4AwAaV-.jpg",
+						"url": "https://t.co/vMaymcvbzX",
+						"display_url": "pic.twitter.com/vMaymcvbzX",
+						"expanded_url": "https://twitter.com/agneskh/status/1075801180314484743/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 843365802,
+			"in_reply_to_user_id_str": "843365802",
+			"in_reply_to_screen_name": "MartinaEmke",
+			"user": {
+				"id": 12590832,
+				"id_str": "12590832",
+				"name": "Agnes Kukulska-Hulme",
+				"screen_name": "agneskh",
+				"location": "",
+				"description": "Professor at The Open University researching mobile language learning, migrant and refugee learning, intelligent assistants",
+				"url": "https://t.co/4h9jc3uG0f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4h9jc3uG0f",
+								"expanded_url": "http://oro.open.ac.uk/view/person/ak35.html",
+								"display_url": "oro.open.ac.uk/view/person/ak…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2041,
+				"friends_count": 1027,
+				"listed_count": 141,
+				"created_at": "Wed Jan 23 12:11:20 +0000 2008",
+				"favourites_count": 713,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1278,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/636986367008985088/xK_kmKjC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/636986367008985088/xK_kmKjC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12590832/1439819154",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A special souvenir of my wonderful viva today! \n\n#phdlife \n#EdD https://t.co/C7h2eqeUvu"
+	},
+	{
 		"created_at": "Thu Dec 20 16:47:29 +0000 2018",
 		"id": 1075794829878198300,
 		"id_str": "1075794829878198274",
