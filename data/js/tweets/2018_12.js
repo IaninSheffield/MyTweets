@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 24 16:14:16 +0000 2018",
+		"id": 1077236020419199000,
+		"id_str": "1077236020419198982",
+		"full_text": "@LeysPhysics @physicsgirluk Should we also ask ourselves what the economic &amp; environmental costs (&amp; payback times) of such systems are? This one looks to be constructed from concrete.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeysPhysics",
+					"name": "Leys Physics",
+					"id": 2911317158,
+					"id_str": "2911317158",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "physicsgirluk",
+					"name": "Physics Girl UK",
+					"id": 1941313578,
+					"id_str": "1941313578",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1077195613924659200,
+		"in_reply_to_status_id_str": "1077195613924659202",
+		"in_reply_to_user_id": 2911317158,
+		"in_reply_to_user_id_str": "2911317158",
+		"in_reply_to_screen_name": "LeysPhysics",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 3782,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11244,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LeysPhysics @physicsgirluk Should we also ask ourselves what the economic &amp; environmental costs (&amp; payback times) of such systems are? This one looks to be constructed from concrete."
+	},
+	{
+		"created_at": "Mon Dec 24 08:44:22 +0000 2018",
+		"id": 1077122800522010600,
+		"id_str": "1077122800522010624",
+		"full_text": "@royalsociety @wendymaria100 Wondering, \"John\" or James? Thx.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "royalsociety",
+					"name": "The Royal Society",
+					"id": 28567809,
+					"id_str": "28567809",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "wendymaria100",
+					"name": "wendymaria",
+					"id": 1542498906,
+					"id_str": "1542498906",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1077111660995899400,
+		"in_reply_to_status_id_str": "1077111660995899392",
+		"in_reply_to_user_id": 28567809,
+		"in_reply_to_user_id_str": "28567809",
+		"in_reply_to_screen_name": "royalsociety",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 3782,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11244,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@royalsociety @wendymaria100 Wondering, \"John\" or James? Thx."
+	},
+	{
+		"created_at": "Sat Dec 22 21:06:33 +0000 2018",
+		"id": 1076584801228996600,
+		"id_str": "1076584801228996613",
+		"full_text": "New blog post: ‘Hearing’ \n\nhttps://t.co/rxFmYW3zAA https://t.co/z9Hdjqvb4n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rxFmYW3zAA",
+					"expanded_url": "https://drchrisjbailey.wordpress.com/2018/12/22/hearing/",
+					"display_url": "drchrisjbailey.wordpress.com/2018/12/22/hea…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1076584796741136400,
+					"id_str": "1076584796741136384",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DvDMKyxXcAAMklR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvDMKyxXcAAMklR.jpg",
+					"url": "https://t.co/z9Hdjqvb4n",
+					"display_url": "pic.twitter.com/z9Hdjqvb4n",
+					"expanded_url": "https://twitter.com/drchrisjbailey/status/1076584801228996613/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076584796741136400,
+					"id_str": "1076584796741136384",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DvDMKyxXcAAMklR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvDMKyxXcAAMklR.jpg",
+					"url": "https://t.co/z9Hdjqvb4n",
+					"display_url": "pic.twitter.com/z9Hdjqvb4n",
+					"expanded_url": "https://twitter.com/drchrisjbailey/status/1076584801228996613/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2599453764,
+			"id_str": "2599453764",
+			"name": "Chris Bailey Ⓥ",
+			"screen_name": "drchrisjbailey",
+			"location": "Sheffield, England",
+			"description": "Lecturer in Education at Sheffield Hallam Uni. 'The world is teeming; anything can happen' - John Cage",
+			"url": "https://t.co/BCRAntcYCM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BCRAntcYCM",
+							"expanded_url": "https://drchrisjbailey.wordpress.com/",
+							"display_url": "drchrisjbailey.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 756,
+			"friends_count": 835,
+			"listed_count": 32,
+			"created_at": "Wed Jul 02 08:48:15 +0000 2014",
+			"favourites_count": 3255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905804019934908417/Vhz_VrmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905804019934908417/Vhz_VrmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2599453764/1531425801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New blog post: ‘Hearing’ \n\nhttps://t.co/rxFmYW3zAA https://t.co/z9Hdjqvb4n"
+	},
+	{
+		"created_at": "Sun Dec 23 08:04:56 +0000 2018",
+		"id": 1076750490229227500,
+		"id_str": "1076750490229227520",
+		"full_text": "Thank you to everyone who has supported Radio Edutalk over another fruitful year! We are always looking for your suggestions for future guests. Who should we invite onto the show?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77933462,
+			"id_str": "77933462",
+			"name": "Radio EDUtalk",
+			"screen_name": "EDUtalkr",
+			"location": "Scotland",
+			"description": "Education radio. Live broadcasts, see https://t.co/p4iPb4kiJM for listings & stream at https://t.co/pp4oo9cgGi. Tweets by @parslad & @johnjohnston.",
+			"url": "http://t.co/EHQjnaYD40",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/EHQjnaYD40",
+							"expanded_url": "http://EDUtalk.cc",
+							"display_url": "EDUtalk.cc",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/p4iPb4kiJM",
+							"expanded_url": "http://www.edutalk.info/listen",
+							"display_url": "edutalk.info/listen",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/pp4oo9cgGi",
+							"expanded_url": "http://edutalk.cc/listen",
+							"display_url": "edutalk.cc/listen",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1745,
+			"friends_count": 1856,
+			"listed_count": 51,
+			"created_at": "Mon Sep 28 05:22:40 +0000 2009",
+			"favourites_count": 278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2937,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1660291429/radioedutalklogo200_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1660291429/radioedutalklogo200_normal.gif",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Thank you to everyone who has supported Radio Edutalk over another fruitful year! We are always looking for your suggestions for future guests. Who should we invite onto the show?"
+	},
+	{
 		"created_at": "Sat Dec 22 21:06:33 +0000 2018",
 		"id": 1076584801228996600,
 		"id_str": "1076584801228996613",
