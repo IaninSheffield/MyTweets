@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 23 17:07:05 +0000 2018",
+		"id": 1076886927163445200,
+		"id_str": "1076886927163445248",
+		"full_text": "4 some time now I had been thinking about dedicating an aspect of @SocialMedia_Soc to public scholarship.And along came @mj_powers + @adierussell and proposed 2K - a permanent section dedicated to public scholarship.First CFP? SOMETHING I NO LONGER BELIEVE https://t.co/fHrPitTMwU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SocialMedia_Soc",
+					"name": "Social Media+Society",
+					"id": 2962250933,
+					"id_str": "2962250933",
+					"indices": [
+						66,
+						82
+					]
+				},
+				{
+					"screen_name": "mj_powers",
+					"name": "Matthew Powers",
+					"id": 12788202,
+					"id_str": "12788202",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"screen_name": "adierussell",
+					"name": "adierussell",
+					"id": 15148432,
+					"id_str": "15148432",
+					"indices": [
+						133,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fHrPitTMwU",
+					"expanded_url": "https://journals.sagepub.com/pb-assets/2K-%20First%20issue%20call.docx.pdf",
+					"display_url": "journals.sagepub.com/pb-assets/2K-%…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8271262,
+			"id_str": "8271262",
+			"name": "Zizi Papacharissi",
+			"screen_name": "zizip",
+			"location": "Chicago",
+			"description": "professor + head COMM@UIC ::a networked self::a private sphere::technology as architecture::privacy as luxury commodity::habitus of the new::affective publics",
+			"url": "https://t.co/ciq4Mgk9Hk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ciq4Mgk9Hk",
+							"expanded_url": "http://www.uic.edu/~zizi",
+							"display_url": "uic.edu/~zizi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8439,
+			"friends_count": 1204,
+			"listed_count": 384,
+			"created_at": "Sat Aug 18 19:55:10 +0000 2007",
+			"favourites_count": 3007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/833120665544822785/6re3i3gs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/833120665544822785/6re3i3gs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8271262/1351052581",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "4 some time now I had been thinking about dedicating an aspect of @SocialMedia_Soc to public scholarship.And along came @mj_powers + @adierussell and proposed 2K - a permanent section dedicated to public scholarship.First CFP? SOMETHING I NO LONGER BELIEVE https://t.co/fHrPitTMwU"
+	},
+	{
 		"created_at": "Mon Dec 24 16:14:16 +0000 2018",
 		"id": 1077236020419199000,
 		"id_str": "1077236020419198982",
