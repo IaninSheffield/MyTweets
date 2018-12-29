@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 28 03:32:56 +0000 2018",
+		"id": 1078493978901794800,
+		"id_str": "1078493978901794816",
+		"full_text": ".@ednology if you're going to steal my blog post, at least format it correctly. Better yet, don't plagiarize!!! https://t.co/npsNK9iZ52",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ednology",
+					"name": "ednology",
+					"id": 105323917,
+					"id_str": "105323917",
+					"indices": [
+						1,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/npsNK9iZ52",
+					"expanded_url": "https://www.ednology.com/a-complete-guide-to-using-flipgrid-12-tutorial-videos-flipgridfever/",
+					"display_url": "ednology.com/a-complete-gui…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11112092,
+			"id_str": "11112092",
+			"name": "Richard Byrne",
+			"screen_name": "rmbyrne",
+			"location": "Maine, USA",
+			"description": "Started blogging about ed tech in 2007 and still haven't stopped. Just trying to be helpful.   https://t.co/6F9arfUgKS",
+			"url": "http://t.co/WDPNbq82bs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WDPNbq82bs",
+							"expanded_url": "http://freetech4teachers.com",
+							"display_url": "freetech4teachers.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6F9arfUgKS",
+							"expanded_url": "http://practicaledtech.com",
+							"display_url": "practicaledtech.com",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 111417,
+			"friends_count": 14180,
+			"listed_count": 4798,
+			"created_at": "Thu Dec 13 02:11:30 +0000 2007",
+			"favourites_count": 5855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60013,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "85AF24",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030273213622874112/chDoulAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030273213622874112/chDoulAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11112092/1534471309",
+			"profile_link_color": "B92A4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A3DC13",
+			"profile_text_color": "462020",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@ednology if you're going to steal my blog post, at least format it correctly. Better yet, don't plagiarize!!! https://t.co/npsNK9iZ52"
+	},
+	{
+		"created_at": "Sun Dec 23 17:07:05 +0000 2018",
+		"id": 1076886927163445200,
+		"id_str": "1076886927163445248",
+		"full_text": "4 some time now I had been thinking about dedicating an aspect of @SocialMedia_Soc to public scholarship.And along came @mj_powers + @adierussell and proposed 2K - a permanent section dedicated to public scholarship.First CFP? SOMETHING I NO LONGER BELIEVE https://t.co/fHrPitTMwU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SocialMedia_Soc",
+					"name": "Social Media+Society",
+					"id": 2962250933,
+					"id_str": "2962250933",
+					"indices": [
+						66,
+						82
+					]
+				},
+				{
+					"screen_name": "mj_powers",
+					"name": "Matthew Powers",
+					"id": 12788202,
+					"id_str": "12788202",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"screen_name": "adierussell",
+					"name": "adierussell",
+					"id": 15148432,
+					"id_str": "15148432",
+					"indices": [
+						133,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fHrPitTMwU",
+					"expanded_url": "https://journals.sagepub.com/pb-assets/2K-%20First%20issue%20call.docx.pdf",
+					"display_url": "journals.sagepub.com/pb-assets/2K-%…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8271262,
+			"id_str": "8271262",
+			"name": "Zizi Papacharissi",
+			"screen_name": "zizip",
+			"location": "Chicago",
+			"description": "professor + head COMM@UIC ::a networked self::a private sphere::technology as architecture::privacy as luxury commodity::habitus of the new::affective publics",
+			"url": "https://t.co/ciq4Mgk9Hk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ciq4Mgk9Hk",
+							"expanded_url": "http://www.uic.edu/~zizi",
+							"display_url": "uic.edu/~zizi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8439,
+			"friends_count": 1204,
+			"listed_count": 384,
+			"created_at": "Sat Aug 18 19:55:10 +0000 2007",
+			"favourites_count": 3009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8368,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/833120665544822785/6re3i3gs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/833120665544822785/6re3i3gs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8271262/1351052581",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "4 some time now I had been thinking about dedicating an aspect of @SocialMedia_Soc to public scholarship.And along came @mj_powers + @adierussell and proposed 2K - a permanent section dedicated to public scholarship.First CFP? SOMETHING I NO LONGER BELIEVE https://t.co/fHrPitTMwU"
+	},
+	{
+		"created_at": "Mon Dec 24 16:14:16 +0000 2018",
+		"id": 1077236020419199000,
+		"id_str": "1077236020419198982",
+		"full_text": "@LeysPhysics @physicsgirluk Should we also ask ourselves what the economic &amp; environmental costs (&amp; payback times) of such systems are? This one looks to be constructed from concrete.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeysPhysics",
+					"name": "Leys Physics",
+					"id": 2911317158,
+					"id_str": "2911317158",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "physicsgirluk",
+					"name": "Physics Girl UK",
+					"id": 1941313578,
+					"id_str": "1941313578",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1077195613924659200,
+		"in_reply_to_status_id_str": "1077195613924659202",
+		"in_reply_to_user_id": 2911317158,
+		"in_reply_to_user_id_str": "2911317158",
+		"in_reply_to_screen_name": "LeysPhysics",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3207,
+			"friends_count": 3783,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11246,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LeysPhysics @physicsgirluk Should we also ask ourselves what the economic &amp; environmental costs (&amp; payback times) of such systems are? This one looks to be constructed from concrete."
+	},
+	{
+		"created_at": "Mon Dec 24 08:44:22 +0000 2018",
+		"id": 1077122800522010600,
+		"id_str": "1077122800522010624",
+		"full_text": "@royalsociety @wendymaria100 Wondering, \"John\" or James? Thx.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "royalsociety",
+					"name": "The Royal Society",
+					"id": 28567809,
+					"id_str": "28567809",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "wendymaria100",
+					"name": "wendymaria",
+					"id": 1542498906,
+					"id_str": "1542498906",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1077111660995899400,
+		"in_reply_to_status_id_str": "1077111660995899392",
+		"in_reply_to_user_id": 28567809,
+		"in_reply_to_user_id_str": "28567809",
+		"in_reply_to_screen_name": "royalsociety",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3207,
+			"friends_count": 3783,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11246,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@royalsociety @wendymaria100 Wondering, \"John\" or James? Thx."
+	},
+	{
 		"created_at": "Sun Dec 23 17:07:05 +0000 2018",
 		"id": 1076886927163445200,
 		"id_str": "1076886927163445248",
