@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 29 19:37:46 +0000 2018",
+		"id": 1079099174656921600,
+		"id_str": "1079099174656921601",
+		"full_text": "@sputniksteve @SuzanneCulshaw You're probably already all over this Steve, but here's something I found more helpful for tracking conversations than the Twitter timeline: \nhttps://t.co/D4QUP0uEIP",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sputniksteve",
+					"name": "sputnik steve",
+					"id": 256658795,
+					"id_str": "256658795",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "SuzanneCulshaw",
+					"name": "Suzanne Culshaw",
+					"id": 504294041,
+					"id_str": "504294041",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D4QUP0uEIP",
+					"expanded_url": "https://treeverse.app/view/OipTZuqt",
+					"display_url": "treeverse.app/view/OipTZuqt",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1079055112314781700,
+		"in_reply_to_status_id_str": "1079055112314781696",
+		"in_reply_to_user_id": 256658795,
+		"in_reply_to_user_id_str": "256658795",
+		"in_reply_to_screen_name": "sputniksteve",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3208,
+			"friends_count": 3783,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sputniksteve @SuzanneCulshaw You're probably already all over this Steve, but here's something I found more helpful for tracking conversations than the Twitter timeline: \nhttps://t.co/D4QUP0uEIP"
+	},
+	{
+		"created_at": "Sat Dec 29 16:28:24 +0000 2018",
+		"id": 1079051519918514200,
+		"id_str": "1079051519918514176",
+		"full_text": "@sputniksteve @SuzanneCulshaw Interesting poll Steve, particularly some of the responses.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sputniksteve",
+					"name": "sputnik steve",
+					"id": 256658795,
+					"id_str": "256658795",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "SuzanneCulshaw",
+					"name": "Suzanne Culshaw",
+					"id": 504294041,
+					"id_str": "504294041",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1078971405390303200,
+		"in_reply_to_status_id_str": "1078971405390303232",
+		"in_reply_to_user_id": 256658795,
+		"in_reply_to_user_id_str": "256658795",
+		"in_reply_to_screen_name": "sputniksteve",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3208,
+			"friends_count": 3783,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sputniksteve @SuzanneCulshaw Interesting poll Steve, particularly some of the responses."
+	},
+	{
+		"created_at": "Fri Dec 28 03:32:56 +0000 2018",
+		"id": 1078493978901794800,
+		"id_str": "1078493978901794816",
+		"full_text": ".@ednology if you're going to steal my blog post, at least format it correctly. Better yet, don't plagiarize!!! https://t.co/npsNK9iZ52",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ednology",
+					"name": "ednology",
+					"id": 105323917,
+					"id_str": "105323917",
+					"indices": [
+						1,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/npsNK9iZ52",
+					"expanded_url": "https://www.ednology.com/a-complete-guide-to-using-flipgrid-12-tutorial-videos-flipgridfever/",
+					"display_url": "ednology.com/a-complete-gui…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11112092,
+			"id_str": "11112092",
+			"name": "Richard Byrne",
+			"screen_name": "rmbyrne",
+			"location": "Maine, USA",
+			"description": "Started blogging about ed tech in 2007 and still haven't stopped. Just trying to be helpful.   https://t.co/6F9arfUgKS",
+			"url": "http://t.co/WDPNbq82bs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WDPNbq82bs",
+							"expanded_url": "http://freetech4teachers.com",
+							"display_url": "freetech4teachers.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6F9arfUgKS",
+							"expanded_url": "http://practicaledtech.com",
+							"display_url": "practicaledtech.com",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 111424,
+			"friends_count": 14181,
+			"listed_count": 4798,
+			"created_at": "Thu Dec 13 02:11:30 +0000 2007",
+			"favourites_count": 5855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "85AF24",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030273213622874112/chDoulAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030273213622874112/chDoulAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11112092/1534471309",
+			"profile_link_color": "B92A4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A3DC13",
+			"profile_text_color": "462020",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@ednology if you're going to steal my blog post, at least format it correctly. Better yet, don't plagiarize!!! https://t.co/npsNK9iZ52"
+	},
+	{
 		"created_at": "Fri Dec 28 03:32:56 +0000 2018",
 		"id": 1078493978901794800,
 		"id_str": "1078493978901794816",
