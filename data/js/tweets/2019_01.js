@@ -1,6 +1,635 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 06 19:24:07 +0000 2019",
+		"id": 1081994841649745900,
+		"id_str": "1081994841649745926",
+		"full_text": "Important &amp; helpful messages from @InnovativeEdu on tweeting with accessibility in mind https://t.co/wrl4EwnXZu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "InnovativeEdu",
+					"name": "Lisa Nielsen",
+					"id": 9736372,
+					"id_str": "9736372",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wrl4EwnXZu",
+					"expanded_url": "https://theinnovativeeducator.blogspot.com/2019/01/checklist-for-inclusive-tweeting.html",
+					"display_url": "theinnovativeeducator.blogspot.com/2019/01/checkl…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3205,
+			"friends_count": 3788,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Important &amp; helpful messages from @InnovativeEdu on tweeting with accessibility in mind https://t.co/wrl4EwnXZu"
+	},
+	{
+		"created_at": "Sun Jan 06 09:04:56 +0000 2019",
+		"id": 1081839018671775700,
+		"id_str": "1081839018671775744",
+		"full_text": "Even if I tell you in advance that this is a 'flessenlikker,' still willing to bet you can't guess what it's for. https://t.co/VZW3VVVkz8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VZW3VVVkz8",
+					"expanded_url": "https://twitter.com/LearndutchOrg/status/1081833878065737728",
+					"display_url": "twitter.com/LearndutchOrg/…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3205,
+			"friends_count": 3788,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081833878065737700,
+		"quoted_status_id_str": "1081833878065737728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VZW3VVVkz8",
+			"expanded": "https://twitter.com/LearndutchOrg/status/1081833878065737728",
+			"display": "twitter.com/LearndutchOrg/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 06 08:44:30 +0000 2019",
+			"id": 1081833878065737700,
+			"id_str": "1081833878065737728",
+			"full_text": "Only Dutch people know this! Do you know what it is used for? https://t.co/5BuX5DHuPw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5BuX5DHuPw",
+						"expanded_url": "http://youtu.be/n3IWuPSITJk?a",
+						"display_url": "youtu.be/n3IWuPSITJk?a",
+						"indices": [
+							62,
+							85
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.google.com/\" rel=\"nofollow\">Google</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2589413238,
+				"id_str": "2589413238",
+				"name": "LearndutchOrg",
+				"screen_name": "LearndutchOrg",
+				"location": "Netherlands",
+				"description": "Online #Dutch lessons with Bart de Pau & Dutch Summer School. #NT2 #nederlands #elearning #dutchgrammar #learndutch",
+				"url": "https://t.co/QOR8fxZzXl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QOR8fxZzXl",
+								"expanded_url": "http://www.learndutch.org",
+								"display_url": "learndutch.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 882,
+				"friends_count": 94,
+				"listed_count": 15,
+				"created_at": "Thu Jun 26 11:37:27 +0000 2014",
+				"favourites_count": 52,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 382,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/482126895689900034/y2n5XBe9_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/482126895689900034/y2n5XBe9_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2589413238/1454151006",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Even if I tell you in advance that this is a 'flessenlikker,' still willing to bet you can't guess what it's for. https://t.co/VZW3VVVkz8"
+	},
+	{
+		"created_at": "Sun Jan 06 08:39:02 +0000 2019",
+		"id": 1081832499662258200,
+		"id_str": "1081832499662258177",
+		"full_text": "I'm struggling with some of the design elements in this infographic 😕\nAny data visualization folks care to comment? https://t.co/Qmr4EGqjNE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qmr4EGqjNE",
+					"expanded_url": "https://twitter.com/NGControlRoom/status/1081485205725167616",
+					"display_url": "twitter.com/NGControlRoom/…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3205,
+			"friends_count": 3788,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081485205725167600,
+		"quoted_status_id_str": "1081485205725167616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qmr4EGqjNE",
+			"expanded": "https://twitter.com/NGControlRoom/status/1081485205725167616",
+			"display": "twitter.com/NGControlRoom/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 05 09:39:00 +0000 2019",
+			"id": 1081485205725167600,
+			"id_str": "1081485205725167616",
+			"full_text": "On Friday #gas generated 56.4% of GB electricity, more than nuclear 15.7%, wind 6.8%, coal 6.7%, imports 6.5%, biomass 5.5%, hydro 1.5%, solar 0.9%, other 0.2% *excl. non-renewable distributed generation https://t.co/3iRumC8tbq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gas",
+						"indices": [
+							10,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1081485203539804200,
+						"id_str": "1081485203539804160",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/DwI1EArUwAA6hwV.png",
+						"media_url_https": "https://pbs.twimg.com/media/DwI1EArUwAA6hwV.png",
+						"url": "https://t.co/3iRumC8tbq",
+						"display_url": "pic.twitter.com/3iRumC8tbq",
+						"expanded_url": "https://twitter.com/NGControlRoom/status/1081485205725167616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1081485203539804200,
+						"id_str": "1081485203539804160",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/DwI1EArUwAA6hwV.png",
+						"media_url_https": "https://pbs.twimg.com/media/DwI1EArUwAA6hwV.png",
+						"url": "https://t.co/3iRumC8tbq",
+						"display_url": "pic.twitter.com/3iRumC8tbq",
+						"expanded_url": "https://twitter.com/NGControlRoom/status/1081485205725167616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www2.nationalgrid.com/uk/industry-information/electricity-transmission-system-operations/\" rel=\"nofollow\">GB Elexon Electricity Data</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 781406141616095200,
+				"id_str": "781406141616095234",
+				"name": "ESO Control Room",
+				"screen_name": "NGControlRoom",
+				"location": "United Kingdom",
+				"description": "Electricity National Control Centre @ng_eso. We balance #electricity generation and demand in real-time across GB. Tweets by @AlasdairBruce",
+				"url": "https://t.co/bU9x06b70l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bU9x06b70l",
+								"expanded_url": "https://www.nationalgrideso.com/",
+								"display_url": "nationalgrideso.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8057,
+				"friends_count": 814,
+				"listed_count": 85,
+				"created_at": "Thu Sep 29 08:11:56 +0000 2016",
+				"favourites_count": 1892,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3483,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1041425914213621760/JGfmjl4E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041425914213621760/JGfmjl4E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/781406141616095234/1507749259",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm struggling with some of the design elements in this infographic 😕\nAny data visualization folks care to comment? https://t.co/Qmr4EGqjNE"
+	},
+	{
 		"created_at": "Fri Jan 04 21:04:12 +0000 2019",
 		"id": 1081295255209762800,
 		"id_str": "1081295255209762819",
