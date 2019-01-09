@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 08 20:24:26 +0000 2019",
+		"id": 1082734797691281400,
+		"id_str": "1082734797691281409",
+		"full_text": "@Bethan_Southern @jdurran Those figures sound about right Beth &amp; I concur with your observations.\nA couple of other things strike me too. I wonder how many folks who've never tried Twitter (by now) are even likely to give it a shot? And I wonder how many who *were* on Twitter have now left?",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			295
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bethan_Southern",
+					"name": "Beth Southern",
+					"id": 62923642,
+					"id_str": "62923642",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "jdurran",
+					"name": "James Durran",
+					"id": 79563854,
+					"id_str": "79563854",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1082560771836522500,
+		"in_reply_to_status_id_str": "1082560771836522496",
+		"in_reply_to_user_id": 62923642,
+		"in_reply_to_user_id_str": "62923642",
+		"in_reply_to_screen_name": "Bethan_Southern",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3204,
+			"friends_count": 3788,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11261,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Bethan_Southern @jdurran Those figures sound about right Beth &amp; I concur with your observations.\nA couple of other things strike me too. I wonder how many folks who've never tried Twitter (by now) are even likely to give it a shot? And I wonder how many who *were* on Twitter have now left?"
+	},
+	{
+		"created_at": "Tue Jan 08 07:47:55 +0000 2019",
+		"id": 1082544412415180800,
+		"id_str": "1082544412415180800",
+		"full_text": "@jdurran @ASTsupportAAli @Bethan_Southern @87History Fair point about social use. I've spoken with some folks who use both Facebook &amp; Twitter, but partition their social life to the former &amp; professional to the latter.",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jdurran",
+					"name": "James Durran",
+					"id": 79563854,
+					"id_str": "79563854",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ASTsupportAAli",
+					"name": "Amjad Ali",
+					"id": 613446992,
+					"id_str": "613446992",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "Bethan_Southern",
+					"name": "Beth Southern",
+					"id": 62923642,
+					"id_str": "62923642",
+					"indices": [
+						25,
+						41
+					]
+				},
+				{
+					"screen_name": "87History",
+					"name": "Kate Jones",
+					"id": 2884956472,
+					"id_str": "2884956472",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1082541157622706200,
+		"in_reply_to_status_id_str": "1082541157622706177",
+		"in_reply_to_user_id": 79563854,
+		"in_reply_to_user_id_str": "79563854",
+		"in_reply_to_screen_name": "jdurran",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3204,
+			"friends_count": 3788,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11261,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jdurran @ASTsupportAAli @Bethan_Southern @87History Fair point about social use. I've spoken with some folks who use both Facebook &amp; Twitter, but partition their social life to the former &amp; professional to the latter."
+	},
+	{
+		"created_at": "Tue Jan 08 07:21:24 +0000 2019",
+		"id": 1082537741391417300,
+		"id_str": "1082537741391417344",
+		"full_text": "@jdurran @ASTsupportAAli @Bethan_Southern @87History Interested in what makes you say more teachers are on Facebook James? Was wondering about this with a couple of friends just last night.",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jdurran",
+					"name": "James Durran",
+					"id": 79563854,
+					"id_str": "79563854",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ASTsupportAAli",
+					"name": "Amjad Ali",
+					"id": 613446992,
+					"id_str": "613446992",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "Bethan_Southern",
+					"name": "Beth Southern",
+					"id": 62923642,
+					"id_str": "62923642",
+					"indices": [
+						25,
+						41
+					]
+				},
+				{
+					"screen_name": "87History",
+					"name": "Kate Jones",
+					"id": 2884956472,
+					"id_str": "2884956472",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1082528016025206800,
+		"in_reply_to_status_id_str": "1082528016025206786",
+		"in_reply_to_user_id": 79563854,
+		"in_reply_to_user_id_str": "79563854",
+		"in_reply_to_screen_name": "jdurran",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3204,
+			"friends_count": 3788,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11261,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jdurran @ASTsupportAAli @Bethan_Southern @87History Interested in what makes you say more teachers are on Facebook James? Was wondering about this with a couple of friends just last night."
+	},
+	{
+		"created_at": "Tue Jan 08 06:56:23 +0000 2019",
+		"id": 1082531445724336100,
+		"id_str": "1082531445724336128",
+		"full_text": "Wonder what this striking artefactual #dataviz would look like for UK commuters? https://t.co/ciuZAGFmKk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dataviz",
+					"indices": [
+						38,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ciuZAGFmKk",
+					"expanded_url": "https://twitter.com/knitgrrl/status/1082116625971712000",
+					"display_url": "twitter.com/knitgrrl/statu…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3204,
+			"friends_count": 3788,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11261,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082116625971712000,
+		"quoted_status_id_str": "1082116625971712000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ciuZAGFmKk",
+			"expanded": "https://twitter.com/knitgrrl/status/1082116625971712000",
+			"display": "twitter.com/knitgrrl/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 07 03:28:03 +0000 2019",
+			"id": 1082116625971712000,
+			"id_str": "1082116625971712000",
+			"full_text": "“My mother is a Munich-area commuter and enthusiastic knitter. In 2018 she knitted a \"train delay scarf.\" Two rows per day: gray for less than 5 minutes, pink for 5 to 30 minutes delay, red for a delay on both trips, or once more than 30 minutes.” https://t.co/7ekUXNd1im",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7ekUXNd1im",
+						"expanded_url": "https://twitter.com/sara__weber/status/1081950904671240192",
+						"display_url": "twitter.com/sara__weber/st…",
+						"indices": [
+							248,
+							271
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5372932,
+				"id_str": "5372932",
+				"name": "Shannon Okey",
+				"screen_name": "knitgrrl",
+				"location": "Cleveland, OH",
+				"description": "Author. Publisher. Designer. Snarky.",
+				"url": "https://t.co/4gC8kbmGAD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4gC8kbmGAD",
+								"expanded_url": "http://patreon.com/knitgrrl",
+								"display_url": "patreon.com/knitgrrl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12853,
+				"friends_count": 2285,
+				"listed_count": 651,
+				"created_at": "Sat Apr 21 05:11:47 +0000 2007",
+				"favourites_count": 78019,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41919,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/687378612220243968/krHk6cXu_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/687378612220243968/krHk6cXu_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5372932/1533083867",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0eb9676d24b211f1",
+				"url": "https://api.twitter.com/1.1/geo/id/0eb9676d24b211f1.json",
+				"place_type": "city",
+				"name": "Cleveland",
+				"full_name": "Cleveland, OH",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-81.877771,
+								41.392684
+							],
+							[
+								-81.5331634,
+								41.392684
+							],
+							[
+								-81.5331634,
+								41.599195
+							],
+							[
+								-81.877771,
+								41.599195
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1081950904671240200,
+			"quoted_status_id_str": "1081950904671240192",
+			"quoted_status_permalink": {
+				"url": "https://t.co/7ekUXNd1im",
+				"expanded": "https://twitter.com/sara__weber/status/1081950904671240192",
+				"display": "twitter.com/sara__weber/st…"
+			},
+			"retweet_count": 1355,
+			"favorite_count": 4584,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wonder what this striking artefactual #dataviz would look like for UK commuters? https://t.co/ciuZAGFmKk"
+	},
+	{
 		"created_at": "Sun Jan 06 19:24:07 +0000 2019",
 		"id": 1081994841649745900,
 		"id_str": "1081994841649745926",
