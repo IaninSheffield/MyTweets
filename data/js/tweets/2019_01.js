@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 07 16:01:49 +0000 2019",
+		"id": 1082306320810811400,
+		"id_str": "1082306320810811393",
+		"full_text": "Those small things again https://t.co/fM8aTqz7qP https://t.co/ZPWhmx2wW3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fM8aTqz7qP",
+					"expanded_url": "http://www.kristianstill.co.uk/wordpress/2019/01/06/those-small-things-again/",
+					"display_url": "kristianstill.co.uk/wordpress/2019…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082306318998724600,
+					"id_str": "1082306318998724609",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DwUf3OIUYAECnQr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwUf3OIUYAECnQr.jpg",
+					"url": "https://t.co/ZPWhmx2wW3",
+					"display_url": "pic.twitter.com/ZPWhmx2wW3",
+					"expanded_url": "https://twitter.com/KristianStill/status/1082306320810811393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 752,
+							"h": 552,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 752,
+							"h": 552,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082306318998724600,
+					"id_str": "1082306318998724609",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DwUf3OIUYAECnQr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwUf3OIUYAECnQr.jpg",
+					"url": "https://t.co/ZPWhmx2wW3",
+					"display_url": "pic.twitter.com/ZPWhmx2wW3",
+					"expanded_url": "https://twitter.com/KristianStill/status/1082306320810811393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 752,
+							"h": 552,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 752,
+							"h": 552,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815781,
+			"id_str": "815781",
+			"name": "Kristian Still",
+			"screen_name": "KristianStill",
+			"location": "Southampton, UK",
+			"description": "Proud father & husband with an interest in organisational leadership, Coaching, teaching, learning, lesson capture and assessment.",
+			"url": "https://t.co/pOzbhFCU1V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pOzbhFCU1V",
+							"expanded_url": "http://www.kristianstill.co.uk",
+							"display_url": "kristianstill.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4555,
+			"friends_count": 1334,
+			"listed_count": 184,
+			"created_at": "Tue Mar 06 19:46:30 +0000 2007",
+			"favourites_count": 544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31375,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079386078816145409/UGmu113N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079386078816145409/UGmu113N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815781/1546678999",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2C2C2C",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Those small things again https://t.co/fM8aTqz7qP https://t.co/ZPWhmx2wW3"
+	},
+	{
 		"created_at": "Tue Jan 08 20:24:26 +0000 2019",
 		"id": 1082734797691281400,
 		"id_str": "1082734797691281409",
