@@ -1,6 +1,1733 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 11 20:33:55 +0000 2019",
+		"id": 1083824345452109800,
+		"id_str": "1083824345452109824",
+		"full_text": "@MartinaEmke But isn't ego an assemblage anyway? ;-)",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartinaEmke",
+					"name": "Martina Emke",
+					"id": 843365802,
+					"id_str": "843365802",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1083823373476679700,
+		"in_reply_to_status_id_str": "1083823373476679685",
+		"in_reply_to_user_id": 843365802,
+		"in_reply_to_user_id_str": "843365802",
+		"in_reply_to_screen_name": "MartinaEmke",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 3791,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MartinaEmke But isn't ego an assemblage anyway? ;-)"
+	},
+	{
+		"created_at": "Fri Jan 11 20:32:38 +0000 2019",
+		"id": 1083824025565085700,
+		"id_str": "1083824025565085696",
+		"full_text": "Lot of travelling for @MrMarkBeaumont in May https://t.co/NeBCyaCDIH, but then again ... 🤔🚴‍♂️🚴‍♂️🚴‍♂️\n\nLooking forward to 'catching' him in Derby.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrMarkBeaumont",
+					"name": "Mark Beaumont",
+					"id": 28363021,
+					"id_str": "28363021",
+					"indices": [
+						22,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NeBCyaCDIH",
+					"expanded_url": "https://www.speakersfromtheedge.com/theatre-tours/around-the-world-in-80-days",
+					"display_url": "speakersfromtheedge.com/theatre-tours/…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 3791,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lot of travelling for @MrMarkBeaumont in May https://t.co/NeBCyaCDIH, but then again ... 🤔🚴‍♂️🚴‍♂️🚴‍♂️\n\nLooking forward to 'catching' him in Derby."
+	},
+	{
+		"created_at": "Fri Jan 11 19:17:01 +0000 2019",
+		"id": 1083804992878899200,
+		"id_str": "1083804992878899207",
+		"full_text": "Wonder whether resistant materials teachers would concur? https://t.co/eIywuNRK1V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eIywuNRK1V",
+					"expanded_url": "https://twitter.com/xkcdComic/status/1083774655096221696",
+					"display_url": "twitter.com/xkcdComic/stat…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 3791,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083774655096221700,
+		"quoted_status_id_str": "1083774655096221696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eIywuNRK1V",
+			"expanded": "https://twitter.com/xkcdComic/status/1083774655096221696",
+			"display": "twitter.com/xkcdComic/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 11 17:16:27 +0000 2019",
+			"id": 1083774655096221700,
+			"id_str": "1083774655096221696",
+			"full_text": "Thor Tools https://t.co/TPV23RgGJ3 https://t.co/JjGiDAqF7V https://t.co/X8bAGOVtMr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TPV23RgGJ3",
+						"expanded_url": "https://xkcd.com/2097/",
+						"display_url": "xkcd.com/2097/",
+						"indices": [
+							11,
+							34
+						]
+					},
+					{
+						"url": "https://t.co/JjGiDAqF7V",
+						"expanded_url": "https://m.xkcd.com/2097/",
+						"display_url": "m.xkcd.com/2097/",
+						"indices": [
+							35,
+							58
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1083774653712064500,
+						"id_str": "1083774653712064513",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/DwpXTjMUYAEo2hr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwpXTjMUYAEo2hr.jpg",
+						"url": "https://t.co/X8bAGOVtMr",
+						"display_url": "pic.twitter.com/X8bAGOVtMr",
+						"expanded_url": "https://twitter.com/xkcdComic/status/1083774655096221696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 740,
+								"h": 317,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 291,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 740,
+								"h": 317,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1083774653712064500,
+						"id_str": "1083774653712064513",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/DwpXTjMUYAEo2hr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwpXTjMUYAEo2hr.jpg",
+						"url": "https://t.co/X8bAGOVtMr",
+						"display_url": "pic.twitter.com/X8bAGOVtMr",
+						"expanded_url": "https://twitter.com/xkcdComic/status/1083774655096221696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 740,
+								"h": 317,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 291,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 740,
+								"h": 317,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://dghubble.com\" rel=\"nofollow\">xkcdComic</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2251623492,
+				"id_str": "2251623492",
+				"name": "XKCD Comic",
+				"screen_name": "xkcdComic",
+				"location": "",
+				"description": "XKCD comic feed with images, mobile friendly links, and what-if articles. Unofficial, run by @dghubble",
+				"url": "http://t.co/Tca90xyNDW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Tca90xyNDW",
+								"expanded_url": "http://xkcd.com",
+								"display_url": "xkcd.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 202359,
+				"friends_count": 1,
+				"listed_count": 2408,
+				"created_at": "Wed Dec 18 08:00:58 +0000 2013",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 871,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 194,
+			"favorite_count": 935,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wonder whether resistant materials teachers would concur? https://t.co/eIywuNRK1V"
+	},
+	{
+		"created_at": "Fri Jan 11 18:14:35 +0000 2019",
+		"id": 1083789282228211700,
+		"id_str": "1083789282228211712",
+		"full_text": "@MartinaEmke 'Beyond ego-focused notions' to ...?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartinaEmke",
+					"name": "Martina Emke",
+					"id": 843365802,
+					"id_str": "843365802",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1083685089337319400,
+		"in_reply_to_status_id_str": "1083685089337319425",
+		"in_reply_to_user_id": 843365802,
+		"in_reply_to_user_id_str": "843365802",
+		"in_reply_to_screen_name": "MartinaEmke",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 3791,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MartinaEmke 'Beyond ego-focused notions' to ...?"
+	},
+	{
+		"created_at": "Fri Dec 14 16:43:24 +0000 2018",
+		"id": 1073619475218485200,
+		"id_str": "1083731151259344898",
+		"full_text": "Join us for the first SIPS lecture of 2019 'Engaging with 'Community': Issues about identity, research and access' on 23rd Jan ft Prof Graham Crow, @EleanorFormby and Dr Manny Madriga 4-6pm in the Peak Lecture Theatre. Tickets are free and all are welcome https://t.co/kfoenE9Lnr https://t.co/c6X91uA1aq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EleanorFormby",
+					"name": "Eleanor Formby",
+					"id": 122067629,
+					"id_str": "122067629",
+					"indices": [
+						148,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kfoenE9Lnr",
+					"expanded_url": "https://www.eventbrite.co.uk/e/engaging-with-community-issues-about-identity-research-and-access-tickets-52531149081",
+					"display_url": "eventbrite.co.uk/e/engaging-wit…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1073617350711230500,
+					"id_str": "1073617350711230465",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DuZBSs3WwAEPdcy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuZBSs3WwAEPdcy.jpg",
+					"url": "https://t.co/c6X91uA1aq",
+					"display_url": "pic.twitter.com/c6X91uA1aq",
+					"expanded_url": "https://twitter.com/SIPS_SHU/status/1073619475218485248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073617350711230500,
+					"id_str": "1073617350711230465",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DuZBSs3WwAEPdcy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuZBSs3WwAEPdcy.jpg",
+					"url": "https://t.co/c6X91uA1aq",
+					"display_url": "pic.twitter.com/c6X91uA1aq",
+					"expanded_url": "https://twitter.com/SIPS_SHU/status/1073619475218485248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 731040670643851300,
+			"id_str": "731040670643851264",
+			"name": "SIPS",
+			"screen_name": "SIPS_SHU",
+			"location": "Sheffield Hallam University",
+			"description": "The Sheffield Institute for Policy Studies showcases policy research from across @sheffhallamuni with a view to informing & shaping policy locally & nationally",
+			"url": "https://t.co/hCqP4qAYDF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hCqP4qAYDF",
+							"expanded_url": "https://sheffieldinstituteforpolicystudies.com/",
+							"display_url": "sheffieldinstituteforpolicystudies.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 620,
+			"friends_count": 921,
+			"listed_count": 10,
+			"created_at": "Fri May 13 08:37:32 +0000 2016",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1254,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732160590991511552/JFxr6z8k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732160590991511552/JFxr6z8k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/731040670643851264/1465922536",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us for the first SIPS lecture of 2019 'Engaging with 'Community': Issues about identity, research and access' on 23rd Jan ft Prof Graham Crow, @EleanorFormby and Dr Manny Madriga 4-6pm in the Peak Lecture Theatre. Tickets are free and all are welcome https://t.co/kfoenE9Lnr https://t.co/c6X91uA1aq"
+	},
+	{
+		"created_at": "Fri Jan 11 08:51:02 +0000 2019",
+		"id": 1083647460101247000,
+		"id_str": "1083648037443039233",
+		"full_text": "I'm doing a guest lecture and seminar at @BGULincoln and they made these posters to advertise! *heart emoji* https://t.co/Rtiq0UEwL0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BGULincoln",
+					"name": "Bishop Grosseteste University",
+					"id": 22014079,
+					"id_str": "22014079",
+					"indices": [
+						41,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083646669282000900,
+					"id_str": "1083646669282000896",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwni54CWwAAfT58.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwni54CWwAAfT58.jpg",
+					"url": "https://t.co/Rtiq0UEwL0",
+					"display_url": "pic.twitter.com/Rtiq0UEwL0",
+					"expanded_url": "https://twitter.com/drchrisjbailey/status/1083647460101246976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1753,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083646669282000900,
+					"id_str": "1083646669282000896",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwni54CWwAAfT58.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwni54CWwAAfT58.jpg",
+					"url": "https://t.co/Rtiq0UEwL0",
+					"display_url": "pic.twitter.com/Rtiq0UEwL0",
+					"expanded_url": "https://twitter.com/drchrisjbailey/status/1083647460101246976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1753,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1083647363326099500,
+					"id_str": "1083647363326099456",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DwnjiRjXQAA40gW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwnjiRjXQAA40gW.jpg",
+					"url": "https://t.co/Rtiq0UEwL0",
+					"display_url": "pic.twitter.com/Rtiq0UEwL0",
+					"expanded_url": "https://twitter.com/drchrisjbailey/status/1083647460101246976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 874,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2599453764,
+			"id_str": "2599453764",
+			"name": "Chris Bailey Ⓥ",
+			"screen_name": "drchrisjbailey",
+			"location": "Sheffield, England",
+			"description": "Lecturer in Education at Sheffield Hallam Uni. 'The world is teeming; anything can happen' - John Cage",
+			"url": "https://t.co/BCRAntcYCM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BCRAntcYCM",
+							"expanded_url": "https://drchrisjbailey.wordpress.com/",
+							"display_url": "drchrisjbailey.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 756,
+			"friends_count": 834,
+			"listed_count": 32,
+			"created_at": "Wed Jul 02 08:48:15 +0000 2014",
+			"favourites_count": 3285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3444,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905804019934908417/Vhz_VrmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905804019934908417/Vhz_VrmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2599453764/1531425801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm doing a guest lecture and seminar at @BGULincoln and they made these posters to advertise! *heart emoji* https://t.co/Rtiq0UEwL0"
+	},
+	{
+		"created_at": "Fri Jan 11 08:16:28 +0000 2019",
+		"id": 1083638763023142900,
+		"id_str": "1083638763023142912",
+		"full_text": "@was3210 Congratulations! 👏👏👏",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "was3210",
+					"name": "Dr. Wasim Ahmed",
+					"id": 2176358690,
+					"id_str": "2176358690",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1083634026936758300,
+		"in_reply_to_status_id_str": "1083634026936758272",
+		"in_reply_to_user_id": 2176358690,
+		"in_reply_to_user_id_str": "2176358690",
+		"in_reply_to_screen_name": "was3210",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 3791,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@was3210 Congratulations! 👏👏👏"
+	},
+	{
+		"created_at": "Mon Jan 07 16:01:49 +0000 2019",
+		"id": 1082306320810811400,
+		"id_str": "1082896771783815168",
+		"full_text": "Those small things again https://t.co/fM8aTqz7qP https://t.co/ZPWhmx2wW3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fM8aTqz7qP",
+					"expanded_url": "http://www.kristianstill.co.uk/wordpress/2019/01/06/those-small-things-again/",
+					"display_url": "kristianstill.co.uk/wordpress/2019…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082306318998724600,
+					"id_str": "1082306318998724609",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DwUf3OIUYAECnQr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwUf3OIUYAECnQr.jpg",
+					"url": "https://t.co/ZPWhmx2wW3",
+					"display_url": "pic.twitter.com/ZPWhmx2wW3",
+					"expanded_url": "https://twitter.com/KristianStill/status/1082306320810811393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 752,
+							"h": 552,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 752,
+							"h": 552,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082306318998724600,
+					"id_str": "1082306318998724609",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DwUf3OIUYAECnQr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwUf3OIUYAECnQr.jpg",
+					"url": "https://t.co/ZPWhmx2wW3",
+					"display_url": "pic.twitter.com/ZPWhmx2wW3",
+					"expanded_url": "https://twitter.com/KristianStill/status/1082306320810811393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 752,
+							"h": 552,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 752,
+							"h": 552,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815781,
+			"id_str": "815781",
+			"name": "Kristian Still",
+			"screen_name": "KristianStill",
+			"location": "Southampton, UK",
+			"description": "Proud father & husband with an interest in organisational leadership, Coaching, teaching, learning, lesson capture and assessment.",
+			"url": "https://t.co/pOzbhFCU1V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pOzbhFCU1V",
+							"expanded_url": "http://www.kristianstill.co.uk",
+							"display_url": "kristianstill.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4553,
+			"friends_count": 1334,
+			"listed_count": 184,
+			"created_at": "Tue Mar 06 19:46:30 +0000 2007",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079386078816145409/UGmu113N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079386078816145409/UGmu113N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815781/1546678999",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2C2C2C",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Those small things again https://t.co/fM8aTqz7qP https://t.co/ZPWhmx2wW3"
+	},
+	{
+		"created_at": "Tue Jan 08 20:24:26 +0000 2019",
+		"id": 1082734797691281400,
+		"id_str": "1082734797691281409",
+		"full_text": "@Bethan_Southern @jdurran Those figures sound about right Beth &amp; I concur with your observations.\nA couple of other things strike me too. I wonder how many folks who've never tried Twitter (by now) are even likely to give it a shot? And I wonder how many who *were* on Twitter have now left?",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			295
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bethan_Southern",
+					"name": "Beth Southern",
+					"id": 62923642,
+					"id_str": "62923642",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "jdurran",
+					"name": "James Durran",
+					"id": 79563854,
+					"id_str": "79563854",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1082560771836522500,
+		"in_reply_to_status_id_str": "1082560771836522496",
+		"in_reply_to_user_id": 62923642,
+		"in_reply_to_user_id_str": "62923642",
+		"in_reply_to_screen_name": "Bethan_Southern",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 3791,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Bethan_Southern @jdurran Those figures sound about right Beth &amp; I concur with your observations.\nA couple of other things strike me too. I wonder how many folks who've never tried Twitter (by now) are even likely to give it a shot? And I wonder how many who *were* on Twitter have now left?"
+	},
+	{
+		"created_at": "Tue Jan 08 07:47:55 +0000 2019",
+		"id": 1082544412415180800,
+		"id_str": "1082544412415180800",
+		"full_text": "@jdurran @ASTsupportAAli @Bethan_Southern @87History Fair point about social use. I've spoken with some folks who use both Facebook &amp; Twitter, but partition their social life to the former &amp; professional to the latter.",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jdurran",
+					"name": "James Durran",
+					"id": 79563854,
+					"id_str": "79563854",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ASTsupportAAli",
+					"name": "Amjad Ali",
+					"id": 613446992,
+					"id_str": "613446992",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "Bethan_Southern",
+					"name": "Beth Southern",
+					"id": 62923642,
+					"id_str": "62923642",
+					"indices": [
+						25,
+						41
+					]
+				},
+				{
+					"screen_name": "87History",
+					"name": "Kate Jones",
+					"id": 2884956472,
+					"id_str": "2884956472",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1082541157622706200,
+		"in_reply_to_status_id_str": "1082541157622706177",
+		"in_reply_to_user_id": 79563854,
+		"in_reply_to_user_id_str": "79563854",
+		"in_reply_to_screen_name": "jdurran",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 3791,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jdurran @ASTsupportAAli @Bethan_Southern @87History Fair point about social use. I've spoken with some folks who use both Facebook &amp; Twitter, but partition their social life to the former &amp; professional to the latter."
+	},
+	{
+		"created_at": "Tue Jan 08 07:21:24 +0000 2019",
+		"id": 1082537741391417300,
+		"id_str": "1082537741391417344",
+		"full_text": "@jdurran @ASTsupportAAli @Bethan_Southern @87History Interested in what makes you say more teachers are on Facebook James? Was wondering about this with a couple of friends just last night.",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jdurran",
+					"name": "James Durran",
+					"id": 79563854,
+					"id_str": "79563854",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ASTsupportAAli",
+					"name": "Amjad Ali",
+					"id": 613446992,
+					"id_str": "613446992",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "Bethan_Southern",
+					"name": "Beth Southern",
+					"id": 62923642,
+					"id_str": "62923642",
+					"indices": [
+						25,
+						41
+					]
+				},
+				{
+					"screen_name": "87History",
+					"name": "Kate Jones",
+					"id": 2884956472,
+					"id_str": "2884956472",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": 1082528016025206800,
+		"in_reply_to_status_id_str": "1082528016025206786",
+		"in_reply_to_user_id": 79563854,
+		"in_reply_to_user_id_str": "79563854",
+		"in_reply_to_screen_name": "jdurran",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 3791,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jdurran @ASTsupportAAli @Bethan_Southern @87History Interested in what makes you say more teachers are on Facebook James? Was wondering about this with a couple of friends just last night."
+	},
+	{
 		"created_at": "Mon Jan 07 16:01:49 +0000 2019",
 		"id": 1082306320810811400,
 		"id_str": "1082306320810811393",
