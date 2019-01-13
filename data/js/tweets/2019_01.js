@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 18:46:06 +0000 2019",
+		"id": 1084159601573068800,
+		"id_str": "1084159601573068800",
+		"full_text": "@MartinaEmke But it is isn't it? For some researchers it is a tool AND for others a space AND still others a medium ... AND for a D&amp;G scholar, all of the above? They're not mutually exclusive are they?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartinaEmke",
+					"name": "Martina Emke",
+					"id": 843365802,
+					"id_str": "843365802",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1084002353295118300,
+		"in_reply_to_status_id_str": "1084002353295118337",
+		"in_reply_to_user_id": 843365802,
+		"in_reply_to_user_id_str": "843365802",
+		"in_reply_to_screen_name": "MartinaEmke",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3205,
+			"friends_count": 3790,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11270,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MartinaEmke But it is isn't it? For some researchers it is a tool AND for others a space AND still others a medium ... AND for a D&amp;G scholar, all of the above? They're not mutually exclusive are they?"
+	},
+	{
 		"created_at": "Fri Jan 11 20:33:55 +0000 2019",
 		"id": 1083824345452109800,
 		"id_str": "1083824345452109824",
@@ -110,7 +216,7 @@ Grailbird.data.tweets_2019_01 =
 		"created_at": "Fri Jan 11 20:32:38 +0000 2019",
 		"id": 1083824025565085700,
 		"id_str": "1083824025565085696",
-		"full_text": "Lot of travelling for @MrMarkBeaumont in May https://t.co/NeBCyaCDIH, but then again ... 🤔🚴‍♂️🚴‍♂️🚴‍♂️\n\nLooking forward to 'catching' him in Derby.",
+		"full_text": "Lot of travelling for @MrMarkBeaumont in May https://t.co/NeBCyaCDIH, but then again ... 🤔🚴♂️🚴♂️🚴♂️\n\nLooking forward to 'catching' him in Derby.",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -221,7 +327,7 @@ Grailbird.data.tweets_2019_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Lot of travelling for @MrMarkBeaumont in May https://t.co/NeBCyaCDIH, but then again ... 🤔🚴‍♂️🚴‍♂️🚴‍♂️\n\nLooking forward to 'catching' him in Derby."
+		"text": "Lot of travelling for @MrMarkBeaumont in May https://t.co/NeBCyaCDIH, but then again ... 🤔🚴♂️🚴♂️🚴♂️\n\nLooking forward to 'catching' him in Derby."
 	},
 	{
 		"created_at": "Fri Jan 11 19:17:01 +0000 2019",
