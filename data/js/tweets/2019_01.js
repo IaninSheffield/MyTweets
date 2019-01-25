@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 20:35:01 +0000 2019",
+		"id": 1088173278903046100,
+		"id_str": "1088354951376654336",
+		"full_text": "Perfect timing: @DrRyder has made his @VivaSurvivors book free to download this week! I’m just making notes in preparation for my viva next week. https://t.co/8JHPtOcaVx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrRyder",
+					"name": "Nathan Ryder",
+					"id": 114790523,
+					"id_str": "114790523",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"screen_name": "VivaSurvivors",
+					"name": "Viva Survivors",
+					"id": 599934596,
+					"id_str": "599934596",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088173270824861700,
+					"id_str": "1088173270824861697",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxn30w2XQAEyGuw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxn30w2XQAEyGuw.jpg",
+					"url": "https://t.co/8JHPtOcaVx",
+					"display_url": "pic.twitter.com/8JHPtOcaVx",
+					"expanded_url": "https://twitter.com/littleamiss/status/1088173278903046145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 958,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 561,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088173270824861700,
+					"id_str": "1088173270824861697",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxn30w2XQAEyGuw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxn30w2XQAEyGuw.jpg",
+					"url": "https://t.co/8JHPtOcaVx",
+					"display_url": "pic.twitter.com/8JHPtOcaVx",
+					"expanded_url": "https://twitter.com/littleamiss/status/1088173278903046145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 958,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 561,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3401372009,
+			"id_str": "3401372009",
+			"name": "Alice Little",
+			"screen_name": "littleamiss",
+			"location": "Oxford, England",
+			"description": "Research Associate at the Bate Collection of Musical Instruments. JRF at Corpus. Operations Director at Oxford Writers’ House. DPhil on C18th collectors.",
+			"url": "https://t.co/xYcl1oRUD1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xYcl1oRUD1",
+							"expanded_url": "http://alicelittle.co.uk",
+							"display_url": "alicelittle.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1190,
+			"friends_count": 898,
+			"listed_count": 27,
+			"created_at": "Mon Aug 03 14:47:35 +0000 2015",
+			"favourites_count": 4771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6352,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/639009274392395776/6BDqTPIy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/639009274392395776/6BDqTPIy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3401372009/1438614533",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Perfect timing: @DrRyder has made his @VivaSurvivors book free to download this week! I’m just making notes in preparation for my viva next week. https://t.co/8JHPtOcaVx"
+	},
+	{
 		"created_at": "Tue Jan 22 21:34:27 +0000 2019",
 		"id": 1087825846130348000,
 		"id_str": "1087825846130348032",
