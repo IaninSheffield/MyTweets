@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 12:40:10 +0000 2019",
+		"id": 1088778555612454900,
+		"id_str": "1088905131658223617",
+		"full_text": "Final report for the #mathematics #teacher exchange is now published https://t.co/OdAFi8fbpx finding no evidence of improved KS2 outcomes. See @MarkBoylanEd tweets for full discussion of findings @BronwenMaxwell @timjay @GillRAdams @sjreaney @SHUCDARE @SHU_SIoE #maths #mastery",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mathematics",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"text": "teacher",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"text": "maths",
+					"indices": [
+						262,
+						268
+					]
+				},
+				{
+					"text": "mastery",
+					"indices": [
+						269,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkBoylanEd",
+					"name": "Mark Boylan",
+					"id": 4239537203,
+					"id_str": "4239537203",
+					"indices": [
+						143,
+						156
+					]
+				},
+				{
+					"screen_name": "BronwenMaxwell",
+					"name": "Bronwen Maxwell",
+					"id": 2800251896,
+					"id_str": "2800251896",
+					"indices": [
+						196,
+						211
+					]
+				},
+				{
+					"screen_name": "timjay",
+					"name": "Tim Jay",
+					"id": 16529368,
+					"id_str": "16529368",
+					"indices": [
+						212,
+						219
+					]
+				},
+				{
+					"screen_name": "GillRAdams",
+					"name": "Gill Adams",
+					"id": 1513646876,
+					"id_str": "1513646876",
+					"indices": [
+						220,
+						231
+					]
+				},
+				{
+					"screen_name": "sjreaney",
+					"name": "Sarah Jane Reaney-Wood",
+					"id": 2815445028,
+					"id_str": "2815445028",
+					"indices": [
+						232,
+						241
+					]
+				},
+				{
+					"screen_name": "SHUCDARE",
+					"name": "SHUCDARE",
+					"id": 333540991,
+					"id_str": "333540991",
+					"indices": [
+						242,
+						251
+					]
+				},
+				{
+					"screen_name": "SHU_SIoE",
+					"name": "SHU_SIoE",
+					"id": 1933610330,
+					"id_str": "1933610330",
+					"indices": [
+						252,
+						261
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OdAFi8fbpx",
+					"expanded_url": "https://tinyurl.com/ya2jhkzb",
+					"display_url": "tinyurl.com/ya2jhkzb",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 333540991,
+			"id_str": "333540991",
+			"name": "SHUCDARE",
+			"screen_name": "SHUCDARE",
+			"location": "Sheffield, United Kingdom",
+			"description": "Sheffield Hallam University's centre for funded research, evaluation, consultancy and curriculum and professional development in education",
+			"url": "https://t.co/pQ611dBuCr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pQ611dBuCr",
+							"expanded_url": "https://www.shu.ac.uk/about-us/academic-departments/institute-of-education/research/cdare",
+							"display_url": "shu.ac.uk/about-us/acade…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986,
+			"friends_count": 818,
+			"listed_count": 31,
+			"created_at": "Mon Jul 11 18:06:17 +0000 2011",
+			"favourites_count": 1782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3398,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/705376026579304448/PysIm0uL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/705376026579304448/PysIm0uL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/333540991/1460529096",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Final report for the #mathematics #teacher exchange is now published https://t.co/OdAFi8fbpx finding no evidence of improved KS2 outcomes. See @MarkBoylanEd tweets for full discussion of findings @BronwenMaxwell @timjay @GillRAdams @sjreaney @SHUCDARE @SHU_SIoE #maths #mastery"
+	},
+	{
 		"created_at": "Wed Jan 23 20:35:01 +0000 2019",
 		"id": 1088173278903046100,
 		"id_str": "1088354951376654336",
