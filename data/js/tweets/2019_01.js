@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 27 09:42:48 +0000 2019",
+		"id": 1089458694352502800,
+		"id_str": "1089591067400421377",
+		"full_text": "Exploring the benefits of mentoring https://t.co/1gPTBgbyoN blogpost by headteacher Helen Harrison. Researching new models of enhancing mentoring practice with  @helenbellinger1 @dead_of_night @DoncasterTSA @RSDoncaster @SHU_SIoE @SYorksFutures",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helenbellinger1",
+					"name": "Helen Bellinger",
+					"id": 886877425593929700,
+					"id_str": "886877425593929729",
+					"indices": [
+						161,
+						177
+					]
+				},
+				{
+					"screen_name": "dead_of_night",
+					"name": "Richard Pountney",
+					"id": 21296925,
+					"id_str": "21296925",
+					"indices": [
+						178,
+						192
+					]
+				},
+				{
+					"screen_name": "DoncasterTSA",
+					"name": "PartnersInLearning",
+					"id": 2285724715,
+					"id_str": "2285724715",
+					"indices": [
+						193,
+						206
+					]
+				},
+				{
+					"screen_name": "RSDoncaster",
+					"name": "DoncasterResearch",
+					"id": 910122954394095600,
+					"id_str": "910122954394095616",
+					"indices": [
+						207,
+						219
+					]
+				},
+				{
+					"screen_name": "SHU_SIoE",
+					"name": "SHU_SIoE",
+					"id": 1933610330,
+					"id_str": "1933610330",
+					"indices": [
+						220,
+						229
+					]
+				},
+				{
+					"screen_name": "SYorksFutures",
+					"name": "South Yorkshire Futures",
+					"id": 988067126559821800,
+					"id_str": "988067126559821824",
+					"indices": [
+						230,
+						244
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1gPTBgbyoN",
+					"expanded_url": "https://bit.ly/2RiEipy",
+					"display_url": "bit.ly/2RiEipy",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 796772065781092400,
+			"id_str": "796772065781092352",
+			"name": "MentorSHOOC",
+			"screen_name": "mentor_shooc",
+			"location": "Sheffield, England",
+			"description": "Enhance your Mentoring Skills, a FREE open online course (SHOOC)",
+			"url": "https://t.co/O6ahEvO30m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O6ahEvO30m",
+							"expanded_url": "http://blogs.shu.ac.uk/mentorshooc",
+							"display_url": "blogs.shu.ac.uk/mentorshooc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 201,
+			"friends_count": 226,
+			"listed_count": 3,
+			"created_at": "Thu Nov 10 17:50:38 +0000 2016",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/796778208582569984/o0l3IjK2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/796778208582569984/o0l3IjK2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/796772065781092352/1478801241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exploring the benefits of mentoring https://t.co/1gPTBgbyoN blogpost by headteacher Helen Harrison. Researching new models of enhancing mentoring practice with  @helenbellinger1 @dead_of_night @DoncasterTSA @RSDoncaster @SHU_SIoE @SYorksFutures"
+	},
+	{
 		"created_at": "Fri Jan 25 12:40:10 +0000 2019",
 		"id": 1088778555612454900,
 		"id_str": "1088905131658223617",
