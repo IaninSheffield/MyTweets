@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 06:44:24 +0000 2019",
+		"id": 1093762452653629400,
+		"id_str": "1093774659517059072",
+		"full_text": "@claireseldon_ed Hello K-6 teachers: Does using social media (e.g. Twitter, Fb) inform your knowledge of science teaching? Please use link to do short international survey for Doctoral student. Thanks  https://t.co/zsKPY6ZJPb  #ValueofPLN https://t.co/0F6rYbHomU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ValueofPLN",
+					"indices": [
+						227,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "claireseldon_ed",
+					"name": "Claire Seldon",
+					"id": 872767594289258500,
+					"id_str": "872767594289258496",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zsKPY6ZJPb",
+					"expanded_url": "https://bit.ly/2G4jwc5",
+					"display_url": "bit.ly/2G4jwc5",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093762342406447100,
+					"id_str": "1093762342406447110",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy3TDi_V4AY8m4P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy3TDi_V4AY8m4P.jpg",
+					"url": "https://t.co/0F6rYbHomU",
+					"display_url": "pic.twitter.com/0F6rYbHomU",
+					"expanded_url": "https://twitter.com/Ruth_Fentie/status/1093762452653629441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 585,
+							"h": 588,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 585,
+							"h": 588,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 585,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093762342406447100,
+					"id_str": "1093762342406447110",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy3TDi_V4AY8m4P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy3TDi_V4AY8m4P.jpg",
+					"url": "https://t.co/0F6rYbHomU",
+					"display_url": "pic.twitter.com/0F6rYbHomU",
+					"expanded_url": "https://twitter.com/Ruth_Fentie/status/1093762452653629441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 585,
+							"h": 588,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 585,
+							"h": 588,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 585,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 872767594289258500,
+		"in_reply_to_user_id_str": "872767594289258496",
+		"in_reply_to_screen_name": "claireseldon_ed",
+		"user": {
+			"id": 1074927911201718300,
+			"id_str": "1074927911201718272",
+			"name": "Ruth Fentie",
+			"screen_name": "Ruth_Fentie",
+			"location": "",
+			"description": "Research student at UTS Sydney, focused on #primaryscience education, #stemeducation, and teacher professional development 🍃🐬🧲💡☀️🌊",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21,
+			"friends_count": 27,
+			"listed_count": 0,
+			"created_at": "Tue Dec 18 07:22:40 +0000 2018",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092579286525997056/2hFP6L-6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092579286525997056/2hFP6L-6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1074927911201718272/1545119128",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@claireseldon_ed Hello K-6 teachers: Does using social media (e.g. Twitter, Fb) inform your knowledge of science teaching? Please use link to do short international survey for Doctoral student. Thanks  https://t.co/zsKPY6ZJPb  #ValueofPLN https://t.co/0F6rYbHomU"
+	},
+	{
 		"created_at": "Tue Feb 05 20:05:40 +0000 2019",
 		"id": 1092876936278347800,
 		"id_str": "1093060825382862851",
