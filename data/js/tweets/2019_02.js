@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 10 17:08:35 +0000 2019",
+		"id": 1094644307930304500,
+		"id_str": "1094644307930304518",
+		"full_text": "As I prepare to start as research assistant on a multidisciplinary project between @C3RINews &amp; @SHU_SIoE, look what popped up on @BBCClick ... https://t.co/RifzctfP3t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "C3RINews",
+					"name": "C3RI at Sheffield Hallam University",
+					"id": 928965060143341600,
+					"id_str": "928965060143341568",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"screen_name": "SHU_SIoE",
+					"name": "SHU_SIoE",
+					"id": 1933610330,
+					"id_str": "1933610330",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"screen_name": "BBCClick",
+					"name": "BBC Click",
+					"id": 7400702,
+					"id_str": "7400702",
+					"indices": [
+						133,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RifzctfP3t",
+					"expanded_url": "https://twitter.com/SHUPressOffice/status/1093909619934744576",
+					"display_url": "twitter.com/SHUPressOffice…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3216,
+			"friends_count": 3793,
+			"listed_count": 204,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11294,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093909619934744600,
+		"quoted_status_id_str": "1093909619934744576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RifzctfP3t",
+			"expanded": "https://twitter.com/SHUPressOffice/status/1093909619934744576",
+			"display": "twitter.com/SHUPressOffice…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 08 16:29:11 +0000 2019",
+			"id": 1093909619934744600,
+			"id_str": "1093909619934744576",
+			"full_text": "On @BBCBreakfast tomorrow, and @BBCClick (12.30pm, BBC News Channel), find out how our researcher @phello is working with @SheffChildrens to develop virtual reality games to help patients through injury rehabilitation. \n\n⏰ 6am and 12.30pm\n📺@BBCBreakfast @BBCOne @BBCClick https://t.co/5QrlN5IDbD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BBCBreakfast",
+						"name": "BBC Breakfast",
+						"id": 143415291,
+						"id_str": "143415291",
+						"indices": [
+							3,
+							16
+						]
+					},
+					{
+						"screen_name": "BBCClick",
+						"name": "BBC Click",
+						"id": 7400702,
+						"id_str": "7400702",
+						"indices": [
+							31,
+							40
+						]
+					},
+					{
+						"screen_name": "phello",
+						"name": "Ivan Phelan",
+						"id": 19368550,
+						"id_str": "19368550",
+						"indices": [
+							98,
+							105
+						]
+					},
+					{
+						"screen_name": "SheffChildrens",
+						"name": "Sheffield Children's",
+						"id": 370728345,
+						"id_str": "370728345",
+						"indices": [
+							122,
+							137
+						]
+					},
+					{
+						"screen_name": "BBCBreakfast",
+						"name": "BBC Breakfast",
+						"id": 143415291,
+						"id_str": "143415291",
+						"indices": [
+							240,
+							253
+						]
+					},
+					{
+						"screen_name": "BBCOne",
+						"name": "BBC One",
+						"id": 871686942,
+						"id_str": "871686942",
+						"indices": [
+							254,
+							261
+						]
+					},
+					{
+						"screen_name": "BBCClick",
+						"name": "BBC Click",
+						"id": 7400702,
+						"id_str": "7400702",
+						"indices": [
+							262,
+							271
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1093908793723965400,
+						"id_str": "1093908793723965442",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/Dy5YQIqX0AIZFly.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dy5YQIqX0AIZFly.jpg",
+						"url": "https://t.co/5QrlN5IDbD",
+						"display_url": "pic.twitter.com/5QrlN5IDbD",
+						"expanded_url": "https://twitter.com/SHUPressOffice/status/1093909619934744576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 613,
+								"h": 445,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 613,
+								"h": 445,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 613,
+								"h": 445,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1093908793723965400,
+						"id_str": "1093908793723965442",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/Dy5YQIqX0AIZFly.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dy5YQIqX0AIZFly.jpg",
+						"url": "https://t.co/5QrlN5IDbD",
+						"display_url": "pic.twitter.com/5QrlN5IDbD",
+						"expanded_url": "https://twitter.com/SHUPressOffice/status/1093909619934744576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 613,
+								"h": 445,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 613,
+								"h": 445,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 613,
+								"h": 445,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 621984468,
+				"id_str": "621984468",
+				"name": "SHU Press Office",
+				"screen_name": "SHUPressOffice",
+				"location": "Sheffield",
+				"description": "News from @sheffhallamuni. Updated by Sheffield Hallam's news and PR team: @sarahduce84 @timwardwrites @starjourno1 and @lburdenmedia",
+				"url": "https://t.co/wxLaBAtNdG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wxLaBAtNdG",
+								"expanded_url": "http://www.shu.ac.uk/mediacentre",
+								"display_url": "shu.ac.uk/mediacentre",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2441,
+				"friends_count": 1446,
+				"listed_count": 41,
+				"created_at": "Fri Jun 29 13:34:45 +0000 2012",
+				"favourites_count": 338,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2193,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2352127263/SHU_logo_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2352127263/SHU_logo_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/621984468/1485189285",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As I prepare to start as research assistant on a multidisciplinary project between @C3RINews &amp; @SHU_SIoE, look what popped up on @BBCClick ... https://t.co/RifzctfP3t"
+	},
+	{
 		"created_at": "Fri Feb 08 06:44:24 +0000 2019",
 		"id": 1093762452653629400,
 		"id_str": "1093774659517059072",
