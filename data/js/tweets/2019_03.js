@@ -1,6 +1,568 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 11 20:01:51 +0000 2019",
+		"id": 1105096215992119300,
+		"id_str": "1105197162571411459",
+		"full_text": "Still trying to collect research for my dissertation with a short questionnaire. I'd really appreciate if anyone could share this around with teachers. https://t.co/S5WxWUBUo5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S5WxWUBUo5",
+					"expanded_url": "https://twitter.com/IzzyCessford/status/1103348874360561665",
+					"display_url": "twitter.com/IzzyCessford/s…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2329681226,
+			"id_str": "2329681226",
+			"name": "Izzy Cessford",
+			"screen_name": "IzzyCessford",
+			"location": "Oxford, England",
+			"description": "Third-year BA Primary Teacher Education student at Oxford Brookes University.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23,
+			"friends_count": 47,
+			"listed_count": 0,
+			"created_at": "Thu Feb 06 02:54:12 +0000 2014",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100099499224121346/gsqALMrz_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100099499224121346/gsqALMrz_normal.png",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1103348874360561700,
+		"quoted_status_id_str": "1103348874360561665",
+		"quoted_status_permalink": {
+			"url": "https://t.co/S5WxWUBUo5",
+			"expanded": "https://twitter.com/IzzyCessford/status/1103348874360561665",
+			"display": "twitter.com/IzzyCessford/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 06 17:37:25 +0000 2019",
+			"id": 1103348874360561700,
+			"id_str": "1103348874360561665",
+			"full_text": "I am currently collecting research for my dissertation on technology and children's early literacy skills and have a huge favour to ask any teachers. If you know any teachers, feel free to tag them or share the link! Thank you! \n\nhttps://t.co/FZ9f1byLzl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FZ9f1byLzl",
+						"expanded_url": "https://goo.gl/forms/kGzDYTsQBQMkBY9V2",
+						"display_url": "goo.gl/forms/kGzDYTsQ…",
+						"indices": [
+							230,
+							253
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2329681226,
+				"id_str": "2329681226",
+				"name": "Izzy Cessford",
+				"screen_name": "IzzyCessford",
+				"location": "Oxford, England",
+				"description": "Third-year BA Primary Teacher Education student at Oxford Brookes University.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23,
+				"friends_count": 47,
+				"listed_count": 0,
+				"created_at": "Thu Feb 06 02:54:12 +0000 2014",
+				"favourites_count": 10,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1100099499224121346/gsqALMrz_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100099499224121346/gsqALMrz_normal.png",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still trying to collect research for my dissertation with a short questionnaire. I'd really appreciate if anyone could share this around with teachers. https://t.co/S5WxWUBUo5"
+	},
+	{
+		"created_at": "Mon Mar 11 15:25:53 +0000 2019",
+		"id": 1105019617750237200,
+		"id_str": "1105127710987374592",
+		"full_text": "It's great to be able to finally show how we've been using the PlayStation virtual reality games created by REVEAL in the classroom! https://t.co/VFB3aNgyIH @env_ig @DrJennersHouse #psvr #gamedev #indiedev https://t.co/D7OieAeaAf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "psvr",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "gamedev",
+					"indices": [
+						187,
+						195
+					]
+				},
+				{
+					"text": "indiedev",
+					"indices": [
+						196,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "env_ig",
+					"name": "EnvironmentalNarrativeVideogames",
+					"id": 935168228288094200,
+					"id_str": "935168228288094208",
+					"indices": [
+						157,
+						164
+					]
+				},
+				{
+					"screen_name": "DrJennersHouse",
+					"name": "Dr Jenner's House, Museum and Garden",
+					"id": 24679530,
+					"id_str": "24679530",
+					"indices": [
+						165,
+						180
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VFB3aNgyIH",
+					"expanded_url": "http://revealvr.eu/2019/03/11/reveal-in-the-classroom/",
+					"display_url": "revealvr.eu/2019/03/11/rev…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105019173695049700,
+					"id_str": "1105019173695049729",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D1XRFXYW0AEgjtZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1XRFXYW0AEgjtZ.jpg",
+					"url": "https://t.co/D7OieAeaAf",
+					"display_url": "pic.twitter.com/D7OieAeaAf",
+					"expanded_url": "https://twitter.com/jacobmph/status/1105019617750237184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105019173695049700,
+					"id_str": "1105019173695049729",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D1XRFXYW0AEgjtZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1XRFXYW0AEgjtZ.jpg",
+					"url": "https://t.co/D7OieAeaAf",
+					"display_url": "pic.twitter.com/D7OieAeaAf",
+					"expanded_url": "https://twitter.com/jacobmph/status/1105019617750237184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1105019538507210800,
+					"id_str": "1105019538507210753",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D1XRamaWoAEFkYn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1XRamaWoAEFkYn.jpg",
+					"url": "https://t.co/D7OieAeaAf",
+					"display_url": "pic.twitter.com/D7OieAeaAf",
+					"expanded_url": "https://twitter.com/jacobmph/status/1105019617750237184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 152968124,
+			"id_str": "152968124",
+			"name": "Jacob Habgood",
+			"screen_name": "jacobmph",
+			"location": "Sheffield",
+			"description": "Reader of digital things",
+			"url": "https://t.co/2okID4MStZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2okID4MStZ",
+							"expanded_url": "http://www.hiddenlevel.com",
+							"display_url": "hiddenlevel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 545,
+			"friends_count": 246,
+			"listed_count": 26,
+			"created_at": "Mon Jun 07 10:07:32 +0000 2010",
+			"favourites_count": 1256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1144,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092886788576825345/eKgaRZiM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092886788576825345/eKgaRZiM_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's great to be able to finally show how we've been using the PlayStation virtual reality games created by REVEAL in the classroom! https://t.co/VFB3aNgyIH @env_ig @DrJennersHouse #psvr #gamedev #indiedev https://t.co/D7OieAeaAf"
+	},
+	{
+		"created_at": "Mon Mar 11 12:45:30 +0000 2019",
+		"id": 1105087350084980700,
+		"id_str": "1105087350084980736",
+		"full_text": "The multitudinous ways sites offer data protection choices is staggeringly bewildering.\nOne might almost think they were being deliberately obfuscatory in order to encourage potential readers just to click 'Accept' in frustration. #surelynot? #GDPR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "surelynot",
+					"indices": [
+						231,
+						241
+					]
+				},
+				{
+					"text": "GDPR",
+					"indices": [
+						243,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 3801,
+			"listed_count": 206,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The multitudinous ways sites offer data protection choices is staggeringly bewildering.\nOne might almost think they were being deliberately obfuscatory in order to encourage potential readers just to click 'Accept' in frustration. #surelynot? #GDPR"
+	},
+	{
 		"created_at": "Sat Mar 09 07:39:37 +0000 2019",
 		"id": 1104281509601566700,
 		"id_str": "1104285595185135616",
