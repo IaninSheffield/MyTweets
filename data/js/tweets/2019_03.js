@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 15 20:00:05 +0000 2019",
+		"id": 1106563126957428700,
+		"id_str": "1106646266455441409",
+		"full_text": "With an article onLanguage Teachers'  PLNs, @IaninSheffield &amp; @richardjholme.\n\nAnd an article on mobile devices as language aids, @agneskh.\n\n#CALL\n#ProfessionalDevelopment\n@IctrevOu \n@UrsulaStickler https://t.co/pbH4z4866u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CALL",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "ProfessionalDevelopment",
+					"indices": [
+						151,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IaninSheffield",
+					"name": "Ian Guest",
+					"id": 21324520,
+					"id_str": "21324520",
+					"indices": [
+						44,
+						59
+					]
+				},
+				{
+					"screen_name": "richardjholme",
+					"name": "richard holme",
+					"id": 209598541,
+					"id_str": "209598541",
+					"indices": [
+						66,
+						80
+					]
+				},
+				{
+					"screen_name": "agneskh",
+					"name": "Agnes Kukulska-Hulme",
+					"id": 12590832,
+					"id_str": "12590832",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"screen_name": "IctrevOu",
+					"name": "ICTRev Project",
+					"id": 855769708020281300,
+					"id_str": "855769708020281345",
+					"indices": [
+						176,
+						185
+					]
+				},
+				{
+					"screen_name": "UrsulaStickler",
+					"name": "Ursula Stickler",
+					"id": 153420382,
+					"id_str": "153420382",
+					"indices": [
+						187,
+						202
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pbH4z4866u",
+					"expanded_url": "https://twitter.com/r_publishing/status/1106544101464383490",
+					"display_url": "twitter.com/r_publishing/s…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 843365802,
+			"id_str": "843365802",
+			"name": "Martina Emke",
+			"screen_name": "MartinaEmke",
+			"location": "",
+			"description": "Project Manager at @SstOHN; doctoral researcher at @OpenUniversity ; language teacher educator: https://t.co/GxRxsGmkkL - Views are my own",
+			"url": "https://t.co/EJQ282gkqD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EJQ282gkqD",
+							"expanded_url": "https://de.linkedin.com/in/martina-emke-2485565b",
+							"display_url": "de.linkedin.com/in/martina-emk…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GxRxsGmkkL",
+							"expanded_url": "http://ict-rev.ecml.at/",
+							"display_url": "ict-rev.ecml.at",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1214,
+			"friends_count": 768,
+			"listed_count": 146,
+			"created_at": "Mon Sep 24 10:57:08 +0000 2012",
+			"favourites_count": 1588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9082,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076591266887073792/6FmRtAy1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076591266887073792/6FmRtAy1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/843365802/1433018110",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106544101464383500,
+		"quoted_status_id_str": "1106544101464383490",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pbH4z4866u",
+			"expanded": "https://twitter.com/r_publishing/status/1106544101464383490",
+			"display": "twitter.com/r_publishing/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 15 13:14:07 +0000 2019",
+			"id": 1106544101464383500,
+			"id_str": "1106544101464383490",
+			"full_text": "Now released our new publication \"Professional development in CALL: a selection of papers\" edited by Giannikas, Kakoulli Constantinou &amp; Papadima-Sophocleous #call #professionaldevelopment #educational #technology #teachertraining https://t.co/Sr9ojzNckG https://t.co/oZipTKtJ16",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "call",
+						"indices": [
+							161,
+							166
+						]
+					},
+					{
+						"text": "professionaldevelopment",
+						"indices": [
+							167,
+							191
+						]
+					},
+					{
+						"text": "educational",
+						"indices": [
+							192,
+							204
+						]
+					},
+					{
+						"text": "technology",
+						"indices": [
+							205,
+							216
+						]
+					},
+					{
+						"text": "teachertraining",
+						"indices": [
+							217,
+							233
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Sr9ojzNckG",
+						"expanded_url": "https://doi.org/10.14705/rpnet.2019.28.9782490057283",
+						"display_url": "doi.org/10.14705/rpnet…",
+						"indices": [
+							234,
+							257
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1106543909025529900,
+						"id_str": "1106543909025529856",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/media/D1s70pHWwAAzkbk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1s70pHWwAAzkbk.jpg",
+						"url": "https://t.co/oZipTKtJ16",
+						"display_url": "pic.twitter.com/oZipTKtJ16",
+						"expanded_url": "https://twitter.com/r_publishing/status/1106544101464383490/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1400,
+								"h": 525,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 255,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1106543909025529900,
+						"id_str": "1106543909025529856",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/media/D1s70pHWwAAzkbk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1s70pHWwAAzkbk.jpg",
+						"url": "https://t.co/oZipTKtJ16",
+						"display_url": "pic.twitter.com/oZipTKtJ16",
+						"expanded_url": "https://twitter.com/r_publishing/status/1106544101464383490/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1400,
+								"h": 525,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 255,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 187706691,
+				"id_str": "187706691",
+				"name": "Research-publishing",
+				"screen_name": "r_publishing",
+				"location": "",
+				"description": "We help you make your publication projects a reality #openaccess #research",
+				"url": "http://t.co/p9OoxOfEtO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/p9OoxOfEtO",
+								"expanded_url": "http://research-publishing.net/",
+								"display_url": "research-publishing.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 452,
+				"friends_count": 273,
+				"listed_count": 17,
+				"created_at": "Mon Sep 06 23:21:33 +0000 2010",
+				"favourites_count": 500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 739,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/746998998112870400/wcv_zwor_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/746998998112870400/wcv_zwor_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/187706691/1407279759",
+				"profile_link_color": "036B3A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With an article onLanguage Teachers'  PLNs, @IaninSheffield &amp; @richardjholme.\n\nAnd an article on mobile devices as language aids, @agneskh.\n\n#CALL\n#ProfessionalDevelopment\n@IctrevOu \n@UrsulaStickler https://t.co/pbH4z4866u"
+	},
+	{
 		"created_at": "Wed Mar 13 21:28:23 +0000 2019",
 		"id": 1105943713312923600,
 		"id_str": "1105943713312923648",
