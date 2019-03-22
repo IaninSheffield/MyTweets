@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 21 12:32:25 +0000 2019",
+		"id": 1108707934467510300,
+		"id_str": "1108707934467510272",
+		"full_text": "@kfleming100 Hoping to be there 👍",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kfleming100",
+					"name": "Katarzyna Fleming",
+					"id": 3212820243,
+					"id_str": "3212820243",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1108701157436858400,
+		"in_reply_to_status_id_str": "1108701157436858368",
+		"in_reply_to_user_id": 3212820243,
+		"in_reply_to_user_id_str": "3212820243",
+		"in_reply_to_screen_name": "kfleming100",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 3805,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11351,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kfleming100 Hoping to be there 👍"
+	},
+	{
+		"created_at": "Thu Mar 21 09:54:47 +0000 2019",
+		"id": 1108668267705573400,
+		"id_str": "1108668267705573376",
+		"full_text": "Celebrating JS Bach by making music helped by machine learning with today's UK #GoogleDoodle https://t.co/FhLLAahZZK #computing #ukmusiced",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleDoodle",
+					"indices": [
+						79,
+						92
+					]
+				},
+				{
+					"text": "computing",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "ukmusiced",
+					"indices": [
+						128,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FhLLAahZZK",
+					"expanded_url": "https://www.google.com/doodles/celebrating-johann-sebastian-bach",
+					"display_url": "google.com/doodles/celebr…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 3805,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11351,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Celebrating JS Bach by making music helped by machine learning with today's UK #GoogleDoodle https://t.co/FhLLAahZZK #computing #ukmusiced"
+	},
+	{
 		"created_at": "Wed Mar 20 20:49:01 +0000 2019",
 		"id": 1108470523577667600,
 		"id_str": "1108470523577667592",
