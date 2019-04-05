@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 08:55:06 +0000 2019",
+		"id": 1113726678008725500,
+		"id_str": "1113726678008725504",
+		"full_text": "Grateful to @kfleming100 &amp; @TPrice_SHU for organising this event, and to the contributors to the discussion. Helped move my understanding of #Autism forward considerably. https://t.co/3vQWB2apI3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Autism",
+					"indices": [
+						145,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kfleming100",
+					"name": "Katarzyna Fleming",
+					"id": 3212820243,
+					"id_str": "3212820243",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "TPrice_SHU",
+					"name": "Thomas Price",
+					"id": 919914545564569600,
+					"id_str": "919914545564569600",
+					"indices": [
+						31,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3vQWB2apI3",
+					"expanded_url": "https://twitter.com/Goodchap62/status/1113469626170642432",
+					"display_url": "twitter.com/Goodchap62/sta…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3243,
+			"friends_count": 3812,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11373,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113469626170642400,
+		"quoted_status_id_str": "1113469626170642432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3vQWB2apI3",
+			"expanded": "https://twitter.com/Goodchap62/status/1113469626170642432",
+			"display": "twitter.com/Goodchap62/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 03 15:53:40 +0000 2019",
+			"id": 1113469626170642400,
+			"id_str": "1113469626170642432",
+			"full_text": "A lively discussion on the meanings of autism represented within the Temple Grandin film.  #WorldAutismAwarenessWeek @kfleming100 @TPrice_SHU @AutismHallam @SHU_SIoE https://t.co/GfdwkUFMRb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WorldAutismAwarenessWeek",
+						"indices": [
+							91,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kfleming100",
+						"name": "Katarzyna Fleming",
+						"id": 3212820243,
+						"id_str": "3212820243",
+						"indices": [
+							117,
+							129
+						]
+					},
+					{
+						"screen_name": "TPrice_SHU",
+						"name": "Thomas Price",
+						"id": 919914545564569600,
+						"id_str": "919914545564569600",
+						"indices": [
+							130,
+							141
+						]
+					},
+					{
+						"screen_name": "AutismHallam",
+						"name": "SHARP",
+						"id": 907219778137411600,
+						"id_str": "907219778137411586",
+						"indices": [
+							142,
+							155
+						]
+					},
+					{
+						"screen_name": "SHU_SIoE",
+						"name": "SHU_SIoE",
+						"id": 1933610330,
+						"id_str": "1933610330",
+						"indices": [
+							156,
+							165
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1113469598299566100,
+						"id_str": "1113469598299566081",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/D3PWs0LXsAEu4W-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3PWs0LXsAEu4W-.jpg",
+						"url": "https://t.co/GfdwkUFMRb",
+						"display_url": "pic.twitter.com/GfdwkUFMRb",
+						"expanded_url": "https://twitter.com/Goodchap62/status/1113469626170642432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1113469598299566100,
+						"id_str": "1113469598299566081",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/D3PWs0LXsAEu4W-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3PWs0LXsAEu4W-.jpg",
+						"url": "https://t.co/GfdwkUFMRb",
+						"display_url": "pic.twitter.com/GfdwkUFMRb",
+						"expanded_url": "https://twitter.com/Goodchap62/status/1113469626170642432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 619745347,
+				"id_str": "619745347",
+				"name": "Nick Hodge",
+				"screen_name": "Goodchap62",
+				"location": "Sheffield, England",
+				"description": "Professor of Inclusive Practice at Sheffield Hallam University. Research focus on autism and disability. Views expressed are my own.",
+				"url": "https://t.co/uogf0zYK9V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uogf0zYK9V",
+								"expanded_url": "https://www.shu.ac.uk/about-us/our-people/staff-profiles/nicholas-hodge",
+								"display_url": "shu.ac.uk/about-us/our-p…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1924,
+				"friends_count": 1082,
+				"listed_count": 33,
+				"created_at": "Wed Jun 27 06:39:30 +0000 2012",
+				"favourites_count": 3773,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5405,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/842413621112111110/FHQY5u5B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/842413621112111110/FHQY5u5B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/619745347/1489686311",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grateful to @kfleming100 &amp; @TPrice_SHU for organising this event, and to the contributors to the discussion. Helped move my understanding of #Autism forward considerably. https://t.co/3vQWB2apI3"
+	},
+	{
 		"created_at": "Tue Apr 02 17:22:01 +0000 2019",
 		"id": 1113129469542350800,
 		"id_str": "1113129469542350848",
