@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 07 06:55:56 +0000 2019",
+		"id": 1114783851295981600,
+		"id_str": "1114783851295981568",
+		"full_text": "'They’re told all the time they’re different’: how educators understand development of sense of self for autistic pupils. https://t.co/Y0KD5jtQTo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0KD5jtQTo",
+					"expanded_url": "https://twitter.com/ejr88/status/1114778804759793665",
+					"display_url": "twitter.com/ejr88/status/1…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3243,
+			"friends_count": 3814,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11377,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114778804759793700,
+		"quoted_status_id_str": "1114778804759793665",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y0KD5jtQTo",
+			"expanded": "https://twitter.com/ejr88/status/1114778804759793665",
+			"display": "twitter.com/ejr88/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 07 06:35:53 +0000 2019",
+			"id": 1114778804759793700,
+			"id_str": "1114778804759793665",
+			"full_text": "First publication in an academic journal with @Goodchap62 and Dr Lisa Reidy.\n https://t.co/sbsYar74I0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Goodchap62",
+						"name": "Nick Hodge",
+						"id": 619745347,
+						"id_str": "619745347",
+						"indices": [
+							46,
+							57
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sbsYar74I0",
+						"expanded_url": "https://www.tandfonline.com/doi/full/10.1080/09687599.2019.1594700",
+						"display_url": "tandfonline.com/doi/full/10.10…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 374056031,
+				"id_str": "374056031",
+				"name": "Emma Rice",
+				"screen_name": "ejr88",
+				"location": "",
+				"description": "PhD student education/autism at SHU, researching autism and a sense of self: the mainstream secondary school experience.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115,
+				"friends_count": 282,
+				"listed_count": 0,
+				"created_at": "Thu Sep 15 16:44:35 +0000 2011",
+				"favourites_count": 97,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 87,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895008707863511041/p2axPDGE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895008707863511041/p2axPDGE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/374056031/1506698304",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'They’re told all the time they’re different’: how educators understand development of sense of self for autistic pupils. https://t.co/Y0KD5jtQTo"
+	},
+	{
 		"created_at": "Sat Apr 06 18:38:42 +0000 2019",
 		"id": 1114598321040105500,
 		"id_str": "1114598321040105472",
