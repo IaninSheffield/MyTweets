@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 09 19:17:31 +0000 2019",
+		"id": 1115689279173296100,
+		"id_str": "1115695253489627136",
+		"full_text": "@mark_carrigan First rule of the Quiet Coach: You don't make calls in the Quiet Coach.\nSecond rule of the Quiet Coach: You DO NOT MAKE CALLS in the Quiet Coach.\n\nGlad our Train Manager is making this clear to passengers - we know it can be a bit of a grey area at times. ^KM",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mark_carrigan",
+					"name": "Mark Carrigan",
+					"id": 220194905,
+					"id_str": "220194905",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.conversocial.com\" rel=\"nofollow\">Conversocial</a>",
+		"in_reply_to_status_id": 1115688295583887400,
+		"in_reply_to_status_id_str": "1115688295583887361",
+		"in_reply_to_user_id": 220194905,
+		"in_reply_to_user_id_str": "220194905",
+		"in_reply_to_screen_name": "mark_carrigan",
+		"user": {
+			"id": 313306238,
+			"id_str": "313306238",
+			"name": "London North Eastern Railway",
+			"screen_name": "LNER",
+			"location": "York",
+			"description": "Hello from the LNER Twitter team. We’re here round the clock, seven days a week ready to help.",
+			"url": "https://t.co/Sqk2Y2jBW6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Sqk2Y2jBW6",
+							"expanded_url": "http://www.lner.co.uk",
+							"display_url": "lner.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168900,
+			"friends_count": 7722,
+			"listed_count": 881,
+			"created_at": "Wed Jun 08 13:15:43 +0000 2011",
+			"favourites_count": 49565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 497175,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061910853027545088/mu6MN4RY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061910853027545088/mu6MN4RY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313306238/1529641876",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@mark_carrigan First rule of the Quiet Coach: You don't make calls in the Quiet Coach.\nSecond rule of the Quiet Coach: You DO NOT MAKE CALLS in the Quiet Coach.\n\nGlad our Train Manager is making this clear to passengers - we know it can be a bit of a grey area at times. ^KM"
+	},
+	{
 		"created_at": "Sun Apr 07 06:55:56 +0000 2019",
 		"id": 1114783851295981600,
 		"id_str": "1114783851295981568",
