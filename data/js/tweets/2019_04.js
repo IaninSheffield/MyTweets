@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 05:36:35 +0000 2019",
+		"id": 1115932506346463200,
+		"id_str": "1116213433446354944",
+		"full_text": "Please help &amp; RT - Still seeking research participants (esp. in the South &amp; West Mids!) for important gov. funded research on LGBT homelessness. If over 16, LGBT+ &amp; have been homeless in England in last 5 years please get in touch! Details: https://t.co/VSTUjlJF0v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VSTUjlJF0v",
+					"expanded_url": "https://extra.shu.ac.uk/cdare/lgbthomelessness/",
+					"display_url": "extra.shu.ac.uk/cdare/lgbthome…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 122067629,
+			"id_str": "122067629",
+			"name": "Eleanor Formby",
+			"screen_name": "EleanorFormby",
+			"location": "",
+			"description": "Reader, Sheffield Hallam. Key interests LGBT+ identities, SRE/RSE. Writing book on LGBT inclusion/bullying in schools. Author of https://t.co/FzU2YkYeL5 She/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FzU2YkYeL5",
+							"expanded_url": "http://routledge.com/9781138814004",
+							"display_url": "routledge.com/9781138814004",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1145,
+			"friends_count": 1520,
+			"listed_count": 15,
+			"created_at": "Thu Mar 11 13:50:32 +0000 2010",
+			"favourites_count": 4792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1210,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/558383272133013504/Qe0299n8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/558383272133013504/Qe0299n8_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122067629/1510694502",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please help &amp; RT - Still seeking research participants (esp. in the South &amp; West Mids!) for important gov. funded research on LGBT homelessness. If over 16, LGBT+ &amp; have been homeless in England in last 5 years please get in touch! Details: https://t.co/VSTUjlJF0v"
+	},
+	{
 		"created_at": "Tue Apr 09 19:17:31 +0000 2019",
 		"id": 1115689279173296100,
 		"id_str": "1115695253489627136",
