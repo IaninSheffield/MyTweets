@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 07:23:01 +0000 2019",
+		"id": 1116964992547528700,
+		"id_str": "1116964992547528705",
+		"full_text": "@MartinaEmke @richardjholme Thanks Martina, although not sure higher ed is my natural home.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartinaEmke",
+					"name": "Martina Emke",
+					"id": 843365802,
+					"id_str": "843365802",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "richardjholme",
+					"name": "richard holme",
+					"id": 209598541,
+					"id_str": "209598541",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1116811802002763800,
+		"in_reply_to_status_id_str": "1116811802002763776",
+		"in_reply_to_user_id": 843365802,
+		"in_reply_to_user_id_str": "843365802",
+		"in_reply_to_screen_name": "MartinaEmke",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3240,
+			"friends_count": 3818,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11384,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MartinaEmke @richardjholme Thanks Martina, although not sure higher ed is my natural home."
+	},
+	{
+		"created_at": "Sat Apr 13 07:11:06 +0000 2019",
+		"id": 1110887700784169000,
+		"id_str": "1116961994798714880",
+		"full_text": "Thanks so much to everyone who has completed my survey on having a child during your PhD at a UK university. There's still time to do so if you would like to (it closes 29 April).\n\nEligibility &amp; other info here: https://t.co/qBghlvnxCj\n\nSurvey here: https://t.co/A27zFtHmO1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qBghlvnxCj",
+					"expanded_url": "https://havingchildrenukphd.com/call-for-participants/",
+					"display_url": "havingchildrenukphd.com/call-for-parti…",
+					"indices": [
+						216,
+						239
+					]
+				},
+				{
+					"url": "https://t.co/A27zFtHmO1",
+					"expanded_url": "https://leeds.onlinesurveys.ac.uk/becoming-a-parent-during-a-phd-in-the-uk",
+					"display_url": "leeds.onlinesurveys.ac.uk/becoming-a-par…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 385335216,
+			"id_str": "385335216",
+			"name": "Dr Catherine Oakley",
+			"screen_name": "cat_oakley",
+			"location": "York, England",
+			"description": "Social & cultural historian, intersectionalist, feminist killjoy, Yorkshire lass. Post-ac currently working as a researcher in the museum sector. Views mine.",
+			"url": "https://t.co/t5Ghj8ZJ9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t5Ghj8ZJ9v",
+							"expanded_url": "https://independent.academia.edu/CatherineMOakley",
+							"display_url": "independent.academia.edu/CatherineMOakl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5607,
+			"friends_count": 3467,
+			"listed_count": 79,
+			"created_at": "Wed Oct 05 09:45:58 +0000 2011",
+			"favourites_count": 22272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18630,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030436384992120832/sQEYG-_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030436384992120832/sQEYG-_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/385335216/1541171275",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks so much to everyone who has completed my survey on having a child during your PhD at a UK university. There's still time to do so if you would like to (it closes 29 April).\n\nEligibility &amp; other info here: https://t.co/qBghlvnxCj\n\nSurvey here: https://t.co/A27zFtHmO1"
+	},
+	{
 		"created_at": "Fri Apr 12 19:22:42 +0000 2019",
 		"id": 1116783719203913700,
 		"id_str": "1116783719203913730",
