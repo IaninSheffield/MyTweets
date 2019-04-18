@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 06:05:59 +0000 2019",
+		"id": 1118089966955974700,
+		"id_str": "1118395157789990913",
+		"full_text": "I working on a Master's dissertation on retention and CPD is in the first 5 years of teaching. If you are in your first 5 years of teaching and could spare 5 minutes to fill out this short survey on CPD and motivation I would hugely grateful, thank you: https://t.co/atBdRQaaVl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/atBdRQaaVl",
+					"expanded_url": "https://www.surveymonkey.co.uk/r/VPFSZSX",
+					"display_url": "surveymonkey.co.uk/r/VPFSZSX",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 765627028498485200,
+			"id_str": "765627028498485248",
+			"name": "Jamie Thom",
+			"screen_name": "teachgratitude1",
+			"location": "Newcastle",
+			"description": "English teacher. Host of @TES English teaching podcast. Author of 'Slow Teaching:' https://t.co/ME5UgppHNL. Compulsive runner and reader.",
+			"url": "https://t.co/csg0577UFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csg0577UFM",
+							"expanded_url": "http://www.slowteaching.co.uk",
+							"display_url": "slowteaching.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ME5UgppHNL",
+							"expanded_url": "https://amzn.to/2MWeI9c",
+							"display_url": "amzn.to/2MWeI9c",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4344,
+			"friends_count": 891,
+			"listed_count": 48,
+			"created_at": "Tue Aug 16 19:11:23 +0000 2016",
+			"favourites_count": 6060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5272,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034093914351955968/jyKeTxVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034093914351955968/jyKeTxVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/765627028498485248/1473014951",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I working on a Master's dissertation on retention and CPD is in the first 5 years of teaching. If you are in your first 5 years of teaching and could spare 5 minutes to fill out this short survey on CPD and motivation I would hugely grateful, thank you: https://t.co/atBdRQaaVl"
+	},
+	{
 		"created_at": "Tue Apr 16 19:35:58 +0000 2019",
 		"id": 1117756851209363500,
 		"id_str": "1118236612373155840",
