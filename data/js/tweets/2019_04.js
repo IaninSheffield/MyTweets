@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 30 14:22:12 +0000 2019",
+		"id": 1123231080637771800,
+		"id_str": "1123231080637771776",
+		"full_text": "@eksploratore @MartinaEmke Did you find *it*, or did assemblage theory 'enrol' you Peter? ;-)\nOr does it matter?\n\n[There's a link to my thesis from the tweet pinned to the top of my Twitter profile page https://t.co/VA7KPowt3p]",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eksploratore",
+					"name": "Peter Evans",
+					"id": 27836880,
+					"id_str": "27836880",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MartinaEmke",
+					"name": "Martina Emke",
+					"id": 843365802,
+					"id_str": "843365802",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VA7KPowt3p",
+					"expanded_url": "https://twitter.com/IaninSheffield",
+					"display_url": "twitter.com/IaninSheffield",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1123223883132411900,
+		"in_reply_to_status_id_str": "1123223883132411905",
+		"in_reply_to_user_id": 27836880,
+		"in_reply_to_user_id_str": "27836880",
+		"in_reply_to_screen_name": "eksploratore",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3241,
+			"friends_count": 3818,
+			"listed_count": 205,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11396,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@eksploratore @MartinaEmke Did you find *it*, or did assemblage theory 'enrol' you Peter? ;-)\nOr does it matter?\n\n[There's a link to my thesis from the tweet pinned to the top of my Twitter profile page https://t.co/VA7KPowt3p]"
+	},
+	{
 		"created_at": "Mon Apr 29 20:09:06 +0000 2019",
 		"id": 1122955991010697200,
 		"id_str": "1122955991010697220",
