@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 13 07:17:12 +0000 2019",
+		"id": 1127835167400312800,
+		"id_str": "1127835167400312832",
+		"full_text": "Today's (UK?) #GoogleDoodle answers the question for me of where 'Pap' in the Pap smear test originated https://t.co/dLJa7EJe0p #Science #ThingsINeverKnew",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleDoodle",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"text": "Science",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "ThingsINeverKnew",
+					"indices": [
+						137,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dLJa7EJe0p",
+					"expanded_url": "https://www.google.co.uk/",
+					"display_url": "google.co.uk",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3241,
+			"friends_count": 3819,
+			"listed_count": 202,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today's (UK?) #GoogleDoodle answers the question for me of where 'Pap' in the Pap smear test originated https://t.co/dLJa7EJe0p #Science #ThingsINeverKnew"
+	},
+	{
 		"created_at": "Sun May 12 16:10:54 +0000 2019",
 		"id": 1126954458448113700,
 		"id_str": "1127607088597934087",
@@ -124,7 +252,7 @@ Grailbird.data.tweets_2019_05 =
 		"user": {
 			"id": 846438053950476300,
 			"id_str": "846438053950476288",
-			"name": "★ Miss Wheatley ★ 🙋‍♀️",
+			"name": "★ Miss Wheatley ★ 🙋♀️",
 			"screen_name": "Miss__Wheatley",
 			"location": "Blackpool, England",
 			"description": "KS2 Lead Teacher. Currently posted in Y6. Showbie Champion🏆 Passionate about innovative and inspiring teaching. Views are all my own 😊",
