@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 21 20:51:15 +0000 2019",
+		"id": 1130939131918454800,
+		"id_str": "1130939131918454784",
+		"full_text": "@NinaGunson Oooff!\nYep, deserved that.\n\nSuch is the power of #Twitter that, not only do you get mocked by *current* colleagues, but your former gaffer too! https://t.co/ah7WV27HUd",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						61,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NinaGunson",
+					"name": "Nina Gunson",
+					"id": 269393162,
+					"id_str": "269393162",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130938252591009800,
+					"id_str": "1130938252591009794",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7HmWUiWkAIhpoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7HmWUiWkAIhpoQ.jpg",
+					"url": "https://t.co/ah7WV27HUd",
+					"display_url": "pic.twitter.com/ah7WV27HUd",
+					"expanded_url": "https://twitter.com/IaninSheffield/status/1130939131918454784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130938252591009800,
+					"id_str": "1130938252591009794",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7HmWUiWkAIhpoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7HmWUiWkAIhpoQ.jpg",
+					"url": "https://t.co/ah7WV27HUd",
+					"display_url": "pic.twitter.com/ah7WV27HUd",
+					"expanded_url": "https://twitter.com/IaninSheffield/status/1130939131918454784/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D7HmWUiWkAIhpoQ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1130872204407787500,
+		"in_reply_to_status_id_str": "1130872204407787520",
+		"in_reply_to_user_id": 269393162,
+		"in_reply_to_user_id_str": "269393162",
+		"in_reply_to_screen_name": "NinaGunson",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3244,
+			"friends_count": 3820,
+			"listed_count": 202,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NinaGunson Oooff!\nYep, deserved that.\n\nSuch is the power of #Twitter that, not only do you get mocked by *current* colleagues, but your former gaffer too! https://t.co/ah7WV27HUd"
+	},
+	{
 		"created_at": "Thu May 16 07:36:10 +0000 2019",
 		"id": 1128927104773611500,
 		"id_str": "1128927104773611521",
