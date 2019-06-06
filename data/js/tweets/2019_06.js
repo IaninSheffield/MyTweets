@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 05 19:56:50 +0000 2019",
+		"id": 1136361254573027300,
+		"id_str": "1136361254573027328",
+		"full_text": "@erbradfield @DerbyUniPGR Firstly, congratulations!!!\nA possible solution to your woes. I suspected I'd have the same problem you faced with Turnitin so split the thesis into multiple docs, one for each chapter. Took a little longer, but they went through OK. You prolly didn't wanna hear that though 😭",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			302
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erbradfield",
+					"name": "Emily Bradfield",
+					"id": 468599022,
+					"id_str": "468599022",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "DerbyUniPGR",
+					"name": "Derby Uni PGR Network",
+					"id": 844303429262544900,
+					"id_str": "844303429262544896",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1136338109879246800,
+		"in_reply_to_status_id_str": "1136338109879246848",
+		"in_reply_to_user_id": 468599022,
+		"in_reply_to_user_id_str": "468599022",
+		"in_reply_to_screen_name": "erbradfield",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3243,
+			"friends_count": 3820,
+			"listed_count": 203,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@erbradfield @DerbyUniPGR Firstly, congratulations!!!\nA possible solution to your woes. I suspected I'd have the same problem you faced with Turnitin so split the thesis into multiple docs, one for each chapter. Took a little longer, but they went through OK. You prolly didn't wanna hear that though 😭"
+	},
+	{
+		"created_at": "Wed Jun 05 07:10:49 +0000 2019",
+		"id": 1135962410928529400,
+		"id_str": "1136168478854062080",
+		"full_text": "I’m writing an article on the benefits of Twitter for professional development and would love to hear your thoughts please. Do you value Twitter as a form of CPD? How has using Twitter impacted on your practice? Thank you.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20044999,
+			"id_str": "20044999",
+			"name": "Emma Davis",
+			"screen_name": "EmmaDee77",
+			"location": "Ledbury, England",
+			"description": "Early Years Teacher. MAED student. Writer/blogger. Judge for the Teach Early Years awards ‘19. Love family time and cake. Views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2932,
+			"friends_count": 2707,
+			"listed_count": 40,
+			"created_at": "Wed Feb 04 11:09:40 +0000 2009",
+			"favourites_count": 15495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098655979514793987/FF5kg7vp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098655979514793987/FF5kg7vp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20044999/1533671885",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m writing an article on the benefits of Twitter for professional development and would love to hear your thoughts please. Do you value Twitter as a form of CPD? How has using Twitter impacted on your practice? Thank you."
+	},
+	{
 		"created_at": "Tue Jun 04 20:59:53 +0000 2019",
 		"id": 1136014733277126700,
 		"id_str": "1136014733277126658",
