@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 07:23:44 +0000 2019",
+		"id": 1136534120765505500,
+		"id_str": "1136534120765505536",
+		"full_text": "@steven_kolber Hi Steven. A year ago I'd have jumped at your kind offer, but my research is all done now thanks 👍\nYou might have picked up my retweet of someone who *was* looking for information a day or so ago? https://t.co/qKmdngecap",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "steven_kolber",
+					"name": "Steven Kolber",
+					"id": 2183674998,
+					"id_str": "2183674998",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qKmdngecap",
+					"expanded_url": "https://twitter.com/EmmaDee77/status/1135962410928529409",
+					"display_url": "twitter.com/EmmaDee77/stat…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1136373971052482600,
+		"in_reply_to_status_id_str": "1136373971052482560",
+		"in_reply_to_user_id": 2183674998,
+		"in_reply_to_user_id_str": "2183674998",
+		"in_reply_to_screen_name": "steven_kolber",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3244,
+			"friends_count": 3822,
+			"listed_count": 203,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135962410928529400,
+		"quoted_status_id_str": "1135962410928529409",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qKmdngecap",
+			"expanded": "https://twitter.com/EmmaDee77/status/1135962410928529409",
+			"display": "twitter.com/EmmaDee77/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 04 17:31:58 +0000 2019",
+			"id": 1135962410928529400,
+			"id_str": "1135962410928529409",
+			"full_text": "I’m writing an article on the benefits of Twitter for professional development and would love to hear your thoughts please. Do you value Twitter as a form of CPD? How has using Twitter impacted on your practice? Thank you.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20044999,
+				"id_str": "20044999",
+				"name": "Emma Davis",
+				"screen_name": "EmmaDee77",
+				"location": "Ledbury, England",
+				"description": "Early Years Teacher. MAED student. Writer/blogger. Judge for the Teach Early Years awards ‘19. Love family time and cake. Views my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2933,
+				"friends_count": 2700,
+				"listed_count": 40,
+				"created_at": "Wed Feb 04 11:09:40 +0000 2009",
+				"favourites_count": 15535,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27287,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098655979514793987/FF5kg7vp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098655979514793987/FF5kg7vp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20044999/1533671885",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 95,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@steven_kolber Hi Steven. A year ago I'd have jumped at your kind offer, but my research is all done now thanks 👍\nYou might have picked up my retweet of someone who *was* looking for information a day or so ago? https://t.co/qKmdngecap"
+	},
+	{
 		"created_at": "Wed Jun 05 19:56:50 +0000 2019",
 		"id": 1136361254573027300,
 		"id_str": "1136361254573027328",
