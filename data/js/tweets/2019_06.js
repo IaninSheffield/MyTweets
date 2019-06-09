@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 08 23:40:42 +0000 2019",
+		"id": 1137329921116770300,
+		"id_str": "1137504756904157189",
+		"full_text": "@IaninSheffield @nvmuk @SteelMinions Great stuff. Liked @danpinchbeck’s final point about how the working class origins of the games industry hold it back from greater recognition. My 9 year old daughter (around at the start) exclaimed, “Girls talking about games. Cool!” before wandering off to play Worms.",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			307
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IaninSheffield",
+					"name": "Ian Guest",
+					"id": 21324520,
+					"id_str": "21324520",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "nvmuk",
+					"name": "The National Videogame Museum",
+					"id": 21489334,
+					"id_str": "21489334",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"screen_name": "SteelMinions",
+					"name": "Steel Minions",
+					"id": 571960976,
+					"id_str": "571960976",
+					"indices": [
+						23,
+						36
+					]
+				},
+				{
+					"screen_name": "danpinchbeck",
+					"name": "Dan Pinchbeck",
+					"id": 134870543,
+					"id_str": "134870543",
+					"indices": [
+						56,
+						69
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1136888509539766300,
+		"in_reply_to_status_id_str": "1136888509539766272",
+		"in_reply_to_user_id": 21324520,
+		"in_reply_to_user_id_str": "21324520",
+		"in_reply_to_screen_name": "IaninSheffield",
+		"user": {
+			"id": 152968124,
+			"id_str": "152968124",
+			"name": "Jacob Habgood",
+			"screen_name": "jacobmph",
+			"location": "Sheffield",
+			"description": "Reader of digital things",
+			"url": "https://t.co/2okID4MStZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2okID4MStZ",
+							"expanded_url": "http://www.hiddenlevel.com",
+							"display_url": "hiddenlevel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 253,
+			"listed_count": 27,
+			"created_at": "Mon Jun 07 10:07:32 +0000 2010",
+			"favourites_count": 1472,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092886788576825345/eKgaRZiM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092886788576825345/eKgaRZiM_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@IaninSheffield @nvmuk @SteelMinions Great stuff. Liked @danpinchbeck’s final point about how the working class origins of the games industry hold it back from greater recognition. My 9 year old daughter (around at the start) exclaimed, “Girls talking about games. Cool!” before wandering off to play Worms."
+	},
+	{
 		"created_at": "Fri Jun 07 06:51:57 +0000 2019",
 		"id": 1136888509539766300,
 		"id_str": "1136888509539766272",
