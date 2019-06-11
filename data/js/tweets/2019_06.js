@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 19:44:44 +0000 2019",
+		"id": 1138170147842285600,
+		"id_str": "1138170147842285568",
+		"full_text": "@abbiemann1982 Hi Abbie. There may be a little overlap, but you might find some further helpful responses in the thread which unfolded from @EmmaDee77's recent request https://t.co/qKmdngecap :-)",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abbiemann1982",
+					"name": "Abigail Mann",
+					"id": 27096905,
+					"id_str": "27096905",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "EmmaDee77",
+					"name": "Emma Davis",
+					"id": 20044999,
+					"id_str": "20044999",
+					"indices": [
+						140,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qKmdngecap",
+					"expanded_url": "https://twitter.com/EmmaDee77/status/1135962410928529409",
+					"display_url": "twitter.com/EmmaDee77/stat…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1137995709003817000,
+		"in_reply_to_status_id_str": "1137995709003816961",
+		"in_reply_to_user_id": 27096905,
+		"in_reply_to_user_id_str": "27096905",
+		"in_reply_to_screen_name": "abbiemann1982",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3250,
+			"friends_count": 3823,
+			"listed_count": 203,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135962410928529400,
+		"quoted_status_id_str": "1135962410928529409",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qKmdngecap",
+			"expanded": "https://twitter.com/EmmaDee77/status/1135962410928529409",
+			"display": "twitter.com/EmmaDee77/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 04 17:31:58 +0000 2019",
+			"id": 1135962410928529400,
+			"id_str": "1135962410928529409",
+			"full_text": "I’m writing an article on the benefits of Twitter for professional development and would love to hear your thoughts please. Do you value Twitter as a form of CPD? How has using Twitter impacted on your practice? Thank you.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20044999,
+				"id_str": "20044999",
+				"name": "Emma Davis",
+				"screen_name": "EmmaDee77",
+				"location": "Ledbury, England",
+				"description": "Early Years Teacher. MAED student. Writer/blogger. Judge for the Teach Early Years awards ‘19. Love family time and cake. Views my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2940,
+				"friends_count": 2717,
+				"listed_count": 42,
+				"created_at": "Wed Feb 04 11:09:40 +0000 2009",
+				"favourites_count": 15606,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27335,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098655979514793987/FF5kg7vp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098655979514793987/FF5kg7vp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20044999/1533671885",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 106,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@abbiemann1982 Hi Abbie. There may be a little overlap, but you might find some further helpful responses in the thread which unfolded from @EmmaDee77's recent request https://t.co/qKmdngecap :-)"
+	},
+	{
 		"created_at": "Sat Jun 08 23:40:42 +0000 2019",
 		"id": 1137329921116770300,
 		"id_str": "1137504756904157189",
