@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 25 18:36:09 +0000 2019",
+		"id": 1143505979595722800,
+		"id_str": "1143588708479881216",
+		"full_text": "Anyone want to do my job for a year while I’m on maternity? 1 year fixed term as a lecturer with a focus on education policy - and you get to work with some lovely folk, including the wonderful @kate_wall98 😊 Please RT widely! https://t.co/KFCtfiDkyx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kate_wall98",
+					"name": "Prof Kate Wall",
+					"id": 4177758509,
+					"id_str": "4177758509",
+					"indices": [
+						194,
+						206
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KFCtfiDkyx",
+					"expanded_url": "https://twitter.com/kate_wall98/status/1143495102779801600",
+					"display_url": "twitter.com/kate_wall98/st…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 99997215,
+			"id_str": "99997215",
+			"name": "Anna Beck",
+			"screen_name": "anna_d_beck",
+			"location": "University of Strathclyde",
+			"description": "Lecturer in Education @UniStrathclyde - #BA4Pol - #STLStrath #CfLStrath | Education Policy | Happiest when riding bikes | Galloway at heart | #sralbannach",
+			"url": "https://t.co/evGVthuzz1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/evGVthuzz1",
+							"expanded_url": "https://glasgow.academia.edu/AnnaBeck",
+							"display_url": "glasgow.academia.edu/AnnaBeck",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1950,
+			"friends_count": 922,
+			"listed_count": 32,
+			"created_at": "Mon Dec 28 17:06:54 +0000 2009",
+			"favourites_count": 4611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782862993793179648/Gq7O1bXs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782862993793179648/Gq7O1bXs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/99997215/1475487314",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0af014accd6f6e99",
+			"url": "https://api.twitter.com/1.1/geo/id/0af014accd6f6e99.json",
+			"place_type": "admin",
+			"name": "Scotland",
+			"full_name": "Scotland, United Kingdom",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-7.66085699743185,
+							54.6336309570711
+						],
+						[
+							-0.740025000483186,
+							54.6336309570711
+						],
+						[
+							-0.740025000483186,
+							60.8452769694519
+						],
+						[
+							-7.66085699743185,
+							60.8452769694519
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1143495102779801600,
+		"quoted_status_id_str": "1143495102779801600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KFCtfiDkyx",
+			"expanded": "https://twitter.com/kate_wall98/status/1143495102779801600",
+			"display": "twitter.com/kate_wall98/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 25 12:24:12 +0000 2019",
+			"id": 1143495102779801600,
+			"id_str": "1143495102779801600",
+			"full_text": "Another job opportunity to work with us - 1 year fixed term with expertise in national policy (@anna_d_beck's maternity cover): https://t.co/ASw5ANgh9z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "anna_d_beck",
+						"name": "Anna Beck",
+						"id": 99997215,
+						"id_str": "99997215",
+						"indices": [
+							95,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ASw5ANgh9z",
+						"expanded_url": "https://strathvacancies.engageats.co.uk/ViewVacancyV2.aspx?enc=mEgrBL4XQK0+ld8aNkwYmHcHmAWd03sL2OP0Ze7MPxM4BClV5P9lBsjLUs0WHcEpLGq/wyBU34CwNEbVOqQeAGm06vLEY7tbGNIXtniVEpTQkPg7Obkxmdnvrp3cPruZPevv4888Sn1Wf/IaBYEMyQ==",
+						"display_url": "strathvacancies.engageats.co.uk/ViewVacancyV2.…",
+						"indices": [
+							128,
+							151
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4177758509,
+				"id_str": "4177758509",
+				"name": "Prof Kate Wall",
+				"screen_name": "kate_wall98",
+				"location": "Scotland, United Kingdom",
+				"description": "Professor @UniStrathclyde Professional learning, primary/EY, democratic ed, voice, visual methods & pedagogies 4 thinking. #StrathSTL #StrathEdD #StrathEduPGR",
+				"url": "https://t.co/MK12LMlN5T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MK12LMlN5T",
+								"expanded_url": "https://www.strath.ac.uk/staff/wallkateprofessor/",
+								"display_url": "strath.ac.uk/staff/wallkate…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2368,
+				"friends_count": 1567,
+				"listed_count": 38,
+				"created_at": "Fri Nov 13 09:22:19 +0000 2015",
+				"favourites_count": 9472,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7125,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1045677718220738560/BNzNm7RL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045677718220738560/BNzNm7RL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4177758509/1550580414",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 36,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anyone want to do my job for a year while I’m on maternity? 1 year fixed term as a lecturer with a focus on education policy - and you get to work with some lovely folk, including the wonderful @kate_wall98 😊 Please RT widely! https://t.co/KFCtfiDkyx"
+	},
+	{
+		"created_at": "Tue Jun 25 10:35:06 +0000 2019",
+		"id": 1143467648153505800,
+		"id_str": "1143467648153505792",
+		"full_text": "@MartinaEmke Thanks Martina.\nChris &amp; I sat adjacently during the time we were studying concurrently :-)",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartinaEmke",
+					"name": "Martina Emke",
+					"id": 843365802,
+					"id_str": "843365802",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1143463852429979600,
+		"in_reply_to_status_id_str": "1143463852429979655",
+		"in_reply_to_user_id": 843365802,
+		"in_reply_to_user_id_str": "843365802",
+		"in_reply_to_screen_name": "MartinaEmke",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 3820,
+			"listed_count": 203,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MartinaEmke Thanks Martina.\nChris &amp; I sat adjacently during the time we were studying concurrently :-)"
+	},
+	{
+		"created_at": "Tue Jun 25 09:19:42 +0000 2019",
+		"id": 1143448674611150800,
+		"id_str": "1143448674611150848",
+		"full_text": "Care to take part in the Sheffield Residents' Lifestyle Survey?\n\"The results will help advance understanding and identify opportunities to improve the health and wellbeing of Sheffield's residents.\" https://t.co/3bDo4JLgES @HelpSheffield",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HelpSheffield",
+					"name": "Help Sheffield",
+					"id": 1303167920,
+					"id_str": "1303167920",
+					"indices": [
+						223,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3bDo4JLgES",
+					"expanded_url": "https://shusls.eu.qualtrics.com/jfe/form/SV_eqT8mRuBhedtzud",
+					"display_url": "shusls.eu.qualtrics.com/jfe/form/SV_eq…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 3820,
+			"listed_count": 203,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Care to take part in the Sheffield Residents' Lifestyle Survey?\n\"The results will help advance understanding and identify opportunities to improve the health and wellbeing of Sheffield's residents.\" https://t.co/3bDo4JLgES @HelpSheffield"
+	},
+	{
 		"created_at": "Mon Jun 24 19:51:13 +0000 2019",
 		"id": 1143245211105202200,
 		"id_str": "1143245211105202176",
