@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 30 16:40:43 +0000 2019",
+		"id": 1145371597567647700,
+		"id_str": "1145371597567647745",
+		"full_text": "I suspect next week's 1000th #BBCClick will be something special ... not that *every* episode isn't special of course!\n\nSunday evening meal with Click has become over the last 16 years somewhat of a delightfully informative, cynicism-free ritual for me. Long may it continue👍 https://t.co/IrDnRRlV7r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBCClick",
+					"indices": [
+						29,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IrDnRRlV7r",
+					"expanded_url": "https://twitter.com/spenley/status/1143578527935193088",
+					"display_url": "twitter.com/spenley/status…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 3820,
+			"listed_count": 203,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1143578527935193100,
+		"quoted_status_id_str": "1143578527935193088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IrDnRRlV7r",
+			"expanded": "https://twitter.com/spenley/status/1143578527935193088",
+			"display": "twitter.com/spenley/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 25 17:55:42 +0000 2019",
+			"id": 1143578527935193100,
+			"id_str": "1143578527935193088",
+			"full_text": "Something big is being written... https://t.co/z8hqlK4hxs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				33
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1143578474793320400,
+						"id_str": "1143578474793320448",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/D97OkFrWwAA9I6V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D97OkFrWwAA9I6V.jpg",
+						"url": "https://t.co/z8hqlK4hxs",
+						"display_url": "pic.twitter.com/z8hqlK4hxs",
+						"expanded_url": "https://twitter.com/spenley/status/1143578527935193088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1143578474793320400,
+						"id_str": "1143578474793320448",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/D97OkFrWwAA9I6V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D97OkFrWwAA9I6V.jpg",
+						"url": "https://t.co/z8hqlK4hxs",
+						"display_url": "pic.twitter.com/z8hqlK4hxs",
+						"expanded_url": "https://twitter.com/spenley/status/1143578527935193088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1143578491457278000,
+						"id_str": "1143578491457277954",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/D97OlDwWkAIPM8L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D97OlDwWkAIPM8L.jpg",
+						"url": "https://t.co/z8hqlK4hxs",
+						"display_url": "pic.twitter.com/z8hqlK4hxs",
+						"expanded_url": "https://twitter.com/spenley/status/1143578527935193088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1143578507617939500,
+						"id_str": "1143578507617939456",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/D97Ol_9WsAAMCRy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D97Ol_9WsAAMCRy.jpg",
+						"url": "https://t.co/z8hqlK4hxs",
+						"display_url": "pic.twitter.com/z8hqlK4hxs",
+						"expanded_url": "https://twitter.com/spenley/status/1143578527935193088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 506,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1524,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 893,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21397708,
+				"id_str": "21397708",
+				"name": "Spencer Kelly",
+				"screen_name": "spenley",
+				"location": "UK",
+				"description": "Lead presenter of @BBCClick. Doctor. Scientist. 'Runs like a gazelle': @tonyblackburn. Lack of planning on your part does not constitute an emergency on my part",
+				"url": "https://t.co/MblvHbIit3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MblvHbIit3",
+								"expanded_url": "http://www.spencerkelly.com",
+								"display_url": "spencerkelly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32030,
+				"friends_count": 472,
+				"listed_count": 495,
+				"created_at": "Fri Feb 20 13:57:06 +0000 2009",
+				"favourites_count": 4287,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9780,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072844419865501697/9qHwiIlm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072844419865501697/9qHwiIlm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21397708/1522667154",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 75,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I suspect next week's 1000th #BBCClick will be something special ... not that *every* episode isn't special of course!\n\nSunday evening meal with Click has become over the last 16 years somewhat of a delightfully informative, cynicism-free ritual for me. Long may it continue👍 https://t.co/IrDnRRlV7r"
+	},
+	{
 		"created_at": "Tue Jun 25 18:36:09 +0000 2019",
 		"id": 1143505979595722800,
 		"id_str": "1143588708479881216",
