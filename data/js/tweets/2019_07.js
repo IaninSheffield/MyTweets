@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 31 22:24:08 +0000 2019",
+		"id": 1156692044242456600,
+		"id_str": "1156692044242456576",
+		"full_text": "Woohoo!\n\"First book\" I like that. More to come then. https://t.co/p6lgxzpGip",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p6lgxzpGip",
+					"expanded_url": "https://twitter.com/Rach_Handforth/status/1156104142391250945",
+					"display_url": "twitter.com/Rach_Handforth…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3248,
+			"friends_count": 3817,
+			"listed_count": 203,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1156104142391251000,
+		"quoted_status_id_str": "1156104142391250945",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p6lgxzpGip",
+			"expanded": "https://twitter.com/Rach_Handforth/status/1156104142391250945",
+			"display": "twitter.com/Rach_Handforth…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 30 07:28:01 +0000 2019",
+			"id": 1156104142391251000,
+			"id_str": "1156104142391250945",
+			"full_text": "Some exciting news to share- I'll be publishing my first book entitled 'Belonging, Gender and Identity in Early Career Academia: Across Theory and Space' with @PalgraveEducate in 2021 as part of the Gender &amp; Education book series. Can't wait to see it in print!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PalgraveEducate",
+						"name": "Palgrave Education",
+						"id": 122411538,
+						"id_str": "122411538",
+						"indices": [
+							159,
+							175
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119696660,
+				"id_str": "119696660",
+				"name": "Dr Rachel Handforth",
+				"screen_name": "Rach_Handforth",
+				"location": "Sheffield and Cambridge",
+				"description": "Research & Evaluation Manager for @CRACCareers @vitae_news. Feminist, mediocre musician, reluctant runner. PhD on gender and doctoral experiences. Views my own.",
+				"url": "https://t.co/N4OQaDHwqc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N4OQaDHwqc",
+								"expanded_url": "https://rachelhandforth.wordpress.com/",
+								"display_url": "rachelhandforth.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 978,
+				"friends_count": 1105,
+				"listed_count": 23,
+				"created_at": "Thu Mar 04 11:11:39 +0000 2010",
+				"favourites_count": 2162,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6739,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/694110959800033280/b4HsN5D9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/694110959800033280/b4HsN5D9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119696660/1435740543",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 260,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Woohoo!\n\"First book\" I like that. More to come then. https://t.co/p6lgxzpGip"
+	},
+	{
 		"created_at": "Mon Jul 22 20:16:11 +0000 2019",
 		"id": 1153398353293717500,
 		"id_str": "1153398353293717504",
