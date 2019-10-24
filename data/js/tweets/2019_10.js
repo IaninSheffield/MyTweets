@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 23 21:22:23 +0000 2019",
+		"id": 1187117085220098000,
+		"id_str": "1187117085220098052",
+		"full_text": "Well I never! https://t.co/WzbWwollol",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WzbWwollol",
+					"expanded_url": "https://twitter.com/engineeringvids/status/1185566547722395648",
+					"display_url": "twitter.com/engineeringvid…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3247,
+			"friends_count": 3808,
+			"listed_count": 196,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185566547722395600,
+		"quoted_status_id_str": "1185566547722395648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WzbWwollol",
+			"expanded": "https://twitter.com/engineeringvids/status/1185566547722395648",
+			"display": "twitter.com/engineeringvid…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 19 14:41:06 +0000 2019",
+			"id": 1185566547722395600,
+			"id_str": "1185566547722395648",
+			"full_text": "How to effectively slice a pomegranate https://t.co/WdeQwvqeMF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1185563593774731300,
+						"id_str": "1185563593774731266",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1185563593774731266/pu/img/pVNFATT3cRCKJRpT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1185563593774731266/pu/img/pVNFATT3cRCKJRpT.jpg",
+						"url": "https://t.co/WdeQwvqeMF",
+						"display_url": "pic.twitter.com/WdeQwvqeMF",
+						"expanded_url": "https://twitter.com/engineeringvids/status/1185566547722395648/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1185563593774731300,
+						"id_str": "1185563593774731266",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1185563593774731266/pu/img/pVNFATT3cRCKJRpT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1185563593774731266/pu/img/pVNFATT3cRCKJRpT.jpg",
+						"url": "https://t.co/WdeQwvqeMF",
+						"display_url": "pic.twitter.com/WdeQwvqeMF",
+						"expanded_url": "https://twitter.com/engineeringvids/status/1185566547722395648/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 24433,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1185563593774731266/pu/pl/ymB86nhz_rPeglWg.m3u8?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1185563593774731266/pu/vid/320x400/8xcZYaG-aIqdv90e.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1185563593774731266/pu/vid/360x450/eMj5HqyqgGbmMnp4.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1185563593774731266/pu/vid/640x800/j7UAaY-j4irDHHYt.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1149159932777730000,
+				"id_str": "1149159932777730048",
+				"name": "Engineering",
+				"screen_name": "engineeringvids",
+				"location": "",
+				"description": "It's all about the engineering.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 198122,
+				"friends_count": 4214,
+				"listed_count": 411,
+				"created_at": "Thu Jul 11 03:34:13 +0000 2019",
+				"favourites_count": 140,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 234,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1153902592763678722/vMAqm8lK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153902592763678722/vMAqm8lK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1149159932777730048/1563947843",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24218,
+			"favorite_count": 112695,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well I never! https://t.co/WzbWwollol"
+	},
+	{
 		"created_at": "Tue Oct 22 07:33:51 +0000 2019",
 		"id": 1186546192513224700,
 		"id_str": "1186546192513224704",
