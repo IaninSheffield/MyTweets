@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 29 19:58:07 +0000 2019",
+		"id": 1200485802406367200,
+		"id_str": "1200504230903189505",
+		"full_text": "Group Chat Rules https://t.co/PzD87ubw05 https://t.co/fOVcIEpGKo https://t.co/33dEDcf5BA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PzD87ubw05",
+					"expanded_url": "https://xkcd.com/2235/",
+					"display_url": "xkcd.com/2235/",
+					"indices": [
+						17,
+						40
+					]
+				},
+				{
+					"url": "https://t.co/fOVcIEpGKo",
+					"expanded_url": "https://m.xkcd.com/2235/",
+					"display_url": "m.xkcd.com/2235/",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200485801018019800,
+					"id_str": "1200485801018019841",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EKj7eb-UUAEWi5W.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKj7eb-UUAEWi5W.png",
+					"url": "https://t.co/33dEDcf5BA",
+					"display_url": "pic.twitter.com/33dEDcf5BA",
+					"expanded_url": "https://twitter.com/xkcdComic/status/1200485802406367232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 392,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 392,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 392,
+							"h": 619,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 127,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 127,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 127,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 127,
+									"h": 83,
+									"w": 83
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200485801018019800,
+					"id_str": "1200485801018019841",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EKj7eb-UUAEWi5W.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKj7eb-UUAEWi5W.png",
+					"url": "https://t.co/33dEDcf5BA",
+					"display_url": "pic.twitter.com/33dEDcf5BA",
+					"expanded_url": "https://twitter.com/xkcdComic/status/1200485802406367232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 392,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 392,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 392,
+							"h": 619,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 127,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 127,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 127,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 127,
+									"h": 83,
+									"w": 83
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://dghubble.com\" rel=\"nofollow\">xkcdComic</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2251623492,
+			"id_str": "2251623492",
+			"name": "XKCD Comic",
+			"screen_name": "xkcdComic",
+			"location": "",
+			"description": "XKCD comic feed with images, mobile friendly links, and what-if articles. Unofficial, run by @dghubble",
+			"url": "http://t.co/Tca90xyNDW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Tca90xyNDW",
+							"expanded_url": "http://xkcd.com",
+							"display_url": "xkcd.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249548,
+			"friends_count": 1,
+			"listed_count": 2787,
+			"created_at": "Wed Dec 18 08:00:58 +0000 2013",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 437,
+		"favorite_count": 1579,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Group Chat Rules https://t.co/PzD87ubw05 https://t.co/fOVcIEpGKo https://t.co/33dEDcf5BA"
+	},
+	{
 		"created_at": "Sat Nov 23 09:59:15 +0000 2019",
 		"id": 1198179194141859800,
 		"id_str": "1198179194141859841",
