@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 23:24:58 +0000 2020",
+		"id": 1247124335611052000,
+		"id_str": "1247666707562467328",
+		"full_text": "“You’ll be pleased to know that we consider both the Tooth Fairy and the Easter Bunny to be essential workers.”\n\nJacinda Arden giving a masterclass in how to be a great political leader in the time of crisis. 👏🏻 🐰 🧚‍♀️ \n\nhttps://t.co/pSBb9iEjIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247035631517102000,
+					"id_str": "1247035631517102081",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247035631517102081/pu/img/vwD8Q62hmbnSjdGG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247035631517102081/pu/img/vwD8Q62hmbnSjdGG.jpg",
+					"url": "https://t.co/pSBb9iEjIV",
+					"display_url": "pic.twitter.com/pSBb9iEjIV",
+					"expanded_url": "https://twitter.com/KloppGoff/status/1247035747061751809/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 858,
+							"h": 482,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 858,
+							"h": 482,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1247035747061751800,
+					"source_status_id_str": "1247035747061751809",
+					"source_user_id": 1090689308,
+					"source_user_id_str": "1090689308"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247035631517102000,
+					"id_str": "1247035631517102081",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247035631517102081/pu/img/vwD8Q62hmbnSjdGG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247035631517102081/pu/img/vwD8Q62hmbnSjdGG.jpg",
+					"url": "https://t.co/pSBb9iEjIV",
+					"display_url": "pic.twitter.com/pSBb9iEjIV",
+					"expanded_url": "https://twitter.com/KloppGoff/status/1247035747061751809/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 858,
+							"h": 482,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 858,
+							"h": 482,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1247035747061751800,
+					"source_status_id_str": "1247035747061751809",
+					"source_user_id": 1090689308,
+					"source_user_id_str": "1090689308",
+					"video_info": {
+						"aspect_ratio": [
+							429,
+							241
+						],
+						"duration_millis": 63567,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247035631517102081/pu/vid/858x482/5x-g_FfHLzW0pcK0.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1247035631517102081/pu/pl/jLaRlexT5COA17Ei.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247035631517102081/pu/vid/640x360/y0HqfzlJnpuedrGe.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247035631517102081/pu/vid/480x270/Xax6FXHTgW68EDT0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1090689308,
+							"id_str": "1090689308",
+							"name": "Andrew",
+							"screen_name": "KloppGoff",
+							"location": "",
+							"description": "Sport, craft beer & caffeine. Wgtn Phoenix, Hearts and #LFC fan (founder & Chair of @LFCWellington) @AnfieldIndex Aus/NZ pod @CricIndex",
+							"url": "https://t.co/zJFZZcfSU1",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/zJFZZcfSU1",
+											"expanded_url": "http://www.lfcwellington.co.nz/aboutus/",
+											"display_url": "lfcwellington.co.nz/aboutus/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1517,
+							"friends_count": 1201,
+							"listed_count": 27,
+							"created_at": "Tue Jan 15 01:25:33 +0000 2013",
+							"favourites_count": 14863,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 42981,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1113360898985385985/qrVa4iFa_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113360898985385985/qrVa4iFa_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1090689308/1558331943",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19855612,
+			"id_str": "19855612",
+			"name": "Liam Beattie",
+			"screen_name": "Liam_Beattie",
+			"location": "London via Edinburgh",
+			"description": "Comms Officer @thtorguk | Senior Press @PrideinLondon | Runs | Personal musings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5737,
+			"friends_count": 1533,
+			"listed_count": 109,
+			"created_at": "Sun Feb 01 12:44:53 +0000 2009",
+			"favourites_count": 15708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245770053485842434/Tny7Fq-7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245770053485842434/Tny7Fq-7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19855612/1563037898",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "08be9e4ebe3d037d",
+			"url": "https://api.twitter.com/1.1/geo/id/08be9e4ebe3d037d.json",
+			"place_type": "city",
+			"name": "Poplar",
+			"full_name": "Poplar, London",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.080028,
+							51.48432
+						],
+						[
+							0.009989,
+							51.48432
+						],
+						[
+							0.009989,
+							51.545341
+						],
+						[
+							-0.080028,
+							51.545341
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 258,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“You’ll be pleased to know that we consider both the Tooth Fairy and the Easter Bunny to be essential workers.”\n\nJacinda Arden giving a masterclass in how to be a great political leader in the time of crisis. 👏🏻 🐰 🧚‍♀️ \n\nhttps://t.co/pSBb9iEjIV"
+	},
+	{
 		"created_at": "Mon Apr 06 18:19:15 +0000 2020",
 		"id": 1247227382517452800,
 		"id_str": "1247227382517452800",
