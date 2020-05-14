@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 20:14:44 +0000 2020",
+		"id": 1260314948833407000,
+		"id_str": "1260664797374427137",
+		"full_text": "👀 1.8m downloads?? 🤯 I guess Palgrave making our book free to download really helped its popularity! 🤣 It’s still free at https://t.co/Pn7V7gPfAr !! Now, everyone that downloaded it just needs to cite it and we’ll really be cooking. 🤓 https://t.co/wCV3Rys3CH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pn7V7gPfAr",
+					"expanded_url": "https://link.springer.com/book/10.1007/978-3-030-05900-2",
+					"display_url": "link.springer.com/book/10.1007/9…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260314944752451600,
+					"id_str": "1260314944752451586",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EX2Jw8sWAAI9vyh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX2Jw8sWAAI9vyh.jpg",
+					"url": "https://t.co/wCV3Rys3CH",
+					"display_url": "pic.twitter.com/wCV3Rys3CH",
+					"expanded_url": "https://twitter.com/KamdenStrunk/status/1260314948833406976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 306,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 306,
+							"h": 458,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260314944752451600,
+					"id_str": "1260314944752451586",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EX2Jw8sWAAI9vyh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX2Jw8sWAAI9vyh.jpg",
+					"url": "https://t.co/wCV3Rys3CH",
+					"display_url": "pic.twitter.com/wCV3Rys3CH",
+					"expanded_url": "https://twitter.com/KamdenStrunk/status/1260314948833406976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 306,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 306,
+							"h": 458,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260314944752562200,
+					"id_str": "1260314944752562176",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EX2Jw8sXsAAidmQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX2Jw8sXsAAidmQ.jpg",
+					"url": "https://t.co/wCV3Rys3CH",
+					"display_url": "pic.twitter.com/wCV3Rys3CH",
+					"expanded_url": "https://twitter.com/KamdenStrunk/status/1260314948833406976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 136,
+							"h": 138,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 136,
+							"h": 138,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 136,
+							"h": 136,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 136,
+							"h": 138,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2897933633,
+			"id_str": "2897933633",
+			"name": "Kamden Strunk",
+			"screen_name": "KamdenStrunk",
+			"location": "Auburn, AL",
+			"description": "Kamden Strunk is an Associate Professor of Educational Research at Auburn University. He studies LGBTQ issues, social justice in education, and motivation.",
+			"url": "https://t.co/rc3es9LFjj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rc3es9LFjj",
+							"expanded_url": "https://link.springer.com/book/10.1007/978-3-030-05900-2",
+							"display_url": "link.springer.com/book/10.1007/9…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 328,
+			"friends_count": 230,
+			"listed_count": 6,
+			"created_at": "Sat Nov 29 19:27:32 +0000 2014",
+			"favourites_count": 1036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205517670969425920/Zn8S_LVY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205517670969425920/Zn8S_LVY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2897933633/1513175063",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "👀 1.8m downloads?? 🤯 I guess Palgrave making our book free to download really helped its popularity! 🤣 It’s still free at https://t.co/Pn7V7gPfAr !! Now, everyone that downloaded it just needs to cite it and we’ll really be cooking. 🤓 https://t.co/wCV3Rys3CH"
+	},
+	{
+		"created_at": "Wed May 13 08:50:20 +0000 2020",
+		"id": 1260456227290611700,
+		"id_str": "1260492562940428289",
+		"full_text": "Looking forward to meeting new PGRs virtually at our May @SHUDocSchool induction this afternoon. We'll be offering insights into life as a SHU PhD student &amp; getting to know our new starters #lovePGR #doctoralcommunity",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lovePGR",
+					"indices": [
+						194,
+						202
+					]
+				},
+				{
+					"text": "doctoralcommunity",
+					"indices": [
+						203,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHUDocSchool",
+					"name": "Doctoral School",
+					"id": 3524318957,
+					"id_str": "3524318957",
+					"indices": [
+						57,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2538736911,
+			"id_str": "2538736911",
+			"name": "Dr Nicola Palmer",
+			"screen_name": "NicolaPalmer19",
+			"location": "SheffieldWakefieldYorkHome",
+			"description": "Head of Doctoral Training SHU-Academic UoY-Chair @YorkshireMOS-Volunteer @NCMME-UKCGE Recognised Research Supervisor-SFHEA-Mental Health First Aid Champion-Mum",
+			"url": "https://t.co/A5yCi5Xxbk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A5yCi5Xxbk",
+							"expanded_url": "https://www.linkedin.com/in/dr-nicola-palmer-89b84321/",
+							"display_url": "linkedin.com/in/dr-nicola-p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 159,
+			"listed_count": 27,
+			"created_at": "Sat May 10 09:36:20 +0000 2014",
+			"favourites_count": 4774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049357936416497664/Vs5tt09G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049357936416497664/Vs5tt09G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2538736911/1558123408",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Looking forward to meeting new PGRs virtually at our May @SHUDocSchool induction this afternoon. We'll be offering insights into life as a SHU PhD student &amp; getting to know our new starters #lovePGR #doctoralcommunity"
+	},
+	{
+		"created_at": "Wed May 13 05:29:45 +0000 2020",
+		"id": 1260442083762020400,
+		"id_str": "1260442083762020353",
+		"full_text": "@largerama @mesterman @JenniferMac80 How closely would you say it comes to describing your experience?",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "largerama",
+					"name": "Nick Jackson",
+					"id": 82992519,
+					"id_str": "82992519",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "mesterman",
+					"name": "мαтт єѕтєямαη",
+					"id": 14906194,
+					"id_str": "14906194",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "JenniferMac80",
+					"name": "Jennifer Macdonald",
+					"id": 388036752,
+					"id_str": "388036752",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1260364606641287200,
+		"in_reply_to_status_id_str": "1260364606641287170",
+		"in_reply_to_user_id": 82992519,
+		"in_reply_to_user_id_str": "82992519",
+		"in_reply_to_screen_name": "largerama",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3215,
+			"friends_count": 3800,
+			"listed_count": 193,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@largerama @mesterman @JenniferMac80 How closely would you say it comes to describing your experience?"
+	},
+	{
 		"created_at": "Mon May 11 19:12:42 +0000 2020",
 		"id": 1259924412469514200,
 		"id_str": "1259924412469514241",
