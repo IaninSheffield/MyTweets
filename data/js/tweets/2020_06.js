@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 16:04:05 +0000 2020",
+		"id": 1271452603738710000,
+		"id_str": "1271473353732259841",
+		"full_text": "A great opportunity for @sheffhallamuni graduates looking to work with young people. Play your part in helping Y10 students to transition back into #Sheffield school life as a paid @SYorksFutures Graduate Mentor https://t.co/q1RQlGPZBB https://t.co/JeHmojoEbW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sheffield",
+					"indices": [
+						148,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sheffhallamuni",
+					"name": "Sheffield Hallam University",
+					"id": 20593971,
+					"id_str": "20593971",
+					"indices": [
+						24,
+						39
+					]
+				},
+				{
+					"screen_name": "SYorksFutures",
+					"name": "South Yorkshire Futures",
+					"id": 988067126559821800,
+					"id_str": "988067126559821824",
+					"indices": [
+						181,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q1RQlGPZBB",
+					"expanded_url": "https://bit.ly/2zqnSsm",
+					"display_url": "bit.ly/2zqnSsm",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271452414361710600,
+					"id_str": "1271452414361710592",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUbPALXsAAwS2l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUbPALXsAAwS2l.jpg",
+					"url": "https://t.co/JeHmojoEbW",
+					"display_url": "pic.twitter.com/JeHmojoEbW",
+					"expanded_url": "https://twitter.com/JamesBSHU/status/1271452603738710017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271452414361710600,
+					"id_str": "1271452414361710592",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUbPALXsAAwS2l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUbPALXsAAwS2l.jpg",
+					"url": "https://t.co/JeHmojoEbW",
+					"display_url": "pic.twitter.com/JeHmojoEbW",
+					"expanded_url": "https://twitter.com/JamesBSHU/status/1271452603738710017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3039475067,
+			"id_str": "3039475067",
+			"name": "James Beighton",
+			"screen_name": "JamesBSHU",
+			"location": "Sheffield",
+			"description": "Employer Partnerships Officer, Student Employment @sheffhallamuni. Providing students with jobs & companies with talent. Executive Board Member @NASESStudent",
+			"url": "https://t.co/DkfwXC3Gai",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DkfwXC3Gai",
+							"expanded_url": "https://careerservice.shu.ac.uk/",
+							"display_url": "careerservice.shu.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1174,
+			"friends_count": 1820,
+			"listed_count": 24,
+			"created_at": "Sun Feb 15 18:47:42 +0000 2015",
+			"favourites_count": 2448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940172495277064192/jesPOpvo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940172495277064192/jesPOpvo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3039475067/1581943791",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A great opportunity for @sheffhallamuni graduates looking to work with young people. Play your part in helping Y10 students to transition back into #Sheffield school life as a paid @SYorksFutures Graduate Mentor https://t.co/q1RQlGPZBB https://t.co/JeHmojoEbW"
+	},
+	{
 		"created_at": "Sun Jun 07 09:28:02 +0000 2020",
 		"id": 1269423595236675600,
 		"id_str": "1269561745703665667",
