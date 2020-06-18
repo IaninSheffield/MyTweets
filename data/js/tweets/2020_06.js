@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 18:04:09 +0000 2020",
+		"id": 1273297420441415700,
+		"id_str": "1273315512391475206",
+		"full_text": "Reading is important for wellbeing and opening libraries earlier would help children who currently cannot go to school.\n\nPlease get our libraries Covid secure and open before next lockdown review, which is still two weeks away!\n#teamenglish\n#readingcommunity \n#reading",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "teamenglish",
+					"indices": [
+						228,
+						240
+					]
+				},
+				{
+					"text": "readingcommunity",
+					"indices": [
+						241,
+						258
+					]
+				},
+				{
+					"text": "reading",
+					"indices": [
+						260,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1273297417899819000,
+		"in_reply_to_status_id_str": "1273297417899819013",
+		"in_reply_to_user_id": 1148958238626521100,
+		"in_reply_to_user_id_str": "1148958238626521088",
+		"in_reply_to_screen_name": "Jonesteaching",
+		"user": {
+			"id": 1148958238626521100,
+			"id_str": "1148958238626521088",
+			"name": "Paula Jones",
+			"screen_name": "Jonesteaching",
+			"location": "",
+			"description": "Education | Teach First | English | CCCU | Open University | Book worm |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 687,
+			"listed_count": 0,
+			"created_at": "Wed Jul 10 14:12:45 +0000 2019",
+			"favourites_count": 1156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244250966800715776/8mlRn_C5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244250966800715776/8mlRn_C5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1148958238626521088/1592068379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Reading is important for wellbeing and opening libraries earlier would help children who currently cannot go to school.\n\nPlease get our libraries Covid secure and open before next lockdown review, which is still two weeks away!\n#teamenglish\n#readingcommunity \n#reading"
+	},
+	{
 		"created_at": "Mon Jun 15 19:54:59 +0000 2020",
 		"id": 1272618627070595000,
 		"id_str": "1272618627070595084",
