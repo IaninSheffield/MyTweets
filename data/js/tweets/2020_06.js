@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 21 20:50:54 +0000 2020",
+		"id": 1274665991193190400,
+		"id_str": "1274807027089448960",
+		"full_text": "It's a seed but its growing! #GROW @SHU_SIoE @SueOBrien19 @conmossy  @IaninSheffield @FrankWNorris https://t.co/gio9eqVxNB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GROW",
+					"indices": [
+						29,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHU_SIoE",
+					"name": "SHU_SIoE",
+					"id": 1933610330,
+					"id_str": "1933610330",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"screen_name": "SueOBrien19",
+					"name": "Sue O'Brien",
+					"id": 1283185682,
+					"id_str": "1283185682",
+					"indices": [
+						45,
+						57
+					]
+				},
+				{
+					"screen_name": "conmossy",
+					"name": "Conor Moss",
+					"id": 263143834,
+					"id_str": "263143834",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"screen_name": "IaninSheffield",
+					"name": "Ian Guest",
+					"id": 21324520,
+					"id_str": "21324520",
+					"indices": [
+						69,
+						84
+					]
+				},
+				{
+					"screen_name": "FrankWNorris",
+					"name": "Frank Norris",
+					"id": 925309022751854600,
+					"id_str": "925309022751854592",
+					"indices": [
+						85,
+						98
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274665227460784000,
+					"id_str": "1274665227460784130",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EbCFRVpXsAItqmC.png",
+					"media_url_https": "https://pbs.twimg.com/media/EbCFRVpXsAItqmC.png",
+					"url": "https://t.co/gio9eqVxNB",
+					"display_url": "pic.twitter.com/gio9eqVxNB",
+					"expanded_url": "https://twitter.com/dead_of_night/status/1274665991193190400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 716,
+							"h": 591,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 591,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274665227460784000,
+					"id_str": "1274665227460784130",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EbCFRVpXsAItqmC.png",
+					"media_url_https": "https://pbs.twimg.com/media/EbCFRVpXsAItqmC.png",
+					"url": "https://t.co/gio9eqVxNB",
+					"display_url": "pic.twitter.com/gio9eqVxNB",
+					"expanded_url": "https://twitter.com/dead_of_night/status/1274665991193190400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 716,
+							"h": 591,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 591,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21296925,
+			"id_str": "21296925",
+			"name": "Richard Pountney",
+			"screen_name": "dead_of_night",
+			"location": "Sheffield",
+			"description": "Researching curriculum, open education and design for learning. Interested in sociology of education, especially social realism and code theory.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 442,
+			"friends_count": 364,
+			"listed_count": 13,
+			"created_at": "Thu Feb 19 13:19:31 +0000 2009",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/105456193/treeclimber_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/105456193/treeclimber_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21296925/1415282176",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's a seed but its growing! #GROW @SHU_SIoE @SueOBrien19 @conmossy  @IaninSheffield @FrankWNorris https://t.co/gio9eqVxNB"
+	},
+	{
 		"created_at": "Thu Jun 18 21:19:58 +0000 2020",
 		"id": 1273727177457008600,
 		"id_str": "1273727177457008640",
