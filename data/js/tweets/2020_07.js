@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 20:23:01 +0000 2020",
+		"id": 1280926346672251000,
+		"id_str": "1280960603717279746",
+		"full_text": "Another depiction of levels of risk for a range of activities plus good list of risk factors. Compiled from several sources. https://t.co/DLJM5w2r22",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280926341991403500,
+					"id_str": "1280926341991403520",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EcbDuK3WkAAOREw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcbDuK3WkAAOREw.jpg",
+					"url": "https://t.co/DLJM5w2r22",
+					"display_url": "pic.twitter.com/DLJM5w2r22",
+					"expanded_url": "https://twitter.com/laoneill111/status/1280926346672250882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280926341991403500,
+					"id_str": "1280926341991403520",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EcbDuK3WkAAOREw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcbDuK3WkAAOREw.jpg",
+					"url": "https://t.co/DLJM5w2r22",
+					"display_url": "pic.twitter.com/DLJM5w2r22",
+					"expanded_url": "https://twitter.com/laoneill111/status/1280926346672250882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 584554426,
+			"id_str": "584554426",
+			"name": "Luke O'Neill",
+			"screen_name": "laoneill111",
+			"location": "Dublin, Ireland",
+			"description": "Immunologist",
+			"url": "https://t.co/xr5VtIvC2u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xr5VtIvC2u",
+							"expanded_url": "https://www.tcd.ie/Biochemistry/people/laoneill/",
+							"display_url": "tcd.ie/Biochemistry/p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33283,
+			"friends_count": 127,
+			"listed_count": 169,
+			"created_at": "Sat May 19 08:01:40 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261950349507780608/DXb4QOH6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261950349507780608/DXb4QOH6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/584554426/1565277843",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 427,
+		"favorite_count": 928,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another depiction of levels of risk for a range of activities plus good list of risk factors. Compiled from several sources. https://t.co/DLJM5w2r22"
+	},
+	{
+		"created_at": "Wed Jul 08 14:19:43 +0000 2020",
+		"id": 1245361718689218600,
+		"id_str": "1280869174269665281",
+		"full_text": "I had an article published in Visual Communication but didn't tweet it at the time due to the digital picket. \nIt is about employing artistic responses to sensory data in order to resist established discourses. It has also got some pics in it. It's here:\nhttps://t.co/dnotWXGaVS https://t.co/0QwO8zkb9i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dnotWXGaVS",
+					"expanded_url": "https://journals.sagepub.com/doi/10.1177/1470357220904384",
+					"display_url": "journals.sagepub.com/doi/10.1177/14…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245360900439183400,
+					"id_str": "1245360900439183362",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhpJAfWkAIaWJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhpJAfWkAIaWJ5.jpg",
+					"url": "https://t.co/0QwO8zkb9i",
+					"display_url": "pic.twitter.com/0QwO8zkb9i",
+					"expanded_url": "https://twitter.com/drchrisjbailey/status/1245361718689218561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1902,
+							"h": 1429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245360900439183400,
+					"id_str": "1245360900439183362",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhpJAfWkAIaWJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhpJAfWkAIaWJ5.jpg",
+					"url": "https://t.co/0QwO8zkb9i",
+					"display_url": "pic.twitter.com/0QwO8zkb9i",
+					"expanded_url": "https://twitter.com/drchrisjbailey/status/1245361718689218561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1902,
+							"h": 1429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149595237343359000,
+			"id_str": "1149595237343358976",
+			"name": "Chris Bailey",
+			"screen_name": "drchrisjbailey",
+			"location": "Sheffield Hallam",
+			"description": "Lecturer in edu. film photos, music... Also obsessed with some fairly specific things, which soon become evident... late dx #actuallyautistic (he/him) Ⓥ",
+			"url": "https://t.co/3G6mVcmvvn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3G6mVcmvvn",
+							"expanded_url": "http://drchrisjbailey.wordpress.com",
+							"display_url": "drchrisjbailey.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 229,
+			"friends_count": 347,
+			"listed_count": 1,
+			"created_at": "Fri Jul 12 08:23:57 +0000 2019",
+			"favourites_count": 2547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232001475649380353/IKfV3xSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232001475649380353/IKfV3xSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1149595237343358976/1562926192",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I had an article published in Visual Communication but didn't tweet it at the time due to the digital picket. \nIt is about employing artistic responses to sensory data in order to resist established discourses. It has also got some pics in it. It's here:\nhttps://t.co/dnotWXGaVS https://t.co/0QwO8zkb9i"
+	},
+	{
 		"created_at": "Sun Jul 05 19:11:30 +0000 2020",
 		"id": 1279855439568568300,
 		"id_str": "1279855439568568323",
