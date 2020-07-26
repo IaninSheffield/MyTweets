@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 25 19:51:22 +0000 2020",
+		"id": 1287070453421478000,
+		"id_str": "1287113232491130880",
+		"full_text": "Peer review does not mean research is faultless, neither does it mean it isn’t partisan. It means that it is seen as worthy to be published, that’s it. Once published, that’s when the real review starts, open access means it is judged by a far wider audience 1/3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 473036267,
+			"id_str": "473036267",
+			"name": "Prof Damien Page",
+			"screen_name": "damien_page",
+			"location": "Leeds",
+			"description": "Dean of Carnegie School of Education, Leeds Beckett University. Currently researching family engagement in Alternative Provision",
+			"url": "https://t.co/9AWPpW0p3M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9AWPpW0p3M",
+							"expanded_url": "http://www.leedsbeckett.ac.uk/staff/professor-damien-page/",
+							"display_url": "leedsbeckett.ac.uk/staff/professo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7888,
+			"friends_count": 7307,
+			"listed_count": 53,
+			"created_at": "Tue Jan 24 15:36:58 +0000 2012",
+			"favourites_count": 8448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862647198206619648/0c91Qrzn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862647198206619648/0c91Qrzn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/473036267/1454968665",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Peer review does not mean research is faultless, neither does it mean it isn’t partisan. It means that it is seen as worthy to be published, that’s it. Once published, that’s when the real review starts, open access means it is judged by a far wider audience 1/3"
+	},
+	{
 		"created_at": "Tue Jul 21 16:31:49 +0000 2020",
 		"id": 1285613462383669200,
 		"id_str": "1285613462383669248",
