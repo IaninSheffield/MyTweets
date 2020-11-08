@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 19:24:37 +0000 2020",
+		"id": 1325157223694274600,
+		"id_str": "1325157223694274560",
+		"full_text": "Delighted that @hmtk is contributing a thinkpiece ('Data harms and inequalities') to the 'Why Talk About Data (in Education)?' Colloquium\n#DDDExhibition\nFor a link to register &amp; view the panel discussion, see the tweet below. https://t.co/kwXZbYD1bz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DDDExhibition",
+					"indices": [
+						138,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hmtk",
+					"name": "hmtk",
+					"id": 17364155,
+					"id_str": "17364155",
+					"indices": [
+						15,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kwXZbYD1bz",
+					"expanded_url": "https://twitter.com/IaninSheffield/status/1321549027121471490",
+					"display_url": "twitter.com/IaninSheffield…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3184,
+			"friends_count": 3802,
+			"listed_count": 195,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321549027121471500,
+		"quoted_status_id_str": "1321549027121471490",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kwXZbYD1bz",
+			"expanded": "https://twitter.com/IaninSheffield/status/1321549027121471490",
+			"display": "twitter.com/IaninSheffield…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 28 20:26:55 +0000 2020",
+			"id": 1321549027121471500,
+			"id_str": "1321549027121471490",
+			"full_text": "DOING DATA DIFFERENTLY\nAn online colloquium to generate debate about the role and purpose of data in education. 12th - 19th Nov.\nMore details and registration link (free) at\nhttps://t.co/rZ3KY6OdWo https://t.co/S0Q15NkAhw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rZ3KY6OdWo",
+						"expanded_url": "https://blogs.shu.ac.uk/doingdatadifferently/events/#colloquium",
+						"display_url": "blogs.shu.ac.uk/doingdatadiffe…",
+						"indices": [
+							174,
+							197
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1321548054915371000,
+						"id_str": "1321548054915371010",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/ElcU9D7W0AIpELJ.png",
+						"media_url_https": "https://pbs.twimg.com/media/ElcU9D7W0AIpELJ.png",
+						"url": "https://t.co/S0Q15NkAhw",
+						"display_url": "pic.twitter.com/S0Q15NkAhw",
+						"expanded_url": "https://twitter.com/IaninSheffield/status/1321549027121471490/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 672,
+								"h": 820,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 672,
+								"h": 820,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 557,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1321548054915371000,
+						"id_str": "1321548054915371010",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/ElcU9D7W0AIpELJ.png",
+						"media_url_https": "https://pbs.twimg.com/media/ElcU9D7W0AIpELJ.png",
+						"url": "https://t.co/S0Q15NkAhw",
+						"display_url": "pic.twitter.com/S0Q15NkAhw",
+						"expanded_url": "https://twitter.com/IaninSheffield/status/1321549027121471490/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 672,
+								"h": 820,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 672,
+								"h": 820,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 557,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21324520,
+				"id_str": "21324520",
+				"name": "Ian Guest",
+				"screen_name": "IaninSheffield",
+				"location": "Sheffield, Yorkshire",
+				"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+				"url": "https://t.co/SUuFhgyQxD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SUuFhgyQxD",
+								"expanded_url": "https://cpdin140.wordpress.com",
+								"display_url": "cpdin140.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3184,
+				"friends_count": 3802,
+				"listed_count": 195,
+				"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+				"favourites_count": 756,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11571,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DEDAF4",
+				"profile_text_color": "A05D0E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Delighted that @hmtk is contributing a thinkpiece ('Data harms and inequalities') to the 'Why Talk About Data (in Education)?' Colloquium\n#DDDExhibition\nFor a link to register &amp; view the panel discussion, see the tweet below. https://t.co/kwXZbYD1bz"
+	},
+	{
 		"created_at": "Fri Nov 06 19:57:47 +0000 2020",
 		"id": 1324803185920364500,
 		"id_str": "1324803185920364545",
