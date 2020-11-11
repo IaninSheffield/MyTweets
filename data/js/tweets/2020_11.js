@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 15:13:35 +0000 2020",
+		"id": 1326181213967691800,
+		"id_str": "1326181213967691776",
+		"full_text": "@Rach_Handforth @drchrisjbailey @DrNickRM @peeppeepeep @colin_mccaig @MarkBoylanEd @SHannamSwain Robinson, S. &amp; the Miracles, (1968). *I SECOND THAT EMOTION*. In Robinson, S., Holland, B., Dozier, L. &amp;  Wilson F. Greatest Hits, Vol. 2. (pp Tr3, S1). Tamla: Motown Records.",
+		"truncated": false,
+		"display_text_range": [
+			97,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rach_Handforth",
+					"name": "Dr Rachel Handforth",
+					"id": 119696660,
+					"id_str": "119696660",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "drchrisjbailey",
+					"name": "Chris Bailey",
+					"id": 1149595237343359000,
+					"id_str": "1149595237343358976",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "DrNickRM",
+					"name": "Dr Nicholas Marshall",
+					"id": 2803369512,
+					"id_str": "2803369512",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"screen_name": "peeppeepeep",
+					"name": "her echo",
+					"id": 21995247,
+					"id_str": "21995247",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "colin_mccaig",
+					"name": "Colin McCaig",
+					"id": 2902623891,
+					"id_str": "2902623891",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"screen_name": "MarkBoylanEd",
+					"name": "Mark Boylan",
+					"id": 4239537203,
+					"id_str": "4239537203",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"screen_name": "SHannamSwain",
+					"name": "Steph Hannam-Swain 👩🏼‍🦼",
+					"id": 139021931,
+					"id_str": "139021931",
+					"indices": [
+						83,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326161455973011500,
+		"in_reply_to_status_id_str": "1326161455973011458",
+		"in_reply_to_user_id": 119696660,
+		"in_reply_to_user_id_str": "119696660",
+		"in_reply_to_screen_name": "Rach_Handforth",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3182,
+			"friends_count": 3804,
+			"listed_count": 195,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Rach_Handforth @drchrisjbailey @DrNickRM @peeppeepeep @colin_mccaig @MarkBoylanEd @SHannamSwain Robinson, S. &amp; the Miracles, (1968). *I SECOND THAT EMOTION*. In Robinson, S., Holland, B., Dozier, L. &amp;  Wilson F. Greatest Hits, Vol. 2. (pp Tr3, S1). Tamla: Motown Records."
+	},
+	{
+		"created_at": "Tue Nov 10 14:45:43 +0000 2020",
+		"id": 1326131008912171000,
+		"id_str": "1326174202928443392",
+		"full_text": "Institute of Education Studies colleagues at SHU are 🤩 I didn't know much about this field within social sciences until coming to do my PhD (in Art at SHU) but working across disciplines with a supervisor (the great @drchrisjbailey) from that side of things has been 🙌 https://t.co/lSqgrToYdL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drchrisjbailey",
+					"name": "Chris Bailey",
+					"id": 1149595237343359000,
+					"id_str": "1149595237343358976",
+					"indices": [
+						216,
+						231
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lSqgrToYdL",
+					"expanded_url": "https://twitter.com/jenslater_/status/1326125307368263680",
+					"display_url": "twitter.com/jenslater_/sta…",
+					"indices": [
+						269,
+						292
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21995247,
+			"id_str": "21995247",
+			"name": "her echo",
+			"screen_name": "peeppeepeep",
+			"location": "South London",
+			"description": "*  ,  × this work is home ×  ,  *\n\nart, writing, divination, code\n\n(PhD candidate/ GTA SHU, personal tutor RCA)",
+			"url": "https://t.co/WXwgZ5wJ7G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WXwgZ5wJ7G",
+							"expanded_url": "http://www.peepsgame.net",
+							"display_url": "peepsgame.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1332,
+			"friends_count": 1836,
+			"listed_count": 26,
+			"created_at": "Thu Feb 26 10:01:28 +0000 2009",
+			"favourites_count": 56203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "07090B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/757610717793181696/PiZiM0kD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/757610717793181696/PiZiM0kD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21995247/1594659388",
+			"profile_link_color": "C34242",
+			"profile_sidebar_border_color": "BFBFBF",
+			"profile_sidebar_fill_color": "C9C9C9",
+			"profile_text_color": "1C1F23",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326125307368263700,
+		"quoted_status_id_str": "1326125307368263680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lSqgrToYdL",
+			"expanded": "https://twitter.com/jenslater_/status/1326125307368263680",
+			"display": "twitter.com/jenslater_/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 10 11:31:26 +0000 2020",
+			"id": 1326125307368263700,
+			"id_str": "1326125307368263680",
+			"full_text": "PhD funding opportunities in the areas of LGBT, Queer, Trans and/or Disability Studies in with @EleanorFormby and @mannymadriaga - please share widely. I'd encourage applicants to get in touch for a chat about their ideas. More details and links in thread below.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EleanorFormby",
+						"name": "Eleanor Formby",
+						"id": 122067629,
+						"id_str": "122067629",
+						"indices": [
+							95,
+							109
+						]
+					},
+					{
+						"screen_name": "mannymadriaga",
+						"name": "Manny Madriaga",
+						"id": 186753347,
+						"id_str": "186753347",
+						"indices": [
+							114,
+							128
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2915549759,
+				"id_str": "2915549759",
+				"name": "Jen Slater",
+				"screen_name": "jenslater_",
+				"location": "Sheffield Hallam University",
+				"description": "I do queer disability studies @shueducation. Toilet politics @cctoilettalk. Queer trans non-binary parent stuff. Dating reality TV. They/them",
+				"url": "https://t.co/8vuTBYp4lz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8vuTBYp4lz",
+								"expanded_url": "https://www.shu.ac.uk/about-us/our-people/staff-profiles/jenny-slater",
+								"display_url": "shu.ac.uk/about-us/our-p…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3210,
+				"friends_count": 3155,
+				"listed_count": 43,
+				"created_at": "Thu Dec 11 14:15:37 +0000 2014",
+				"favourites_count": 7540,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10241,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1294579489104637956/PO6J-GmM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294579489104637956/PO6J-GmM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2915549759/1587651234",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 134,
+			"favorite_count": 121,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Institute of Education Studies colleagues at SHU are 🤩 I didn't know much about this field within social sciences until coming to do my PhD (in Art at SHU) but working across disciplines with a supervisor (the great @drchrisjbailey) from that side of things has been 🙌 https://t.co/lSqgrToYdL"
+	},
+	{
 		"created_at": "Sat Nov 07 19:24:37 +0000 2020",
 		"id": 1325157223694274600,
 		"id_str": "1325157223694274560",
