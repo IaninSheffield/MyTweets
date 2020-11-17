@@ -1,6 +1,897 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 16 20:30:15 +0000 2020",
+		"id": 1328434414569877500,
+		"id_str": "1328435233318969346",
+		"full_text": "See me talking about how pedagogy, practice, priorities, people and power are all changed by #datafication in #earlyyears and #primary here: \n@HHCP_UCL @IOESociology https://t.co/EfleNU3UbG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "datafication",
+					"indices": [
+						93,
+						106
+					]
+				},
+				{
+					"text": "earlyyears",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"text": "primary",
+					"indices": [
+						126,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HHCP_UCL",
+					"name": "Helen Hamlyn Centre for Pedagogy (0-11 years)",
+					"id": 1003564971949731800,
+					"id_str": "1003564971949731841",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"screen_name": "IOESociology",
+					"name": "Sociology@IOE",
+					"id": 2394196459,
+					"id_str": "2394196459",
+					"indices": [
+						152,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EfleNU3UbG",
+					"expanded_url": "https://twitter.com/IaninSheffield/status/1328397425170669570",
+					"display_url": "twitter.com/IaninSheffield…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 367358127,
+			"id_str": "367358127",
+			"name": "Dr Alice Bradbury",
+			"screen_name": "AliceJBradbury",
+			"location": "London",
+			"description": "Associate Professor of Sociology of Educ at UCL Institute of Ed; co-director @HHCP_UCL :researches policy, datafication & inequality in primary & EY; & mum of 3",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1121,
+			"friends_count": 1058,
+			"listed_count": 9,
+			"created_at": "Sat Sep 03 20:54:36 +0000 2011",
+			"favourites_count": 1281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877092164328620032/Z2uCwURU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877092164328620032/Z2uCwURU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1328397425170669600,
+		"quoted_status_id_str": "1328397425170669570",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EfleNU3UbG",
+			"expanded": "https://twitter.com/IaninSheffield/status/1328397425170669570",
+			"display": "twitter.com/IaninSheffield…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 16 18:00:01 +0000 2020",
+			"id": 1328397425170669600,
+			"id_str": "1328397425170669570",
+			"full_text": "The 5th think piece in our online colloquium ‘Why talk about data (in education)?' is 'The Five Ps of Datafication in Schools' by @AliceJBradbury \nhttps://t.co/wrsGTjeeUK\n\nJoin us on 19th Nov for the panel discussion https://t.co/rZ3KY6OdWo\n#DDDExhibition",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DDDExhibition",
+						"indices": [
+							241,
+							255
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AliceJBradbury",
+						"name": "Dr Alice Bradbury",
+						"id": 367358127,
+						"id_str": "367358127",
+						"indices": [
+							130,
+							145
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wrsGTjeeUK",
+						"expanded_url": "https://www.youtube.com/watch?v=17IGl3uwP40",
+						"display_url": "youtube.com/watch?v=17IGl3…",
+						"indices": [
+							147,
+							170
+						]
+					},
+					{
+						"url": "https://t.co/rZ3KY6OdWo",
+						"expanded_url": "https://blogs.shu.ac.uk/doingdatadifferently/events/#colloquium",
+						"display_url": "blogs.shu.ac.uk/doingdatadiffe…",
+						"indices": [
+							217,
+							240
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21324520,
+				"id_str": "21324520",
+				"name": "Ian Guest",
+				"screen_name": "IaninSheffield",
+				"location": "Sheffield, Yorkshire",
+				"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+				"url": "https://t.co/SUuFhgyQxD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SUuFhgyQxD",
+								"expanded_url": "https://cpdin140.wordpress.com",
+								"display_url": "cpdin140.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3185,
+				"friends_count": 3809,
+				"listed_count": 195,
+				"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+				"favourites_count": 766,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11589,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DEDAF4",
+				"profile_text_color": "A05D0E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "See me talking about how pedagogy, practice, priorities, people and power are all changed by #datafication in #earlyyears and #primary here: \n@HHCP_UCL @IOESociology https://t.co/EfleNU3UbG"
+	},
+	{
+		"created_at": "Mon Nov 16 18:00:01 +0000 2020",
+		"id": 1328397425170669600,
+		"id_str": "1328397425170669570",
+		"full_text": "The 5th think piece in our online colloquium ‘Why talk about data (in education)?' is 'The Five Ps of Datafication in Schools' by @AliceJBradbury \nhttps://t.co/wrsGTjeeUK\n\nJoin us on 19th Nov for the panel discussion https://t.co/rZ3KY6OdWo\n#DDDExhibition",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DDDExhibition",
+					"indices": [
+						241,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AliceJBradbury",
+					"name": "Dr Alice Bradbury",
+					"id": 367358127,
+					"id_str": "367358127",
+					"indices": [
+						130,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wrsGTjeeUK",
+					"expanded_url": "https://www.youtube.com/watch?v=17IGl3uwP40",
+					"display_url": "youtube.com/watch?v=17IGl3…",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/rZ3KY6OdWo",
+					"expanded_url": "https://blogs.shu.ac.uk/doingdatadifferently/events/#colloquium",
+					"display_url": "blogs.shu.ac.uk/doingdatadiffe…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3185,
+			"friends_count": 3809,
+			"listed_count": 195,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 5th think piece in our online colloquium ‘Why talk about data (in education)?' is 'The Five Ps of Datafication in Schools' by @AliceJBradbury \nhttps://t.co/wrsGTjeeUK\n\nJoin us on 19th Nov for the panel discussion https://t.co/rZ3KY6OdWo\n#DDDExhibition"
+	},
+	{
+		"created_at": "Mon Nov 16 16:41:17 +0000 2020",
+		"id": 1328371373748719600,
+		"id_str": "1328377612327137281",
+		"full_text": "Really good. Love the questions at the end\nhttps://t.co/qJhGTuHA0M\n\nThe whole colloquium is really good - I like this model https://t.co/w4588MC9sA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qJhGTuHA0M",
+					"expanded_url": "https://vimeo.com/477734680",
+					"display_url": "vimeo.com/477734680",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/w4588MC9sA",
+					"expanded_url": "https://twitter.com/ianinsheffield/status/1327672645094141955",
+					"display_url": "twitter.com/ianinsheffield…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 232741814,
+			"id_str": "232741814",
+			"name": "Michelle Ciccone",
+			"screen_name": "MMFCiccone",
+			"location": "Boston, MA",
+			"description": "K-12 educator, curriculum designer, researcher • all things digital literacy, media literacy, digital citizenship • https://t.co/3ub4JyJs6a",
+			"url": "https://t.co/UKUVGqT5Nz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UKUVGqT5Nz",
+							"expanded_url": "http://www.linkedin.com/in/michelle-ciccone-a243a320",
+							"display_url": "linkedin.com/in/michelle-ci…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3ub4JyJs6a",
+							"expanded_url": "http://bit.ly/CicconeEdTalk",
+							"display_url": "bit.ly/CicconeEdTalk",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 874,
+			"friends_count": 3997,
+			"listed_count": 35,
+			"created_at": "Sat Jan 01 04:32:30 +0000 2011",
+			"favourites_count": 4595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093318534493552640/yGcNf3Ge_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093318534493552640/yGcNf3Ge_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1327672645094142000,
+		"quoted_status_id_str": "1327672645094141955",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w4588MC9sA",
+			"expanded": "https://twitter.com/ianinsheffield/status/1327672645094141955",
+			"display": "twitter.com/ianinsheffield…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 14 18:00:00 +0000 2020",
+			"id": 1327672645094142000,
+			"id_str": "1327672645094141955",
+			"full_text": "The 3rd think piece in our online colloquium ‘Why talk about data (in education)?':\n'The surprising non-appearance of the datafied school?' by @Neil_Selwyn &amp; @lucipangrazio\nhttps://t.co/uOf3BwbimO\nJoin us on 19th Nov for the panel discussion https://t.co/rZ3KY6OdWo\n#DDDExhibition",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DDDExhibition",
+						"indices": [
+							270,
+							284
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Neil_Selwyn",
+						"name": "Neil Selwyn",
+						"id": 142598896,
+						"id_str": "142598896",
+						"indices": [
+							143,
+							155
+						]
+					},
+					{
+						"screen_name": "lucipangrazio",
+						"name": "Luci Pangrazio",
+						"id": 259647518,
+						"id_str": "259647518",
+						"indices": [
+							162,
+							176
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uOf3BwbimO",
+						"expanded_url": "https://vimeo.com/477734680",
+						"display_url": "vimeo.com/477734680",
+						"indices": [
+							177,
+							200
+						]
+					},
+					{
+						"url": "https://t.co/rZ3KY6OdWo",
+						"expanded_url": "https://blogs.shu.ac.uk/doingdatadifferently/events/#colloquium",
+						"display_url": "blogs.shu.ac.uk/doingdatadiffe…",
+						"indices": [
+							246,
+							269
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21324520,
+				"id_str": "21324520",
+				"name": "Ian Guest",
+				"screen_name": "IaninSheffield",
+				"location": "Sheffield, Yorkshire",
+				"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+				"url": "https://t.co/SUuFhgyQxD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SUuFhgyQxD",
+								"expanded_url": "https://cpdin140.wordpress.com",
+								"display_url": "cpdin140.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3185,
+				"friends_count": 3809,
+				"listed_count": 195,
+				"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+				"favourites_count": 766,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11589,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DEDAF4",
+				"profile_text_color": "A05D0E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really good. Love the questions at the end\nhttps://t.co/qJhGTuHA0M\n\nThe whole colloquium is really good - I like this model https://t.co/w4588MC9sA"
+	},
+	{
+		"created_at": "Mon Nov 16 15:40:25 +0000 2020",
+		"id": 1328362295806800000,
+		"id_str": "1328362295806799872",
+		"full_text": "@RevolutApp Just wanted to declare a public thanks for the help I've received from @RevolutApp in successfully resolving an issue. https://t.co/aB1RgISi0c",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RevolutApp",
+					"name": "Revolut",
+					"id": 2676313880,
+					"id_str": "2676313880",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "RevolutApp",
+					"name": "Revolut",
+					"id": 2676313880,
+					"id_str": "2676313880",
+					"indices": [
+						83,
+						94
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1328362287145644000,
+					"id_str": "1328362287145644033",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Em9KdlJXcAEt1N2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Em9KdlJXcAEt1N2.jpg",
+					"url": "https://t.co/aB1RgISi0c",
+					"display_url": "pic.twitter.com/aB1RgISi0c",
+					"expanded_url": "https://twitter.com/IaninSheffield/status/1328362295806799872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328362287145644000,
+					"id_str": "1328362287145644033",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Em9KdlJXcAEt1N2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Em9KdlJXcAEt1N2.jpg",
+					"url": "https://t.co/aB1RgISi0c",
+					"display_url": "pic.twitter.com/aB1RgISi0c",
+					"expanded_url": "https://twitter.com/IaninSheffield/status/1328362295806799872/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Em9KdlJXcAEt1N2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1328245500924076000,
+		"in_reply_to_status_id_str": "1328245500924076033",
+		"in_reply_to_user_id": 2676313880,
+		"in_reply_to_user_id_str": "2676313880",
+		"in_reply_to_screen_name": "RevolutApp",
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3185,
+			"friends_count": 3809,
+			"listed_count": 195,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RevolutApp Just wanted to declare a public thanks for the help I've received from @RevolutApp in successfully resolving an issue. https://t.co/aB1RgISi0c"
+	},
+	{
 		"created_at": "Sun Nov 15 20:11:48 +0000 2020",
 		"id": 1328060330392490000,
 		"id_str": "1328068203789099008",
