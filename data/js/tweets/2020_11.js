@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 17 18:00:02 +0000 2020",
+		"id": 1328759816320290800,
+		"id_str": "1328759816320290823",
+		"full_text": "The 6th vid for our online colloquium ‘Why talk about data (in education)?' is 'Destabilising data: Creative data visualisation and professional dialogue' by Cathy Burnett &amp; @GuyMerchant \nhttps://t.co/ibWFMXmZ7P\n\nJoin us, 19th Nov for the panel discussion https://t.co/rZ3KY75ONW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuyMerchant",
+					"name": "Guy Merchant",
+					"id": 20843741,
+					"id_str": "20843741",
+					"indices": [
+						178,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ibWFMXmZ7P",
+					"expanded_url": "https://vimeo.com/479001932",
+					"display_url": "vimeo.com/479001932",
+					"indices": [
+						192,
+						215
+					]
+				},
+				{
+					"url": "https://t.co/rZ3KY75ONW",
+					"expanded_url": "https://blogs.shu.ac.uk/doingdatadifferently/events/#colloquium",
+					"display_url": "blogs.shu.ac.uk/doingdatadiffe…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3184,
+			"friends_count": 3809,
+			"listed_count": 195,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 6th vid for our online colloquium ‘Why talk about data (in education)?' is 'Destabilising data: Creative data visualisation and professional dialogue' by Cathy Burnett &amp; @GuyMerchant \nhttps://t.co/ibWFMXmZ7P\n\nJoin us, 19th Nov for the panel discussion https://t.co/rZ3KY75ONW"
+	},
+	{
+		"created_at": "Tue Nov 17 15:50:55 +0000 2020",
+		"id": 1328727126514806800,
+		"id_str": "1328727323936497664",
+		"full_text": "This is an important project. Looking forward to dive into it. https://t.co/GmH0hMMCeM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GmH0hMMCeM",
+					"expanded_url": "https://twitter.com/IaninSheffield/status/1327672645094141955",
+					"display_url": "twitter.com/IaninSheffield…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192867008,
+			"id_str": "1192867008",
+			"name": "Elna Mortensen",
+			"screen_name": "elnamortensen1",
+			"location": "Aarhus, Denmark",
+			"description": "Freelancer. Literature, culture, globalization, cultural participation, creativity and innovation, education.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 680,
+			"listed_count": 21,
+			"created_at": "Mon Feb 18 11:27:01 +0000 2013",
+			"favourites_count": 1949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/504333964434079745/hRk8kjy7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/504333964434079745/hRk8kjy7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192867008/1409078088",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1327672645094142000,
+		"quoted_status_id_str": "1327672645094141955",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GmH0hMMCeM",
+			"expanded": "https://twitter.com/IaninSheffield/status/1327672645094141955",
+			"display": "twitter.com/IaninSheffield…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 14 18:00:00 +0000 2020",
+			"id": 1327672645094142000,
+			"id_str": "1327672645094141955",
+			"full_text": "The 3rd think piece in our online colloquium ‘Why talk about data (in education)?':\n'The surprising non-appearance of the datafied school?' by @Neil_Selwyn &amp; @lucipangrazio\nhttps://t.co/uOf3BwbimO\nJoin us on 19th Nov for the panel discussion https://t.co/rZ3KY6OdWo\n#DDDExhibition",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DDDExhibition",
+						"indices": [
+							270,
+							284
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Neil_Selwyn",
+						"name": "Neil Selwyn",
+						"id": 142598896,
+						"id_str": "142598896",
+						"indices": [
+							143,
+							155
+						]
+					},
+					{
+						"screen_name": "lucipangrazio",
+						"name": "Luci Pangrazio",
+						"id": 259647518,
+						"id_str": "259647518",
+						"indices": [
+							162,
+							176
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uOf3BwbimO",
+						"expanded_url": "https://vimeo.com/477734680",
+						"display_url": "vimeo.com/477734680",
+						"indices": [
+							177,
+							200
+						]
+					},
+					{
+						"url": "https://t.co/rZ3KY6OdWo",
+						"expanded_url": "https://blogs.shu.ac.uk/doingdatadifferently/events/#colloquium",
+						"display_url": "blogs.shu.ac.uk/doingdatadiffe…",
+						"indices": [
+							246,
+							269
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21324520,
+				"id_str": "21324520",
+				"name": "Ian Guest",
+				"screen_name": "IaninSheffield",
+				"location": "Sheffield, Yorkshire",
+				"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+				"url": "https://t.co/SUuFhgyQxD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SUuFhgyQxD",
+								"expanded_url": "https://cpdin140.wordpress.com",
+								"display_url": "cpdin140.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3184,
+				"friends_count": 3809,
+				"listed_count": 195,
+				"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+				"favourites_count": 767,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11592,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DEDAF4",
+				"profile_text_color": "A05D0E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is an important project. Looking forward to dive into it. https://t.co/GmH0hMMCeM"
+	},
+	{
 		"created_at": "Mon Nov 16 20:30:15 +0000 2020",
 		"id": 1328434414569877500,
 		"id_str": "1328435233318969346",
