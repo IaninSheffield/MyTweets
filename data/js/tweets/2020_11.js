@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 25 21:51:18 +0000 2020",
+		"id": 1331717122452566000,
+		"id_str": "1331717122452566017",
+		"full_text": "Catching up with #168 of the 'Reply All' @replyall podcast (https://t.co/RP2DKXu9wz) which discussed @hedonometer\nI like it! Also suspect I'll be losing the next couple(?) of hours exploring its timeline. https://t.co/kUs9QZUgqe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "replyall",
+					"name": "Reply All",
+					"id": 2871094552,
+					"id_str": "2871094552",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"screen_name": "hedonometer",
+					"name": "hedonometer",
+					"id": 611941887,
+					"id_str": "611941887",
+					"indices": [
+						101,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RP2DKXu9wz",
+					"expanded_url": "https://gimletmedia.com/shows/reply-all/kwh96n/168-happiness-calculator-vs-alex-goldman",
+					"display_url": "gimletmedia.com/shows/reply-al…",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/kUs9QZUgqe",
+					"expanded_url": "https://twitter.com/hedonometer/status/1325491017030754305",
+					"display_url": "twitter.com/hedonometer/st…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3185,
+			"friends_count": 3806,
+			"listed_count": 195,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1325491017030754300,
+		"quoted_status_id_str": "1325491017030754305",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kUs9QZUgqe",
+			"expanded": "https://twitter.com/hedonometer/status/1325491017030754305",
+			"display": "twitter.com/hedonometer/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 08 17:30:59 +0000 2020",
+			"id": 1325491017030754300,
+			"id_str": "1325491017030754305",
+			"full_text": "A short thread on what we’ve measured in the last 5 days, from Election day through to yesterday, when Biden was projected to become president-elect. https://t.co/ifhvWVpgUS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1325491013511766000,
+						"id_str": "1325491013511766017",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/EmUXDdVXYAEYtdE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmUXDdVXYAEYtdE.jpg",
+						"url": "https://t.co/ifhvWVpgUS",
+						"display_url": "pic.twitter.com/ifhvWVpgUS",
+						"expanded_url": "https://twitter.com/hedonometer/status/1325491017030754305/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1167,
+								"h": 810,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1167,
+								"h": 810,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1325491013511766000,
+						"id_str": "1325491013511766017",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/EmUXDdVXYAEYtdE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmUXDdVXYAEYtdE.jpg",
+						"url": "https://t.co/ifhvWVpgUS",
+						"display_url": "pic.twitter.com/ifhvWVpgUS",
+						"expanded_url": "https://twitter.com/hedonometer/status/1325491017030754305/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1167,
+								"h": 810,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1167,
+								"h": 810,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 611941887,
+				"id_str": "611941887",
+				"name": "hedonometer",
+				"screen_name": "hedonometer",
+				"location": "Burlington, VT",
+				"description": "Real-time online measurement of sadness-happiness | created by @peterdodds @chrisdanforth @andyreagan. Research: @compstorylab, consulting: https://t.co/18MQa9ErmN",
+				"url": "https://t.co/eV83gjgBDG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eV83gjgBDG",
+								"expanded_url": "http://www.hedonometer.org",
+								"display_url": "hedonometer.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/18MQa9ErmN",
+								"expanded_url": "http://quokkalabs.io",
+								"display_url": "quokkalabs.io",
+								"indices": [
+									140,
+									163
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8484,
+				"friends_count": 19,
+				"listed_count": 113,
+				"created_at": "Mon Jun 18 17:49:05 +0000 2012",
+				"favourites_count": 452,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1181,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3340772439/3a76d05bfcb66fdaa01e78db80278478_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3340772439/3a76d05bfcb66fdaa01e78db80278478_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/611941887/1591014171",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 239,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Catching up with #168 of the 'Reply All' @replyall podcast (https://t.co/RP2DKXu9wz) which discussed @hedonometer\nI like it! Also suspect I'll be losing the next couple(?) of hours exploring its timeline. https://t.co/kUs9QZUgqe"
+	},
+	{
 		"created_at": "Mon Nov 23 19:35:18 +0000 2020",
 		"id": 1330958120865190000,
 		"id_str": "1330958120865189888",
