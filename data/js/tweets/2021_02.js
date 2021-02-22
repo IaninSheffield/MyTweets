@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 21 16:10:38 +0000 2021",
+		"id": 1363521522615386000,
+		"id_str": "1363521522615386121",
+		"full_text": "Just catching up with @BBCClick and who should pop up but @teknoteacher ! ... and 'cardboard' computers! https://t.co/X6uFF2b55t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCClick",
+					"name": "@bbcclick",
+					"id": 7400702,
+					"id_str": "7400702",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"screen_name": "teknoteacher",
+					"name": "Alan O'Donohoe",
+					"id": 48846301,
+					"id_str": "48846301",
+					"indices": [
+						58,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X6uFF2b55t",
+					"expanded_url": "https://twitter.com/teknoteacher/status/1363102599650680834",
+					"display_url": "twitter.com/teknoteacher/s…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3183,
+			"friends_count": 3796,
+			"listed_count": 192,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363102599650680800,
+		"quoted_status_id_str": "1363102599650680834",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X6uFF2b55t",
+			"expanded": "https://twitter.com/teknoteacher/status/1363102599650680834",
+			"display": "twitter.com/teknoteacher/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 20 12:25:59 +0000 2021",
+			"id": 1363102599650680800,
+			"id_str": "1363102599650680834",
+			"full_text": "Crikey - I've just seen the time! Need to quickly get my shirt on and arrange my cardboard computers as I'll be appearing back on @BBCNews channel at about 12.47. 😜 https://t.co/U6nVdfSvx4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BBCNews",
+						"name": "BBC News (UK)",
+						"id": 612473,
+						"id_str": "612473",
+						"indices": [
+							130,
+							138
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1363102597754876000,
+						"id_str": "1363102597754875909",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/Euq2lzOXcAUfgAS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Euq2lzOXcAUfgAS.jpg",
+						"url": "https://t.co/U6nVdfSvx4",
+						"display_url": "pic.twitter.com/U6nVdfSvx4",
+						"expanded_url": "https://twitter.com/teknoteacher/status/1363102599650680834/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 903,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1436,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1363102597754876000,
+						"id_str": "1363102597754875909",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/Euq2lzOXcAUfgAS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Euq2lzOXcAUfgAS.jpg",
+						"url": "https://t.co/U6nVdfSvx4",
+						"display_url": "pic.twitter.com/U6nVdfSvx4",
+						"expanded_url": "https://twitter.com/teknoteacher/status/1363102599650680834/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 903,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1436,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48846301,
+				"id_str": "48846301",
+				"name": "Alan O'Donohoe",
+				"screen_name": "teknoteacher",
+				"location": " Preston | Bradford | UK",
+				"description": "mission = \"to inspire & engage audiences in #ComputerScience and support #Computing curriculum in schools\"; #Computational Tinkerer; #work: @exafoundation",
+				"url": "https://t.co/4XFHfrhwgO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4XFHfrhwgO",
+								"expanded_url": "https://exa.foundation",
+								"display_url": "exa.foundation",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11975,
+				"friends_count": 3062,
+				"listed_count": 431,
+				"created_at": "Fri Jun 19 22:10:53 +0000 2009",
+				"favourites_count": 16399,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42867,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1362476721103069185/triRi00x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362476721103069185/triRi00x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48846301/1563895564",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 77,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just catching up with @BBCClick and who should pop up but @teknoteacher ! ... and 'cardboard' computers! https://t.co/X6uFF2b55t"
+	},
+	{
 		"created_at": "Tue Feb 16 08:18:43 +0000 2021",
 		"id": 1361434450622570500,
 		"id_str": "1361590821607378946",
