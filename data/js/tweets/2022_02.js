@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 21:11:39 +0000 2022",
+		"id": 1495892983799029800,
+		"id_str": "1496231236175638533",
+		"full_text": "We are excited to formally announce that 10 sims now have an Interactive Description feature!\n\nThis feature provides a fully-described interactive experience for learners who access our simulations while using screen reader software. \n\nSee them all here:\nhttps://t.co/Xv2Kf9F2CZ https://t.co/rjq1OtLuKV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xv2Kf9F2CZ",
+					"expanded_url": "https://phet.colorado.edu/en/simulations/filter?type=html,prototype&a11yFeatures=interactive-description",
+					"display_url": "phet.colorado.edu/en/simulations…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495892791796252700,
+					"id_str": "1495892791796252676",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FMJ6kY0VQAQI5ii.png",
+					"media_url_https": "https://pbs.twimg.com/media/FMJ6kY0VQAQI5ii.png",
+					"url": "https://t.co/rjq1OtLuKV",
+					"display_url": "pic.twitter.com/rjq1OtLuKV",
+					"expanded_url": "https://twitter.com/PhETsims/status/1495892983799029761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 363,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 363,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 363,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495892791796252700,
+					"id_str": "1495892791796252676",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FMJ6kY0VQAQI5ii.png",
+					"media_url_https": "https://pbs.twimg.com/media/FMJ6kY0VQAQI5ii.png",
+					"url": "https://t.co/rjq1OtLuKV",
+					"display_url": "pic.twitter.com/rjq1OtLuKV",
+					"expanded_url": "https://twitter.com/PhETsims/status/1495892983799029761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 363,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 363,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 363,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 195887396,
+			"id_str": "195887396",
+			"name": "PhET Sims",
+			"screen_name": "PhETsims",
+			"location": "Boulder, CO",
+			"description": "Increasing #STEM literacy worldwide with free interactive simulations!   #OER #edtech #math #science #physics #chemistry Interact, Discover, and Learn!",
+			"url": "http://t.co/proIt8n7TV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/proIt8n7TV",
+							"expanded_url": "http://phet.colorado.edu/",
+							"display_url": "phet.colorado.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15360,
+			"friends_count": 13985,
+			"listed_count": 358,
+			"created_at": "Mon Sep 27 20:32:01 +0000 2010",
+			"favourites_count": 16551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101188206395973632/2oCPPhZc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101188206395973632/2oCPPhZc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/195887396/1448307318",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are excited to formally announce that 10 sims now have an Interactive Description feature!\n\nThis feature provides a fully-described interactive experience for learners who access our simulations while using screen reader software. \n\nSee them all here:\nhttps://t.co/Xv2Kf9F2CZ https://t.co/rjq1OtLuKV"
+	},
+	{
 		"created_at": "Wed Feb 16 21:08:19 +0000 2022",
 		"id": 1494056068917469200,
 		"id_str": "1494056068917469189",
