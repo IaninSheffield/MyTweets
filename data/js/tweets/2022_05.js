@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 07 19:18:17 +0000 2022",
+		"id": 1523019404887621600,
+		"id_str": "1523019404887621632",
+		"full_text": "One for the geologists? Hydrologists? Swimmers? https://t.co/myB2UcLAPf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/myB2UcLAPf",
+					"expanded_url": "https://twitter.com/xkcd_rss/status/1522682298956722180",
+					"display_url": "twitter.com/xkcd_rss/statu…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3114,
+			"friends_count": 3746,
+			"listed_count": 183,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1522682298956722200,
+		"quoted_status_id_str": "1522682298956722180",
+		"quoted_status_permalink": {
+			"url": "https://t.co/myB2UcLAPf",
+			"expanded": "https://twitter.com/xkcd_rss/status/1522682298956722180",
+			"display": "twitter.com/xkcd_rss/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 06 20:58:44 +0000 2022",
+			"id": 1522682298956722200,
+			"id_str": "1522682298956722180",
+			"full_text": "Deep End https://t.co/NR7A6oW5Nj https://t.co/cdjYjhIXYM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NR7A6oW5Nj",
+						"expanded_url": "https://xkcd.com/2616/",
+						"display_url": "xkcd.com/2616/",
+						"indices": [
+							9,
+							32
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1522682297111175200,
+						"id_str": "1522682297111175170",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/FSGne1EWYAIcOf5.png",
+						"media_url_https": "https://pbs.twimg.com/media/FSGne1EWYAIcOf5.png",
+						"url": "https://t.co/cdjYjhIXYM",
+						"display_url": "pic.twitter.com/cdjYjhIXYM",
+						"expanded_url": "https://twitter.com/xkcd_rss/status/1522682298956722180/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 555,
+								"h": 321,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 555,
+								"h": 321,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 555,
+								"h": 321,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1522682297111175200,
+						"id_str": "1522682297111175170",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/FSGne1EWYAIcOf5.png",
+						"media_url_https": "https://pbs.twimg.com/media/FSGne1EWYAIcOf5.png",
+						"url": "https://t.co/cdjYjhIXYM",
+						"display_url": "pic.twitter.com/cdjYjhIXYM",
+						"expanded_url": "https://twitter.com/xkcd_rss/status/1522682298956722180/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 555,
+								"h": 321,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 555,
+								"h": 321,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 555,
+								"h": 321,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2365952432,
+				"id_str": "2365952432",
+				"name": "xkcd",
+				"screen_name": "xkcd_rss",
+				"location": "",
+				"description": "Unofficial XKCD Twitter RSS Stream.",
+				"url": "http://t.co/XXpSS8OeSl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XXpSS8OeSl",
+								"expanded_url": "http://xkcd.com",
+								"display_url": "xkcd.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6880,
+				"friends_count": 2,
+				"listed_count": 74,
+				"created_at": "Fri Feb 28 18:05:13 +0000 2014",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1283,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439461817891311617/FywEuhHg_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439461817891311617/FywEuhHg_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2365952432/1393611149",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One for the geologists? Hydrologists? Swimmers? https://t.co/myB2UcLAPf"
+	},
+	{
 		"created_at": "Fri May 06 18:24:52 +0000 2022",
 		"id": 1522643574428520400,
 		"id_str": "1522643574428520450",
