@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 15 19:28:36 +0000 2022",
+		"id": 1525921105956987000,
+		"id_str": "1525921105956986883",
+		"full_text": "Thoroughly deserved. Hearty congratulations 👋\nDoes that mean you're now @docterama? Or Drama? 😉 https://t.co/4fiAPfIFx0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4fiAPfIFx0",
+					"expanded_url": "https://twitter.com/largerama/status/1525388704847581184",
+					"display_url": "twitter.com/largerama/stat…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21324520,
+			"id_str": "21324520",
+			"name": "Ian Guest",
+			"screen_name": "IaninSheffield",
+			"location": "Sheffield, Yorkshire",
+			"description": "Former Physics teacher, former Head of ELearning ... and still learning. PhD in teacher professional learning with Twitter.",
+			"url": "https://t.co/SUuFhgyQxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUuFhgyQxD",
+							"expanded_url": "https://cpdin140.wordpress.com",
+							"display_url": "cpdin140.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3112,
+			"friends_count": 3745,
+			"listed_count": 183,
+			"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+			"favourites_count": 775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDAF4",
+			"profile_text_color": "A05D0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1525388704847581200,
+		"quoted_status_id_str": "1525388704847581184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4fiAPfIFx0",
+			"expanded": "https://twitter.com/largerama/status/1525388704847581184",
+			"display": "twitter.com/largerama/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 14 08:13:02 +0000 2022",
+			"id": 1525388704847581200,
+			"id_str": "1525388704847581184",
+			"full_text": "I recently became Dr after 8yrs P/T research on digital leaders &amp; their impacts on teachers knowledge and practice. I just wanted to acknowledge the inspiration/support of @gr8ict @ICTEvangelist @SheliBB @ChrisMayoh @KristianStill @danielstucke @BobHarrisonEdu @IaninSheffield TY!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gr8ict",
+						"name": "gr8ict",
+						"id": 18912443,
+						"id_str": "18912443",
+						"indices": [
+							176,
+							183
+						]
+					},
+					{
+						"screen_name": "ICTEvangelist",
+						"name": "Mark Anderson FCCT 💛✨👨🏽‍🏫🏆🌈",
+						"id": 114015711,
+						"id_str": "114015711",
+						"indices": [
+							184,
+							198
+						]
+					},
+					{
+						"screen_name": "SheliBB",
+						"name": "Sheli Blackburn 🌈",
+						"id": 47151787,
+						"id_str": "47151787",
+						"indices": [
+							199,
+							207
+						]
+					},
+					{
+						"screen_name": "chrismayoh",
+						"name": "Chris Mayoh",
+						"id": 16841446,
+						"id_str": "16841446",
+						"indices": [
+							208,
+							219
+						]
+					},
+					{
+						"screen_name": "KristianStill",
+						"name": "Kristian Still",
+						"id": 815781,
+						"id_str": "815781",
+						"indices": [
+							220,
+							234
+						]
+					},
+					{
+						"screen_name": "danielstucke",
+						"name": "Daniel Stucke",
+						"id": 774137,
+						"id_str": "774137",
+						"indices": [
+							235,
+							248
+						]
+					},
+					{
+						"screen_name": "BobHarrisonEdu",
+						"name": "Professor Bob Harrison",
+						"id": 911696520696795100,
+						"id_str": "911696520696795137",
+						"indices": [
+							249,
+							264
+						]
+					},
+					{
+						"screen_name": "IaninSheffield",
+						"name": "Ian Guest",
+						"id": 21324520,
+						"id_str": "21324520",
+						"indices": [
+							265,
+							280
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82992519,
+				"id_str": "82992519",
+				"name": "Dr Nick Jackson",
+				"screen_name": "largerama",
+				"location": "Australia",
+				"description": "Education, innovation and adventure. Head of Digital Technologies and Learner Management Systems. Very passionate about https://t.co/gy2JXSTymJ",
+				"url": "https://t.co/KZsywSXE48",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KZsywSXE48",
+								"expanded_url": "http://largerama.creativeblogs.net",
+								"display_url": "largerama.creativeblogs.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gy2JXSTymJ",
+								"expanded_url": "http://ozdls.com",
+								"display_url": "ozdls.com",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4035,
+				"friends_count": 3488,
+				"listed_count": 186,
+				"created_at": "Fri Oct 16 22:40:10 +0000 2009",
+				"favourites_count": 517,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16369,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1204760208/myavatar_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204760208/myavatar_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82992519/1573206936",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thoroughly deserved. Hearty congratulations 👋\nDoes that mean you're now @docterama? Or Drama? 😉 https://t.co/4fiAPfIFx0"
+	},
+	{
 		"created_at": "Sat May 07 19:18:17 +0000 2022",
 		"id": 1523019404887621600,
 		"id_str": "1523019404887621632",
