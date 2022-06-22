@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 18:36:04 +0000 2022",
+		"id": 1539169638294200300,
+		"id_str": "1539316234709135360",
+		"full_text": "VERY happy to share Episode 4 of the Ruling Passions Podcast - a great conversation with Billie about their interests in politics and mental health.  \n\n[please note the content warnings for this episode.]\n\n#ActuallyAutistic \n\nhttps://t.co/6L8Cm3FKEU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ActuallyAutistic",
+					"indices": [
+						206,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6L8Cm3FKEU",
+					"expanded_url": "https://ruling-passions.com/category/podcast/",
+					"display_url": "ruling-passions.com/category/podca…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1451517399778402300,
+			"id_str": "1451517399778402353",
+			"name": "Ruling Passions",
+			"screen_name": "rulingpassions_",
+			"location": "Sheffield, England",
+			"description": "Podcast and research project exploring autistic adults' interests and passions. Project led by @drchrisjbailey #actuallyautistic",
+			"url": "https://t.co/7LBf0gLepA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LBf0gLepA",
+							"expanded_url": "https://rulingpassions.wordpress.com",
+							"display_url": "rulingpassions.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 140,
+			"listed_count": 0,
+			"created_at": "Fri Oct 22 11:55:44 +0000 2021",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451517902222467081/_suVnVMw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451517902222467081/_suVnVMw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1451517399778402353/1651498910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "VERY happy to share Episode 4 of the Ruling Passions Podcast - a great conversation with Billie about their interests in politics and mental health.  \n\n[please note the content warnings for this episode.]\n\n#ActuallyAutistic \n\nhttps://t.co/6L8Cm3FKEU"
+	},
+	{
 		"created_at": "Sun Jun 19 21:02:06 +0000 2022",
 		"id": 1538628212472815600,
 		"id_str": "1538628212472815621",
